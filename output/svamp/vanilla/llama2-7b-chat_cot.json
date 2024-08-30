@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "Mary is baking a cake. The recipe calls for 6 cups of flour 8 cups of sugar and 7 cups of salt. She already put in 5 cups of flour. How many more cups of sugar than cups of salt does she need to add now?",
+        "answer": "To find out how many more cups of sugar Mary needs to add than cups of salt, we need to subtract the number of cups of salt from the total amount of sugar needed.\nMary already put in 5 cups of flour, so the total amount of flour needed is 6 - 5 = 1 cup.\nThe recipe calls for 8 cups of sugar and 7 cups of salt. Therefore, Mary needs to add 8 - 7 = 1 more cup of sugar than salt.\nThe answer is 1."
+    },
+    {
+        "question": "Paul got a box of some crayons for his birthday. During the school year he gave 52 crayons to his friends while he lost 535 crayons. If he only had 492 crayons left How many crayons had been lost or given away?",
+        "answer": "To find out how many crayons Paul had lost or given away, we need to subtract the number of crayons he had left from the total number of crayons he had.\nPaul had 492 crayons left after losing or giving away 535 crayons. Therefore, the difference is 492 - 535 = -143 crayons.\nSo, Paul had 143 crayons lost or given away.\nThe answer is -143."
+    },
+    {
+        "question": "Robin's hair was 16 inches long. He cut off 11 inches. Then it again grew by 12 inches. How long is his hair now?",
+        "answer": "To find out how long Robin's hair is now, we need to add the original length of his hair, the length he cut off, and the length it grew again.\nRobin's hair was originally 16 inches long, he cut off 11 inches, and it grew by 12 inches. So, the total length of his hair now is:\n16 + 11 - 12 = 15 inches.\nTherefore, Robin's hair is 15 inches long now.\nThe answer is 15."
+    },
+    {
+        "question": "Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles. How many more marbles did he lose than those he found?",
+        "answer": "To find the difference between the number of marbles Josh lost and the number he found, we need to subtract the number he found from the number he lost.\nJosh found 9 marbles and lost 23 marbles, so the difference is 9 - 23 = -14.\nTherefore, Josh lost 14 more marbles than he found.\nThe answer is -14."
+    },
+    {
+        "question": "Ed had 29 more marbles than Doug. Ed lost 17 of his marbles at the playground. How many more marbles did Ed have than Doug then?",
+        "answer": "Ed had 29 more marbles than Doug, and he lost 17 of his marbles at the playground.\nSo, Ed had 29 - 17 = 12 more marbles than Doug after losing some marbles.\nTherefore, Ed had 12 more marbles than Doug after losing some marbles.\nThe answer is 12."
+    },
+    {
+        "question": "Paco had 25 cookies. He ate 5 of them. Then he bought 3 more cookies How many more cookies did he eat than those he bought?",
+        "answer": "To find the difference between the number of cookies Paco ate and the number he bought, we need to subtract the number of cookies he ate from the number he bought.\nPaco ate 5 cookies and bought 3 more, so the difference is 5 - 3 = 2.\nTherefore, Paco ate 2 more cookies than he bought.\nThe answer is 2."
+    },
+    {
+        "question": "Paul had 71 books. After selling some in a garage sale he bought 38 new ones. If he has 116 books now How many more books did he buy than he sold?",
+        "answer": "To find out how many more books Paul bought than he sold, we need to subtract the number of books he sold from the number of books he has now.\nPaul had 71 books and sold some, so he has 116 books now. He sold 71 - 38 = 33 books.\nTherefore, Paul bought 33 more books than he sold.\nThe answer is 33."
+    },
+    {
+        "question": "We ordered 9 pizzas. Each pizza has 10 slices. If there are 2 of us How many slices of pizza does each of us get if distributed equally?",
+        "answer": "To find out how many slices of pizza each person gets if they are distributed equally, we need to divide the total number of slices by the number of people.\nThere are 9 pizzas, and each pizza has 10 slices, so the total number of slices is 9 x 10 = 90.\nIf there are 2 of us, we will get 90 / 2 = 45 slices of pizza each.\nTherefore, each of us gets 45 slices of pizza if they are distributed equally.\nThe answer is 45."
+    },
+    {
+        "question": "A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples. How many more bottles than apple did they have?",
+        "answer": "To find the difference between the number of bottles and apples, we need to subtract the number of apples from the number of bottles.\nThe grocery store had 72 bottles of regular soda, 32 bottles of diet soda, and 78 apples. Therefore, the difference between the number of bottles and apples is 72 - 78 = -6.\nSo, the grocery store had 6 fewer bottles than apples.\nThe answer is -6."
+    },
+    {
+        "question": "In a school there are 569 girls and 236 boys. How many more girls than boys does the school have?",
+        "answer": "To find the difference between the number of girls and boys in the school, we need to subtract the number of boys from the number of girls.\nThere are 569 girls and 236 boys, so the difference is 569 - 236 = 333.\nTherefore, the school has 333 more girls than boys.\nThe answer is 333."
+    },
+    {
+        "question": "Lewis earns $ 403 every week during the 233 weeks of harvest. If he has to pay $ 49 rent every week How much money does he earn during harvest season?",
+        "answer": "Lewis earns $403 every week during the 233 weeks of harvest.\nIf he has to pay $49 rent every week, he will have $403 - $49 = $354 left after paying rent.\nTherefore, Lewis earns $354 during harvest season.\nThe answer is $354."
+    },
+    {
+        "question": "Jessie weighed 92 kilograms. After she started to go jogging everyday she lost 56 kilograms in the first week and 99 kilograms in the second week. How much did she weigh after the first week of jogging?",
+        "answer": "Jessie weighed 92 kilograms at the start, and after the first week of jogging, she lost 56 kilograms, so she weighed 92 - 56 = 36 kilograms.\nTherefore, Jessie weighed 36 kilograms after the first week of jogging.\nThe answer is 36."
+    },
+    {
+        "question": "A farmer had 175 tomatoes and 77 potatoes in his garden. If he picked 172 potatoes How many tomatoes and potatoes does he have left?",
+        "answer": "The farmer had 77 potatoes in his garden and picked 172 potatoes. Therefore, he has 77 - 172 = -95 potatoes left.\nHe also had 175 tomatoes in his garden and picked 172 tomatoes. So, he has 175 - 172 = 3 tomatoes left.\nThe answer is 3."
+    },
+    {
+        "question": "In a school there are 362 boys and 257 girls. 403 more girls joined the school. How many more girls than boys does the school have?",
+        "answer": "To find out how many more girls than boys the school has, we need to subtract the number of boys from the number of girls.\nThe number of girls in the school is 257 + 403 = 650.\nThe number of boys in the school is 362.\nTherefore, the school has 650 - 362 = 288 more girls than boys.\nThe answer is 288."
+    },
+    {
+        "question": "Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes. How many more cakes did baker make than those he sold?",
+        "answer": "To find out how many more cakes Baker made than those he sold, we need to subtract the number of cakes he sold from the total number of cakes he made.\nBaker made 144 cakes and sold 71 of them, so the difference is 144 - 71 = 73.\nTherefore, Baker made 73 more cakes than those he sold.\nThe answer is 73."
+    },
+    {
+        "question": "Paige raised 15 goldfish in the pond but stray cats loved eating them. 5 were eaten. How many goldfish remained?",
+        "answer": "Paige raised 15 goldfish in the pond and 5 were eaten by stray cats, so 15 - 5 = 10 goldfish remained.\nTherefore, 10 goldfish remained in the pond.\nThe answer is 10."
+    },
+    {
+        "question": "The school is planning a field trip. The school has 67 classrooms. There are 66 students in each classroom in the school. If there are 6 seats on each school bus How many buses are needed to take the trip?",
+        "answer": "To find out how many buses are needed to take the field trip, we need to divide the total number of students by the number of seats on each bus.\nThere are 66 students in each classroom, and there are 6 seats on each school bus, so the total number of students who can fit on each bus is 66 x 6 = 396.\nSince there are 67 classrooms in the school, we need to divide the total number of students by the number of students per classroom to find out how many buses are needed: 396 / 66 = 6.\nTherefore, the school needs 6 buses to take the field trip.\nThe answer is 6."
+    },
+    {
+        "question": "For the walls of the house he would use 12 large planks of wood and 10 small planks. If large planks together need 15 pieces of nails to be secured and small planks together need 5 nails. How many nails does John need for the house wall?",
+        "answer": "To find out how many nails John needs for the house wall, we need to add the number of nails needed for the large planks and the number of nails needed for the small planks.\nLarge planks together need 15 pieces of nails, and small planks together need 5 nails. Therefore, John needs 15 + 5 = 20 nails for the house wall.\nThe answer is 20."
+    },
+    {
+        "question": "Edward had $ 13. He spent some money. Now he has $ 3. How much money did Edward spend?",
+        "answer": "To find out how much money Edward spent, we need to subtract the amount of money he had after spending from the amount of money he had at first.\nEdward had $ 13 at first and spent some money, so he has $ 3 now. Therefore, Edward spent $ 13 - $ 3 = $ 10.\nThe answer is $ 10."
+    },
+    {
+        "question": "They decided to hold the party in their backyard. They have some sets of tables, each having the 3 chairs. If there are a total of 9 chairs in the backyard How many sets of tables do they have?",
+        "answer": "To find out how many sets of tables they have, we need to divide the total number of chairs by the number of chairs in each set.\nThere are 9 chairs in the backyard, and each set of tables has 3 chairs. Therefore, the number of sets of tables is 9 / 3 = 3.\nSo, they have 3 sets of tables.\nThe answer is 3."
+    },
+    {
+        "question": "Jerry had some action figures on a shelf in his room. Later he added 2 more action figures to the shelf and removed 7 of the old ones. If there are 10 action figures on his shelf now How many action figures did he have initially on the shelf?",
+        "answer": "Jerry had 10 action figures on his shelf after adding 2 and removing 7.\nSo, he had 10 - 7 = 3 action figures on his shelf initially.\nTherefore, Jerry had 3 action figures on his shelf initially.\nThe answer is 3."
+    },
+    {
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 8 sacks per day. How many days will it take to harvest 24 sacks of oranges?",
+        "answer": "To find out how many days it will take to harvest 24 sacks of oranges, we need to divide the number of sacks by the number of sacks per day.\n24 sacks / 8 sacks per day = 3 days\nTherefore, it will take 3 days to harvest 24 sacks of oranges.\nThe answer is 3."
+    },
+    {
+        "question": "Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. If Ed had 91 marbles How many more marbles did Ed have than Doug then?",
+        "answer": "To find out how many more marbles Ed had than Doug, we need to subtract the number of marbles Ed lost from the number of marbles he had initially.\nEd had 91 marbles and lost 21 marbles, so the difference is 91 - 21 = 70.\nTherefore, Ed had 70 more marbles than Doug.\nThe answer is 70."
+    },
+    {
+        "question": "Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her How much money did she have initially?",
+        "answer": "Olivia spent 78 dollars at the supermarket and has 33 dollars left with her.\nSo, she had 78 - 33 = 45 dollars initially.\nTherefore, Olivia had 45 dollars initially.\nThe answer is 45."
+    },
+    {
+        "question": "Lewis earns $ 21 every week during the 216 weeks of harvest. If he has to pay $ 702 tax How much money will have at the end of the harvest season?",
+        "answer": "Lewis earns $21 per week during the 216 weeks of harvest, so he earns a total of $21 x 216 = $4,416 during the harvest season.\nIf he has to pay $702 in tax, then he will have $4,416 - $702 = $3,714 left after paying tax.\nTherefore, Lewis will have $3,714 at the end of the harvest season.\nThe answer is $3,714."
+    },
+    {
+        "question": "A waiter had 12 customers. While 15 customers left he got 14 new customers. How many customers does he still have?",
+        "answer": "The waiter had 12 customers initially and 15 customers left, so he had 12 - 15 = -3 customers left.\nHowever, he got 14 new customers, so he now has 14 + 3 = 17 customers.\nTherefore, the waiter still has 17 customers.\nThe answer is 17."
+    },
+    {
+        "question": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 92 visitors came to the Buckingham palace that day. If there were 419 visitors the previous day and 103 visitors the day before that How many visited the Buckingham palace before that day?",
+        "answer": "To find out how many visitors came to the Buckingham palace before the day Rachel visited, we need to find the difference between the total number of visitors on the previous days and the number of visitors on the day Rachel visited.\nThe total number of visitors on the previous days is 419 + 103 = 522 visitors.\nTherefore, the number of visitors who came to the Buckingham palace before Rachel's day is 522 - 92 = 430 visitors.\nThe answer is 430."
+    },
+    {
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day and that each sack containes 25 oranges. How many oranges will they have after 87 days of harvest?",
+        "answer": "To find out how many oranges they will have after 87 days of harvest, we need to multiply the number of sacks they harvest per day by the number of oranges in each sack.\nThey harvest 66 sacks per day, and each sack contains 25 oranges, so they will have 66 x 25 = 1650 oranges after 87 days of harvest.\nTherefore, they will have 1650 oranges after 87 days of harvest.\nThe answer is 1650."
+    },
+    {
+        "question": "Jack received 3 emails and 64 letters in the morning. He then received 5 emails and 54 letters in the afternoon. How many emails did jack receive in the day?",
+        "answer": "To find out how many emails Jack received in the day, we need to add the number of emails he received in the morning and afternoon.\nJack received 3 emails in the morning and 5 emails in the afternoon, so he received a total of 3 + 5 = 8 emails in the day.\nTherefore, Jack received 8 emails in the day.\nThe answer is 8."
+    },
+    {
+        "question": "Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies. How many more cookies did he eat than those he gave to his friend?",
+        "answer": "To find the difference between the number of cookies Paco ate and the number he gave to his friend, we need to subtract the number of cookies he gave to his friend from the number he ate.\nPaco gave 9 cookies to his friend and ate 18 cookies, so the difference is 18 - 9 = 9.\nTherefore, Paco ate 9 more cookies than those he gave to his friend.\nThe answer is 9."
+    },
+    {
+        "question": "Mary is baking a cake. The recipe calls for 10 cups of flour 2 cups of sugar and 80 cups of salt. She already put in 7 cups of flour. How many more cups of flour than cups of sugar does she need to add now?",
+        "answer": "To find out how many more cups of flour Mary needs to add than cups of sugar, we need to subtract the number of cups of flour she already added from the total amount of flour needed.\nThe recipe calls for 10 cups of flour, and Mary already added 7 cups. So, she needs to add 10 - 7 = 3 more cups of flour.\nTherefore, Mary needs to add 3 more cups of flour than cups of sugar.\nThe answer is 3."
+    },
+    {
+        "question": "A mailman has to give 32 pieces of junk mail to each of the 55 blocks. If he gives 8 mails to each house in a block How many houses are there in a block?",
+        "answer": "To find out how many houses are in a block, we need to divide the total number of pieces of junk mail by the number of mails the mailman gives to each house.\nThe mailman has to give 32 pieces of junk mail to each of the 55 blocks, so the total number of pieces of junk mail is 32 x 55 = 1700.\nIf he gives 8 mails to each house in a block, then there are 1700 / 8 = 212.5 houses in a block.\nSo, there are 212.5 houses in a block.\nThe answer is 212.5."
+    },
+    {
+        "question": "Paul got a box of 253 crayons for his birthday. By the end of the school year he had either lost or given away 70 of them. How many crayons did he have left by the end of the school year?",
+        "answer": "Paul had 253 crayons at the start of the school year and lost or gave away 70 of them.\nSo, he had 253 - 70 = 183 crayons left by the end of the school year.\nTherefore, Paul had 183 crayons left by the end of the school year.\nThe answer is 183."
+    },
+    {
+        "question": "Mary is baking a cake. The recipe calls for 5 cups of sugar and 13 cups of flour. She already put in some cups of flour. If she still needs 12 more cups of flour How many cups of flour did she put in?",
+        "answer": "To find out how many cups of flour Mary put in, we need to subtract the number of cups of flour she still needs from the total amount of flour required.\nThe recipe calls for 13 cups of flour, and Mary still needs 12 more cups. Therefore, Mary put in 13 - 12 = 1 cup of flour.\nThe answer is 1 cup."
+    },
+    {
+        "question": "The Razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt. During the Arkansas and Texas tech game they sold 113 t-shirts and 78 jerseys. How much more does a jersey cost than a t-shirt?",
+        "answer": "To find out how much more a jersey costs than a t-shirt, we need to subtract the cost of a t-shirt from the cost of a jersey.\nThe cost of a jersey is $ 115, and the cost of a t-shirt is $ 25.\nSo, the difference between the cost of a jersey and a t-shirt is $ 115 - $ 25 = $ 90.\nTherefore, a jersey costs $ 90 more than a t-shirt.\nThe answer is $ 90."
+    },
+    {
+        "question": "An industrial machine worked for 5 minutes. It can make 4 shirts a minute. How many shirts did machine make?",
+        "answer": "To find out how many shirts the machine made, we need to multiply the number of minutes it worked by the number of shirts it can make per minute.\nThe machine worked for 5 minutes and can make 4 shirts per minute, so it made 5 x 4 = 20 shirts.\nTherefore, the machine made 20 shirts.\nThe answer is 20."
+    },
+    {
+        "question": "The Razorback shop makes $ 192 dollars off each t-shirt and $ 34 off each jersey. During the Arkansas and Texas tech game they sold 157 t-shirts and 19 jerseys. How much more does a t-shirt cost than a jersey?",
+        "answer": "To find out how much more a t-shirt costs than a jersey, we need to subtract the cost of a jersey from the cost of a t-shirt.\nThe cost of a t-shirt is $ 192, and the cost of a jersey is $ 34. Therefore, the difference between the cost of a t-shirt and a jersey is $ 192 - $ 34 = $ 158.\nSo, a t-shirt costs $ 158 more than a jersey.\nThe answer is $ 158."
+    },
+    {
+        "question": "Lewis earns $ 368 every week during the 1359 weeks of harvest. If he has to pay $ 388 rent every week How much money does he pay as rent during the harvest season?",
+        "answer": "Lewis earns $368 every week during the 1359 weeks of harvest.\nIf he has to pay $388 rent every week, he pays $388 x 1359 = $517,702 in rent during the harvest season.\nTherefore, Lewis pays $517,702 in rent during the harvest season.\nThe answer is $517,702."
+    },
+    {
+        "question": "Danny collects bottle caps and wrappers. He found 30 bottle caps and 14 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection. How many more bottle caps than wrappers did danny find at the park?",
+        "answer": "To find the difference between the number of bottle caps and wrappers Danny found at the park, we need to subtract the number of bottle caps from the number of wrappers.\nDanny found 30 bottle caps and 14 wrappers at the park, and now he has 7 bottle caps and 86 wrappers in his collection. Therefore, the difference is 86 - 30 = 56.\nDanny found 56 more wrappers than bottle caps at the park.\nThe answer is 56."
+    },
+    {
+        "question": "Rachel had to complete 10 pages of math homework. If she had to complete 3 more pages of reading homework than math homework How many pages did she have to complete in all?",
+        "answer": "Rachel had to complete 10 pages of math homework and 3 more pages of reading homework than math homework.\nSo, she had to complete 10 + 3 = 13 pages of homework in all.\nTherefore, Rachel had to complete 13 pages of homework in all.\nThe answer is 13."
+    },
+    {
+        "question": "Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection. How many more bottle caps did danny throw away than those he found at the park?",
+        "answer": "To find the difference between the number of bottle caps Danny threw away and the number he found at the park, we need to subtract the number he found at the park from the number he threw away.\nDanny found 30 bottle caps at the park and threw away 63 old ones, so the difference is 63 - 30 = 33.\nTherefore, Danny threw away 33 more bottle caps than he found at the park.\nThe answer is 33."
+    },
+    {
+        "question": "There were 15 roses in the vase. Jessica threw away 33 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 17 roses in the vase. How many more roses did she cut than those she threw away?",
+        "answer": "To find out how many more roses Jessica cut than those she threw away, we need to subtract the number of roses she threw away from the number of roses she cut.\nJessica threw away 33 roses and cut 17 roses, so the difference is 33 - 17 = 16.\nTherefore, Jessica cut 16 more roses than those she threw away.\nThe answer is 16."
+    },
+    {
+        "question": "There are 65 baskets of peaches. Each basket has 7 red peaches and 3 green peaches. How many peaches are in each basket?",
+        "answer": "There are 65 baskets of peaches, and each basket has 7 red peaches and 3 green peaches.\nTo find out how many peaches are in each basket, we can multiply the number of red peaches by 7 and the number of green peaches by 3.\n7 x 65 = 455 red peaches\n3 x 65 = 195 green peaches\nTherefore, there are 455 red peaches and 195 green peaches in each basket.\nThe answer is 455 red peaches and 195 green peaches in each basket."
+    },
+    {
+        "question": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 235 of the pickers that they fill 100 drums of raspberries per day and 221 drums of grapes per day. How many drums of grapes would be filled in 77 days?",
+        "answer": "To find out how many drums of grapes would be filled in 77 days, we need to multiply the number of drums filled per day by 77 days.\nIf 221 drums of grapes are filled per day, then 221 x 77 = 16,577 drums of grapes would be filled in 77 days.\nTherefore, 16,577 drums of grapes would be filled in 77 days.\nThe answer is 16,577."
+    },
+    {
+        "question": "During summer break 202958 kids from Lawrence county go to camp and the other 777622 kids stay home. How many more kids stayed home compared to those who went to the camp?",
+        "answer": "To find the difference between the number of kids who went to camp and the number of kids who stayed home, we need to subtract the number of kids who went to camp from the number of kids who stayed home.\n777622 kids stayed home and 202958 kids went to camp, so the difference is 777622 - 202958 = 574664 kids.\nTherefore, 574664 more kids stayed home than went to camp.\nThe answer is 574664."
+    },
+    {
+        "question": "A mailman has to give 4 pieces of junk mail to each house in each of the 16 blocks. If there are 17 houses in each block How many pieces of junk mail should he give in total?",
+        "answer": "To find out how many pieces of junk mail the mailman should give in total, we need to multiply the number of houses in each block by the number of blocks.\nThere are 17 houses in each block, and there are 16 blocks in total. Therefore, the mailman should give 17 x 16 = 252 pieces of junk mail in total.\nThe answer is 252."
+    },
+    {
+        "question": "3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them. How many more storks than birds are sitting on the fence?",
+        "answer": "To find out how many more storks than birds are sitting on the fence, we need to compare the number of storks and birds. There are 6 more storks than birds. Therefore, there are 6 more storks than birds sitting on the fence.\nThe answer is 6."
+    },
+    {
+        "question": "There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase. How many more roses did she throw away than those she cut from her garden?",
+        "answer": "To find the difference between the number of roses Jessica threw away and the number she cut from her garden, we need to subtract the number she cut from her garden from the number she threw away.\nJessica threw away 34 roses and cut 15 roses from her garden, so the difference is 34 - 15 = 19.\nTherefore, Jessica threw away 19 more roses than she cut from her garden.\nThe answer is 19."
+    },
+    {
+        "question": "There are 6 houses on a block. If a mailman has to give 24 pieces of junk mail to each block How many pieces of junk mail should he give in each house?",
+        "answer": "To find out how many pieces of junk mail the mailman should give to each house, we need to divide the total number of pieces of junk mail by the number of houses.\nThere are 6 houses on the block, and the mailman has to give 24 pieces of junk mail to each house. Therefore, the mailman should give 24 x 6 = 144 pieces of junk mail to each house.\nThe answer is 144."
+    },
+    {
+        "question": "Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now How many more books did he sell than he bought?",
+        "answer": "To find out how many more books Paul sold than he bought, we need to subtract the number of books he has now from the number of books he sold.\nPaul has 15 books now and sold some books in a garage sale, so he has fewer books than he bought.\nThe difference is 21 (the number of books he had at the start) - 15 (the number of books he has now) = 6.\nTherefore, Paul sold 6 more books than he bought.\nThe answer is 6."
+    },
+    {
+        "question": "Bryan took a look at his books and magazines. If he has 9 books and 46 magazines in each of his 10 bookshelves How many magazines does he have in total?",
+        "answer": "Bryan has 10 bookshelves, and each bookshelf has 46 magazines. Therefore, Bryan has a total of 10 x 46 = 460 magazines.\nThe answer is 460."
+    },
+    {
+        "question": "Josh had 19 marbles in his collection. He lost 11 marbles and found 5 new ones. How many marbles does he have now?",
+        "answer": "Josh had 19 marbles in his collection and lost 11 marbles, so he has 19 - 11 = 8 marbles left. Then, he found 5 new marbles, so he has 8 + 5 = 13 marbles now.\nTherefore, Josh has 13 marbles in his collection now.\nThe answer is 13."
+    },
+    {
+        "question": "The ring toss game at the carnival made the same amount of money each day. In total in 5 days they earned 165 dollars. How much did they make per day?",
+        "answer": "To find out how much the ring toss game made per day, we need to divide the total amount of money they earned by the number of days they were open.\nThe ring toss game earned $165 in 5 days, so it made $165 / 5 = $33 per day.\nTherefore, the ring toss game made $33 per day.\nThe answer is $33."
+    },
+    {
+        "question": "Ed had 24 more marbles than Doug. Doug lost 27 of his marbles at the playground while Ed found 9 more marbles. How many more marbles did Ed have than Doug then?",
+        "answer": "To find out how many more marbles Ed had than Doug, we need to compare the number of marbles Ed had to the number of marbles Doug had after losing some.\nEd had 24 more marbles than Doug, and Doug lost 27 marbles. Therefore, Ed had 24 + 27 = 51 marbles more than Doug.\nThe answer is 51."
+    },
+    {
+        "question": "Next on his checklist is wax to stick the feathers together. If the feathers require 166 g of wax and right now he has 20 g How many more grams of wax does he need?",
+        "answer": "To find out how many more grams of wax the person needs, we need to subtract the amount of wax they have from the amount required.\nThe person needs 166 g of wax, and they currently have 20 g of wax. Therefore, they need 166 - 20 = 146 more grams of wax.\nThe answer is 146."
+    },
+    {
+        "question": "Bobby ate 33 pieces of candy. Then he ate 4 more. He also ate 14 pieces of chocolate. How many pieces of candy and chocolate did Bobby eat altogether?",
+        "answer": "To find out how many pieces of candy and chocolate Bobby ate altogether, we need to add the number of pieces of candy and chocolate he ate.\nBobby ate 33 pieces of candy and 4 more, so he ate a total of 33 + 4 = 37 pieces of candy.\nHe also ate 14 pieces of chocolate.\nTherefore, Bobby ate 37 pieces of candy and 14 pieces of chocolate altogether.\nThe answer is 51."
+    },
+    {
+        "question": "At the arcade Dave had won 14 tickets and lost 2 tickets. If he used 10 to buy some toys How many tickets did Dave have left?",
+        "answer": "Dave had 14 tickets and lost 2 tickets, so he had 14 - 2 = 12 tickets left.\nThen, he used 10 tickets to buy some toys, so he had 12 - 10 = 2 tickets left.\nTherefore, Dave had 2 tickets left.\nThe answer is 2."
+    },
+    {
+        "question": "Jessie currently weighs 27 kilograms. After she started to go jogging everyday she lost 101 kilograms. How much did she weigh before starting to jog?",
+        "answer": "Jessie currently weighs 27 kilograms and lost 101 kilograms after starting to go jogging every day.\nSo, she weighed 27 + 101 = 128 kilograms before starting to jog.\nTherefore, Jessie weighed 128 kilograms before starting to jog.\nThe answer is 128."
+    },
+    {
+        "question": "Jesse's room is 7 feet long. If she needs a carpet of size 14 square feet What is the width of her room?",
+        "answer": "To find the width of Jesse's room, we need to divide the size of the carpet by the length of the room.\nThe carpet is 14 square feet, and the room is 7 feet long, so we can divide 14 by 7 to find the width of the room.\n14 \u00f7 7 = 2\nTherefore, the width of Jesse's room is 2 feet.\nThe answer is 2."
+    },
+    {
+        "question": "A grocery store had 67 bottles of regular soda and 9 bottles of diet soda. How many more bottles of regular soda than diet soda did they have?",
+        "answer": "To find the difference between the number of bottles of regular soda and diet soda, we need to subtract the number of bottles of diet soda from the number of bottles of regular soda.\nThe grocery store had 67 bottles of regular soda and 9 bottles of diet soda, so the difference is 67 - 9 = 58.\nTherefore, the grocery store had 58 more bottles of regular soda than diet soda.\nThe answer is 58."
+    },
+    {
+        "question": "In a school there are 635 girls and the rest are boys. If there are 510 more boys than girls How many boys are there in that school?",
+        "answer": "To find the number of boys in the school, we need to add the number of girls to the number of boys.\nThere are 635 girls and 510 more boys than girls, so the total number of boys is 635 + 510 = 1145 boys.\nTherefore, there are 1145 boys in that school.\nThe answer is 1145."
+    },
+    {
+        "question": "The Ferris wheel in paradise park has 6 seats. Each seat can hold 14 people. If there are 16 people on the wheel right now How many more people can join the wheel?",
+        "answer": "To find out how many more people can join the Ferris wheel, we need to subtract the number of people already on the wheel from the total capacity of the wheel.\nThe Ferris wheel has 6 seats and each seat can hold 14 people, so the total capacity of the wheel is 6 x 14 = 84 people.\nThere are 16 people already on the wheel, so we can add 84 - 16 = 68 more people to the wheel.\nTherefore, 68 more people can join the Ferris wheel.\nThe answer is 68."
+    },
+    {
+        "question": "Frank was reading through his favorite book. The book had 193 pages equally distributed over 15 chapters. It took Frank 660 days to finish the book. How many chapters did he read per day?",
+        "answer": "To find out how many chapters Frank read per day, we need to divide the number of pages in the book by the number of days it took him to finish the book.\nThere are 193 pages in the book, and it took Frank 660 days to finish it. Therefore, he read 193 / 660 = 0.29 chapters per day.\nThe answer is 0.29."
+    },
+    {
+        "question": "After Jessie started to go jogging everyday she lost 35 kilograms. She weighed 69 kilograms before beginning jogging. How much does she weigh now?",
+        "answer": "Jessie weighed 69 kilograms before beginning to go jogging every day. After losing 35 kilograms, she now weighs 69 - 35 = 34 kilograms.\nTherefore, Jessie now weighs 34 kilograms.\nThe answer is 34."
+    },
+    {
+        "question": "Last week Fred had 47 dollars and Jason had 99 dollars. Over the weekend Fred delivered newspapers earning 111 dollars and washed cars earning 34 dollars. How much money does Fred have now?",
+        "answer": "Fred had 47 dollars last week and earned 111 dollars from delivering newspapers and 34 dollars from washing cars over the weekend.\nSo, Fred has 47 + 111 + 34 = 192 dollars now.\nTherefore, Fred has 192 dollars now.\nThe answer is 192."
+    },
+    {
+        "question": "Dan has $ 4. For a total of $ 3 he bought 10 candy bar each one costing the same amount of money. How much money is left?",
+        "answer": "Dan had $ 4 to start with and spent $ 3 to buy 10 candy bars, which cost the same amount of money.\nTherefore, Dan has $ 4 - $ 3 = $ 1 left.\nThe answer is $ 1."
+    },
+    {
+        "question": "If Lewis earns $ 1357 every week during the 223 weeks of a harvest season. How much money will he earn if he works for 73 harvest seasons?",
+        "answer": "To find out how much money Lewis will earn if he works for 73 harvest seasons, we need to multiply the amount he earns per week by the number of weeks he will work.\nLewis earns $1357 per week, and he will work for 73 harvest seasons. Therefore, the total amount of money he will earn is $1357 x 73 = $96,613.\nThe answer is $96,613."
+    },
+    {
+        "question": "Dan has $ 4. He bought 99 candy bar for $ 3 each one costing the same amount of money. How much money is left?",
+        "answer": "Dan has $4 and spent $3 on each of 99 candy bars, so he spent a total of $3 x 99 = $297.\nTherefore, Dan has $4 - $297 = -$293 left.\nThe answer is -$293."
+    },
+    {
+        "question": "During summer break 61619 kids from Lawrence county stayed home and the rest went to camp. The total number of kids in Lawrence county is 91676. About how many kids in Lawrence county went to camp?",
+        "answer": "To find out how many kids in Lawrence county went to camp, we need to subtract the number of kids who stayed home from the total number of kids in Lawrence county.\nThe number of kids who stayed home is 61619, and the total number of kids in Lawrence county is 91676.\nTherefore, the number of kids who went to camp is 91676 - 61619 = 30057.\nThe answer is 30057."
+    },
+    {
+        "question": "The Razorback t-shirt shop made $ 51 dollars from selling 3 t-shirt during the Arkansas and Texas tech game they. What is the cost of each t-shirt?",
+        "answer": "To find the cost of each t-shirt, we need to divide the total amount of money made by the number of t-shirts sold.\nThe Razorback t-shirt shop made $51 from selling 3 t-shirts during the Arkansas and Texas Tech game. Therefore, the cost of each t-shirt is $51 / 3 = $17.\nThe answer is $17."
+    },
+    {
+        "question": "6 storks and 2 birds were sitting on the fence. 3 more birds came to join them. How many more storks than birds are sitting on the fence?",
+        "answer": "To find out how many more storks than birds are sitting on the fence, we need to compare the number of storks and birds sitting on the fence.\nThere are 6 storks and 2 birds sitting on the fence initially. When 3 more birds came to join them, there are now 6 + 3 = 9 storks and 5 birds sitting on the fence.\nTherefore, there are 9 storks more than 5 birds sitting on the fence.\nThe answer is 9."
+    },
+    {
+        "question": "Paul sold some books in a garage sale leaving him with 27 books. If he had 136 books initially How many books did he sell?",
+        "answer": "To find out how many books Paul sold, we need to subtract the number of books he had left from the number of books he initially had. Paul had 136 books initially and sold 27 books, so he sold 136 - 27 = 109 books.\nTherefore, Paul sold 109 books.\nThe answer is 109."
+    },
+    {
+        "question": "The Ferris wheel in paradise park has 3 small seats and 7 large seats. Each small seat can hold 16 people and large seat can hold 12 people. How many people can ride the Ferris wheel on large seats?",
+        "answer": "The Ferris wheel in Paradise Park has 7 large seats, and each large seat can hold 12 people. Therefore, the total number of people who can ride the Ferris wheel on large seats is 7 x 12 = 84 people.\nThe answer is 84."
+    },
+    {
+        "question": "After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous day How many more visitors visited the Buckingham palace on that day than on the previous day?",
+        "answer": "To find the difference between the number of visitors who visited the Buckingham palace on the day in question and the number of visitors who visited the palace the previous day, we need to subtract the number of visitors who visited the palace the previous day from the number of visitors who visited the palace on the day in question.\nRachel learned that 661 visitors came to the Buckingham palace on the day in question, and there were 600 visitors the previous day. Therefore, the difference is 661 - 600 = 61 visitors.\nTherefore, 61 more visitors visited the Buckingham palace on the day in question than on the previous day.\nThe answer is 61."
+    },
+    {
+        "question": "They decided to hold the party in their backyard. They have 12 sets of tables and each set has 14 chairs. There are also 6 chairs extra. How many chairs do they have for the guests?",
+        "answer": "To find out how many chairs they have for the guests, we need to add the number of chairs in each set and the number of extra chairs.\nThere are 12 sets of tables, and each set has 14 chairs, so the total number of chairs in each set is 12 x 14 = 168 chairs.\nAdditionally, there are 6 extra chairs, so the total number of chairs for the guests is 168 + 6 = 174 chairs.\nTherefore, they have 174 chairs for the guests.\nThe answer is 174."
+    },
+    {
+        "question": "Frank put some pieces of candy equally into 2 bags. If he had 16 pieces of candy How many pieces of candy are in each bag?",
+        "answer": "To find out how many pieces of candy are in each bag, we need to divide the total number of pieces of candy by the number of bags.\nFrank had 16 pieces of candy and put them equally into 2 bags, so each bag has 16 / 2 = 8 pieces of candy.\nTherefore, each bag has 8 pieces of candy.\nThe answer is 8."
+    },
+    {
+        "question": "In a school there are 402 more girls than boys. If there are 739 girls How many boys are there in that school?",
+        "answer": "To find the number of boys in the school, we need to subtract the number of girls from the total number of students.\nThere are 739 girls and 402 more girls than boys, so the total number of students is 739 + 402 = 1141.\nTherefore, there are 1141 - 739 = 402 boys in that school.\nThe answer is 402."
+    },
+    {
+        "question": "He then went to see the oranges being harvested. He found out that they harvested 56 sacks of oranges. How many sacks did they harvest per day if they harvested for a total of 14 days?",
+        "answer": "To find out how many sacks they harvested per day, we need to divide the total number of sacks they harvested by the number of days they harvested.\nThey harvested 56 sacks of oranges in total and harvested for 14 days, so they harvested 56 / 14 = 4 sacks per day.\nTherefore, they harvested 4 sacks per day.\nThe answer is 4."
+    },
+    {
+        "question": "Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?",
+        "answer": "To find out how many more crayons than erasers Paul had left, we need to subtract the number of erasers he had left from the total number of crayons he got.\nPaul had 617 crayons and 457 erasers, so the difference is 617 - 457 = 160.\nTherefore, Paul had 160 more crayons than erasers left.\nThe answer is 160."
+    },
+    {
+        "question": "Mary is baking a cake. The recipe calls for 3 cups of sugar and 10 cups of flour. She already put in some cups of flour. If she still needs 5 more cups of flour than sugar How many cups of flour did she put in?",
+        "answer": "To find out how many cups of flour Mary put in, we need to subtract the number of cups of flour she still needs from the total amount of flour required.\nThe recipe calls for 10 cups of flour, and Mary still needs 5 more cups. Therefore, Mary put in 10 - 5 = 5 cups of flour.\nThe answer is 5."
+    },
+    {
+        "question": "Danny has 21 bottle caps in his collection. He found some more bottle caps at the park. If he has 53 bottle caps now How many bottle caps did he find at the park?",
+        "answer": "Danny has 21 bottle caps in his collection and found some more bottle caps at the park, so he has 53 - 21 = 32 bottle caps at the park.\nTherefore, Danny found 32 bottle caps at the park.\nThe answer is 32."
+    },
+    {
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 74 sacks per day and discard 71 of them. How many sacks of oranges will they have after 51 days of harvest?",
+        "answer": "To find out how many sacks of oranges they will have after 51 days of harvest, we need to know how many sacks they harvest per day and how many they discard per day.\nThey harvest 74 sacks per day and discard 71 sacks per day.\nTherefore, they will have 74 - 71 = 3 sacks of oranges after 51 days of harvest.\nThe answer is 3."
+    },
+    {
+        "question": "Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?",
+        "answer": "To find out how much you have to pay for each pack of DVDs after the discount, we need to subtract the discount from the original price.\nThe original price of each pack of DVDs is $76.\nThe discount is $25.\nSo, the amount you have to pay for each pack after the discount is $76 - $25 = $51.\nTherefore, you have to pay $51 to buy each pack of DVDs.\nThe answer is $51."
+    },
+    {
+        "question": "A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long. How many more pages does the first chapter have than the second chapter?",
+        "answer": "To find out how many more pages the first chapter has than the second chapter, we need to subtract the number of pages in the second chapter from the number of pages in the first chapter.\nThe first chapter has 91 pages, and the second chapter has 23 pages, so the difference is 91 - 23 = 68 pages.\nTherefore, the first chapter has 68 more pages than the second chapter.\nThe answer is 68."
+    },
+    {
+        "question": "2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus. How many more children are on the bus now than there were before the bus stop?",
+        "answer": "To find out how many more children are on the bus now than there were before the bus stop, we need to subtract the number of children who were on the bus before the bus stop from the number of children who are on the bus now.\nThere were 2 children on the bus before the bus stop, and now there are 10 children on the bus. So, the difference is 10 - 2 = 8 more children on the bus now than there were before the bus stop.\nThe answer is 8."
+    },
+    {
+        "question": "An industrial machine made 13 shirts yesterday and 3 shirts today. It can make 8 shirts a minute. How many minutes did the machine work in all?",
+        "answer": "To find out how many minutes the machine worked in total, we need to multiply the number of shirts it made by the number of minutes it can make a shirt in.\nThe machine made 13 shirts yesterday and 3 shirts today, so it worked for a total of 13 x 8 = 104 minutes.\nTherefore, the machine worked for 104 minutes in all.\nThe answer is 104."
+    },
+    {
+        "question": "Ed had 6 more marbles than Doug. Doug lost 7 of his marbles at the playground. If Ed had 22 marbles How many marbles does Doug have now?",
+        "answer": "To find out how many marbles Doug has now, we need to subtract the number of marbles he lost from the number of marbles he had before Ed had more marbles than him.\nDoug had 7 marbles left after losing 7 marbles at the playground.\nTherefore, Doug has 7 marbles now.\nThe answer is 7."
+    },
+    {
+        "question": "Frank was reading through some books. Each book had 249 pages and it took Frank 3 days to finish each book. How many pages did he read per day?",
+        "answer": "To find out how many pages Frank read per day, we need to divide the total number of pages by the number of days it took him to finish each book.\nFrank read 249 pages per book and it took him 3 days to finish each book, so he read 249 pages / 3 days = 83 pages per day.\nTherefore, Frank read 83 pages per day.\nThe answer is 83."
+    },
+    {
+        "question": "There were 12 people on the bus. At the next stop 4 more people got on the bus. Each bus can not have more than 36 people. How many people are there on the bus now?",
+        "answer": "To find out how many people are on the bus now, we need to add the number of people who got on the bus to the number of people who were already on the bus.\nThere were 12 people on the bus at the start, and 4 more people got on the bus, so the total number of people on the bus now is 12 + 4 = 16.\nSince each bus can not have more than 36 people, the maximum number of people on the bus now is 36.\nTherefore, there are 36 people on the bus now.\nThe answer is 36."
+    },
+    {
+        "question": "Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left. How many more apps did he add than he deleted?",
+        "answer": "To find out how many more apps Dave added than he deleted, we need to subtract the number of apps he deleted from the number of apps he added.\nDave added 89 new apps and deleted some, so the difference is 89 - x = 24.\nWhere x is the number of apps he deleted.\nTherefore, Dave added 89 - 24 = 65 more apps than he deleted.\nThe answer is 65."
+    },
+    {
+        "question": "Debby bought some water bottles when they were on sale. She drank 109 bottles a day. If the bottles lasted for 74 days How many bottles had she bought?",
+        "answer": "Debby drank 109 bottles a day and the bottles lasted for 74 days.\nTo find out how many bottles Debby had bought, we need to divide the number of bottles she drank by the number of days she drank them.\n109 bottles / 74 days = 1.47 bottles per day\nTherefore, Debby had bought 1.47 x 74 = 105 bottles.\nThe answer is 105."
+    },
+    {
+        "question": "There are 11 different books and 17 different movies in the ' crazy silly school ' series. If you read 7 of the books and watched 21 of the movies How many more movies than books have you read?",
+        "answer": "To find out how many more movies than books you have read, we need to compare the number of movies and books you read. You read 7 books and watched 21 movies, so the difference is 21 - 7 = 14.\nTherefore, you have read 14 more movies than books.\nThe answer is 14."
+    },
+    {
+        "question": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the grasshopper. How far did the frog jump?",
+        "answer": "The grasshopper jumped 13 inches and jumped 2 inches farther than the grasshopper, so the frog jumped 13 + 2 = 15 inches.\nTherefore, the frog jumped 15 inches.\nThe answer is 15."
+    },
+    {
+        "question": "Jake has 12 fewer peaches and 79 more apples than Steven. Steven has 19 peaches and 14 apples. How many peaches does Jake have?",
+        "answer": "To find out how many peaches Jake has, we need to subtract the number of peaches he has from the number of peaches Steven has. Steven has 19 peaches, and Jake has 12 fewer peaches, so Jake has 19 - 12 = 7 peaches.\nTherefore, Jake has 7 peaches.\nThe answer is 7."
+    },
+    {
+        "question": "Dan has $ 2. He bought some candy bar for $ 6 each one costing $ 3. How many candy bar did he buy?",
+        "answer": "To find out how many candy bars Dan bought, we need to divide the amount of money he has by the cost of each candy bar.\nDan has $ 2 and each candy bar costs $ 6, so we can divide $ 2 by $ 6 to find out how many candy bars he can buy:\n$ 2 \u00f7 $ 6 = 0.33\nDan can buy 0.33 candy bars with $ 2.\nTherefore, Dan bought 3 candy bars.\nThe answer is 3."
+    },
+    {
+        "question": "Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park. How many more balloons did Allan have than Jake in the park?",
+        "answer": "To find out how many more balloons Allan had than Jake, we need to compare the number of balloons they brought and the number Allan bought.\nAllan brought 2 balloons and bought 3 more, so the total number of balloons Allan had is 2 + 3 = 5.\nJake brought 4 balloons, so the total number of balloons Jake had is 4.\nTherefore, Allan had 5 - 4 = 1 more balloon than Jake in the park.\nThe answer is 1."
+    },
+    {
+        "question": "Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday. How many more kids did she play with on monday than on wednesday?",
+        "answer": "To find the difference between the number of kids Julia played with on Monday and Wednesday, we need to subtract the number of kids she played with on Wednesday from the number she played with on Monday.\nJulia played with 14 kids on Monday and 8 kids on Wednesday, so the difference is 14 - 8 = 6.\nTherefore, Julia played with 6 more kids on Monday than on Wednesday.\nThe answer is 6."
+    },
+    {
+        "question": "Because of the decision Sofia asked the students to suggest specific types of food. If 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes How many more students suggested mashed potatoes than those that suggested bacon?",
+        "answer": "To find the difference between the number of students who suggested mashed potatoes and the number who suggested bacon, we need to subtract the number of students who suggested bacon from the number who suggested mashed potatoes.\n269 students suggested adding bacon, and 330 students suggested adding mashed potatoes. Therefore, the difference is 330 - 269 = 61.\nTherefore, 61 more students suggested mashed potatoes than those who suggested bacon.\nThe answer is 61."
+    },
+    {
+        "question": "There were 106 dollars in Olivia's wallet. After she visited a supermarket and a showroom there were 26 dollars left. If she spent 49 dollars at the showroom How much did she spend at the supermarket?",
+        "answer": "To find out how much Olivia spent at the supermarket, we need to subtract the amount she spent at the showroom from the total amount of money she had.\nOlivia had 106 dollars in her wallet and spent 49 dollars at the showroom, so she spent 106 - 49 = 57 dollars at the supermarket.\nTherefore, Olivia spent 57 dollars at the supermarket.\nThe answer is 57."
+    },
+    {
+        "question": "David did 56 more push-ups than Zachary in gym class today. If David did 38 push-ups How many push-ups did Zachary and David do altogether?",
+        "answer": "David did 56 more push-ups than Zachary, so David did 56 + 38 = 94 push-ups altogether.\nTherefore, David and Zachary did 94 push-ups altogether.\nThe answer is 94."
+    },
+    {
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 44 sacks of ripe oranges and 25 sacks of unripe oranges per day. How many more sacks of ripe oranges than unripe oranges are harvested per day?",
+        "answer": "To find out how many more sacks of ripe oranges are harvested per day than unripe oranges, we need to subtract the number of sacks of unripe oranges from the number of sacks of ripe oranges.\n44 sacks of ripe oranges are harvested per day, and 25 sacks of unripe oranges are harvested per day. Therefore, the difference is 44 - 25 = 19.\nSo, 19 more sacks of ripe oranges are harvested per day than unripe oranges.\nThe answer is 19."
+    },
+    {
+        "question": "Paul got a box of 65 crayons for his birthday. During the school year he gave 213 crayons to his friends while he lost 16 crayons. How many crayons had been lost or given away?",
+        "answer": "To find out how many crayons Paul had given away or lost, we need to subtract the number of crayons he gave away from the number he had.\nPaul had 65 crayons and gave away 213 crayons, so the difference is 213 - 65 = 150 crayons.\nTherefore, Paul had 150 crayons given away or lost.\nThe answer is 150."
+    },
+    {
+        "question": "There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 21 orchids and 22 roses in the vase. How many more roses than orchids are there in the vase now?",
+        "answer": "To find out how many more roses than orchids are in the vase now, we need to compare the number of roses and orchids in the vase before and after Jessica cut some more flowers from her garden.\nBefore, there were 22 roses and 20 orchids in the vase. After, there are 22 roses and 21 orchids in the vase. Therefore, there are 1 more rose than orchid in the vase now.\nThe answer is 1."
+    },
+    {
+        "question": "43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus. How many children got off the bus at the bus stop?",
+        "answer": "To find out how many children got off the bus at the bus stop, we need to subtract the number of children left on the bus from the total number of children who were riding on the bus.\n43 children were riding on the bus, and 21 children were left on the bus after some children got off. Therefore, 43 - 21 = 22 children got off the bus at the bus stop.\nThe answer is 22."
+    },
+    {
+        "question": "Robin cut off 20 inches of his hair. If his hair is now 10 inches long How long was his hair before he cut?",
+        "answer": "Robin cut off 20 inches of his hair, so his hair is now 10 inches long.\nTo find out how long his hair was before he cut it, we need to subtract the number of inches he cut from the new length.\n10 - 20 = -10 inches.\nTherefore, Robin's hair was 10 inches long before he cut it.\nThe answer is -10."
+    },
+    {
+        "question": "Paige raised 7 goldfish and 12 catfish in the pond but stray cats loved eating them. Now she has 15 left. How many fishes disappeared?",
+        "answer": "Paige raised 7 goldfish and 12 catfish in the pond, which means she had a total of 7 + 12 = 19 fish in the pond at first.\nSince stray cats loved eating them, 15 fish disappeared.\nTherefore, 15 - 19 = -4 fish disappeared.\nThe answer is -4."
+    },
+    {
+        "question": "A book has 31 chapters. Each chapter is 61 pages long. How many pages does the book have altogether?",
+        "answer": "To find the total number of pages in the book, we need to multiply the number of chapters by the number of pages in each chapter.\nThe book has 31 chapters, and each chapter is 61 pages long, so the total number of pages in the book is 31 x 61 = 1861 pages.\nTherefore, the book has 1861 pages altogether.\nThe answer is 1861."
+    },
+    {
+        "question": "White t - shirts can be purchased in packages of 53. If mom buys 57 packages of white t - shirts and 34 trousers How many white t - shirts will she have?",
+        "answer": "To find out how many white t-shirts Mom will have, we need to divide the number of packages of white t-shirts she bought by the number of packages that can be purchased at a time.\nMom bought 57 packages of white t-shirts and 34 trousers.\n57 packages of white t-shirts = 53 packages of white t-shirts (since each package contains 53 white t-shirts)\nSo, Mom will have 53 x 57 = 3011 white t-shirts.\nTherefore, Mom will have 3011 white t-shirts.\nThe answer is 3011."
+    },
+    {
+        "question": "Mary is baking a cake. The recipe calls for 7 cups of sugar and 10 cups of flour. She already put in 4 cups of sugar. How many more cups of sugar does she need to add?",
+        "answer": "To find out how many more cups of sugar Mary needs to add, we need to subtract the number of cups of sugar she already added from the total amount of sugar needed.\nMary already added 4 cups of sugar and the recipe calls for 7 cups of sugar, so she needs to add 7 - 4 = 3 more cups of sugar.\nTherefore, Mary needs to add 3 more cups of sugar.\nThe answer is 3."
+    },
+    {
+        "question": "There were 174 parents in the program and 521 pupils too. How many more pupils were present compared to parents in the program?",
+        "answer": "To find the difference between the number of pupils and parents in the program, we need to subtract the number of parents from the number of pupils.\nThere were 521 pupils and 174 parents in the program, so the difference is 521 - 174 = 347.\nTherefore, there were 347 more pupils than parents in the program.\nThe answer is 347."
+    },
+    {
+        "question": "During summer break 907611 kids from Lawrence county stay home and the other 455682 kids go to camp. About how many kids are in Lawrence county?",
+        "answer": "To find out how many kids are in Lawrence county, we need to subtract the number of kids who went to camp from the total number of kids who stayed home.\n907611 - 455682 = 452029\nTherefore, there are 452029 kids in Lawrence county.\nThe answer is 452029."
+    },
+    {
+        "question": "Danny has 12 bottle caps in his collection. He found 53 bottle caps at the park. How many bottle caps does he have now?",
+        "answer": "Danny had 12 bottle caps in his collection before he found 53 bottle caps at the park.\nSo, he now has 12 + 53 = 65 bottle caps.\nTherefore, Danny has 65 bottle caps now.\nThe answer is 65."
+    },
+    {
+        "question": "Randy uses 36 blocks to build a tower. If he had 59 blocks How many blocks are left?",
+        "answer": "Randy used 36 blocks to build a tower, and he had 59 blocks in total.\nSo, the number of blocks left is 59 - 36 = 23 blocks.\nTherefore, Randy has 23 blocks left.\nThe answer is 23."
+    },
+    {
+        "question": "Zachary did 59 push-ups and 44 crunches in gym class today. David did 19 more push-ups but 27 less crunches than zachary. How many push-ups did David do?",
+        "answer": "To find out how many push-ups David did, we need to subtract the number of push-ups he did from the total number of push-ups Zachary did. Zachary did 59 push-ups and 44 crunches, so the total number of push-ups and crunches he did is 59 + 44 = 103.\nDavid did 19 more push-ups than Zachary, so David did 103 - 19 = 84 push-ups.\nTherefore, David did 84 push-ups.\nThe answer is 84."
+    },
+    {
+        "question": "Lewis earns a total of $ 1216 during the harvest. If he earns $ 16 each week How many weeks did the harvest last?",
+        "answer": "Lewis earns a total of $1216 during the harvest. If he earns $16 each week, then the number of weeks the harvest lasted is $1216 / $16 = 78 weeks.\nTherefore, the harvest lasted for 78 weeks.\nThe answer is 78."
+    },
+    {
+        "question": "Adam could fit 11 action figures on each shelf in his room. His room has 4 shelves and 40 cabinets. How many total action figures could his shelves hold?",
+        "answer": "Adam could fit 11 action figures on each shelf in his room, so each shelf can hold 11 x 4 = 44 action figures.\nTherefore, the total number of action figures that Adam's shelves can hold is 44 x 4 = 176 action figures.\nThe answer is 176."
+    },
+    {
+        "question": "15 campers went rowing in the morning. Some more campers went rowing in the afternoon. If a total of 32 campers went rowing that day How many campers went rowing in the afternoon?",
+        "answer": "A total of 32 campers went rowing that day, including both the morning and afternoon groups.\nSo, the number of campers who went rowing in the afternoon is 32 - 15 = 17.\nTherefore, 17 campers went rowing in the afternoon.\nThe answer is 17."
+    },
+    {
+        "question": "Brenda's mother made cookies for 5. She prepared 22 cookies but had to throw away 17 cookies. If each of them had the same number of cookies How many did each of them have?",
+        "answer": "Brenda's mother made 22 cookies and prepared them for 5 people. However, she had to throw away 17 cookies, so each person got 22 - 17 = 5 cookies.\nTherefore, each person had 5 cookies.\nThe answer is 5."
+    },
+    {
+        "question": "Because of the decision Sofia asked the students to suggest specific types of food. If 324 students suggested adding mashed potatoes 374 suggested adding bacon to the menu and 128 suggested adding tomatoes How many students participated in the suggestion of new food items?",
+        "answer": "To find out how many students participated in suggesting new food items, we need to add the number of students who suggested each type of food.\n324 students suggested adding mashed potatoes, 374 students suggested adding bacon, and 128 students suggested adding tomatoes.\nTherefore, a total of 324 + 374 + 128 = 826 students participated in suggesting new food items.\nThe answer is 826."
+    },
+    {
+        "question": "They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs How many chairs do they have in the backyard?",
+        "answer": "To find out how many chairs they have in the backyard, we need to multiply the number of sets of tables by the number of chairs in each set.\nThere are 11 sets of tables, and each set has 13 chairs, so the total number of chairs in the backyard is 11 x 13 = 143 chairs.\nTherefore, they have 143 chairs in the backyard.\nThe answer is 143."
+    },
+    {
+        "question": "Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf. How many more books than action figures were on his shelf?",
+        "answer": "Jerry had 10 books on the shelf in his room initially. Later, he added 4 more action figures to the shelf, so the total number of action figures on the shelf is now 2 + 4 = 6.\nTherefore, there are 6 - 10 = 4 more books than action figures on Jerry's shelf.\nThe answer is 4."
+    },
+    {
+        "question": "Mary is baking a cake. The recipe calls for 11 cups of sugar and 9 cups of flour. She already put in 12 cups of flour and 10 cups of sugar. How many more cups of sugar does she need to add?",
+        "answer": "To find out how many more cups of sugar Mary needs to add, we need to subtract the number of cups of sugar she already added from the total amount of sugar needed.\nMary already added 10 cups of sugar, and the recipe calls for 11 cups of sugar. Therefore, Mary needs to add 11 - 10 = 1 more cup of sugar.\nThe answer is 1."
+    },
+    {
+        "question": "Dan has $ 3 left with him after he bought a candy bar for $ 2. How much money did he have initially?",
+        "answer": "Dan had $ 3 left after he bought a candy bar for $ 2.\nSo, he had $ 3 - $ 2 = $ 1 initially.\nTherefore, Dan had $ 1 initially.\nThe answer is $ 1."
+    },
+    {
+        "question": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 35 inches. The grasshopper jumped 4 inches farther than the frog. How much did they jump altogether?",
+        "answer": "The grasshopper jumped 35 inches and jumped 4 inches farther than the frog, so the frog jumped 35 - 4 = 31 inches.\nTherefore, they jumped altogether 35 + 31 = 66 inches.\nThe answer is 66."
+    },
+    {
+        "question": "Adam has 9 apples. Jackie has 10 apples. How many more apples does Jackie have than Adam?",
+        "answer": "To find out how many more apples Jackie has than Adam, we need to subtract the number of apples Adam has from the number of apples Jackie has.\nJackie has 10 apples and Adam has 9 apples, so the difference is 10 - 9 = 1.\nTherefore, Jackie has 1 more apple than Adam.\nThe answer is 1."
+    },
+    {
+        "question": "Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf. How many more books than action figures were on his shelf?",
+        "answer": "Jerry had 5 action figures and 2 books on the shelf in his room initially. Later, he added 9 more books to the shelf.\nSo, the total number of books on the shelf now is 2 + 9 = 11 books.\nTherefore, the number of books on the shelf is 11 - 5 = 6 more books than action figures.\nThe answer is 6."
+    },
+    {
+        "question": "White t - shirts can be purchased in packages of 13. If mom buys 39 white t - shirts How many packages will she have?",
+        "answer": "To find out how many packages of white t-shirts Mom will have, we need to divide the total number of t-shirts she bought by the number of t-shirts in a package.\nMom bought 39 white t-shirts, and each package contains 13 t-shirts, so she will have 39 / 13 = 3 packages.\nTherefore, Mom will have 3 packages of white t-shirts.\nThe answer is 3."
+    },
+    {
+        "question": "Dave had 24 files and 13 apps on his phone. After deleting some apps and files he had 17 apps and 21 files left. How many files did he delete?",
+        "answer": "Dave had 17 apps and 21 files left after deleting some apps and files.\nSo, he deleted 13 - 17 = -4 files.\nTherefore, Dave did not delete any files.\nThe answer is 0."
+    },
+    {
+        "question": "There are 11 baskets of peaches. Each basket has 10 red peaches and 18 green peaches. How many peaches are in the baskets altogether?",
+        "answer": "There are 11 baskets of peaches, and each basket has 10 red peaches and 18 green peaches.\nSo, the total number of peaches in the baskets is 10 x 11 = 110 red peaches + 18 x 11 = 208 green peaches = 318 peaches altogether.\nTherefore, there are 318 peaches in the baskets altogether.\nThe answer is 318."
+    },
+    {
+        "question": "Paco ate 19 cookies and had 35 cookies left. How many cookies did he have in the beginning?",
+        "answer": "Paco had 35 cookies left after eating 19 cookies.\nSo, he had 35 - 19 = 16 cookies in the beginning.\nTherefore, Paco had 16 cookies in the beginning.\nThe answer is 16."
+    },
+    {
+        "question": "Rebecca wants to split a collection of eggs into groups of 11. If each group has 2 eggs How many eggs does Rebecca have?",
+        "answer": "Rebecca wants to split a collection of eggs into groups of 11. If each group has 2 eggs, then the total number of eggs Rebecca has is 11 x 2 = 22 eggs.\nTherefore, Rebecca has 22 eggs.\nThe answer is 22."
+    },
+    {
+        "question": "Winter is almost here and most animals are migrating to warmer countries. 27 bird families flew away for the winter from near a mountain. If there were 41 bird families living near the mountain initially How many bird families were left near the mountain?",
+        "answer": "To find out how many bird families were left near the mountain, we need to subtract the number of bird families that migrated from the total number of bird families living near the mountain initially.\n27 bird families migrated, and there were 41 bird families living near the mountain initially, so the number of bird families left near the mountain is 41 - 27 = 14.\nTherefore, 14 bird families were left near the mountain.\nThe answer is 14."
+    },
+    {
+        "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 39 inches. The grasshopper jumped 19 inches farther than the frog and the mouse jumped 12 inches lesser than the frog. How far did the mouse jump?",
+        "answer": "To find out how far the mouse jumped, we need to use the information given in the problem.\nThe grasshopper jumped 39 inches, and the frog jumped 19 inches farther than the grasshopper. So, the frog jumped 39 + 19 = 58 inches.\nThe mouse jumped 12 inches less than the frog, so the mouse jumped 58 - 12 = 46 inches.\nTherefore, the mouse jumped 46 inches.\nThe answer is 46."
+    },
+    {
+        "question": "The school has 304 grades and each grade has 75 students How many students were there in total?",
+        "answer": "To find the total number of students in the school, we need to multiply the number of grades by the number of students in each grade.\nThere are 304 grades and each grade has 75 students, so the total number of students is 304 x 75 = 22,550.\nTherefore, there were 22,550 students in the school.\nThe answer is 22,550."
+    },
+    {
+        "question": "A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda. How many more bottles than apple did they have?",
+        "answer": "To find out how many more bottles than apples the grocery store had, we need to compare the number of bottles to the number of apples.\nThe grocery store had 80 bottles of regular soda and 54 bottles of diet soda, for a total of 134 bottles.\nThey had 36 apples, which is fewer than the number of bottles.\nSo, the grocery store had 134 - 36 = 98 more bottles than apples.\nThe answer is 98."
+    },
+    {
+        "question": "There were 16 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 7 orchids and 13 roses in the vase. How many orchids did she cut?",
+        "answer": "To find out how many orchids Jessica cut, we need to subtract the number of orchids in the vase before she cut them from the number of orchids in the vase after she cut them.\nThere were 3 orchids in the vase before Jessica cut them, and there are now 7 orchids in the vase. Therefore, Jessica cut 3 - 7 = -4 orchids.\nThe answer is -4."
+    },
+    {
+        "question": "Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. She spent a total of 34 hours to play tag on both days. How many kids did she play with altogether?",
+        "answer": "Julia played tag with 12 kids on Monday and 14 kids on Tuesday, for a total of 12 + 14 = 26 kids.\nShe spent a total of 34 hours playing tag on both days.\nTherefore, Julia played with 26 kids altogether.\nThe answer is 26."
+    },
+    {
+        "question": "Katie had 62 new games and 80 old games. Her friends had 73 new games and 41 old games. How many old games do they have 3",
+        "answer": "Katie had 62 new games and 80 old games, so she had a total of 62 + 80 = 142 games.\nHer friends had 73 new games and 41 old games, so they had a total of 73 + 41 = 114 games.\nTherefore, Katie's friends have 3 more old games than Katie.\nThe answer is 3."
+    },
+    {
+        "question": "Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend. How many more cookies did he eat than those he gave to his friend?",
+        "answer": "To find the difference between the number of cookies Paco ate and the number he gave to his friend, we need to subtract the number of cookies he gave to his friend from the number he ate.\nPaco ate 14 cookies and gave 13 of them to his friend, so the difference is 14 - 13 = 1.\nTherefore, Paco ate 1 more cookie than he gave to his friend.\nThe answer is 1."
+    },
+    {
+        "question": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 705 visitors came to the Buckingham palace that day. If there were 191 visitors the previous day and 457 visitors the day before that How many more visitors visited the Buckingham palace on that day than on the previous 245 days?",
+        "answer": "To find out how many more visitors visited the Buckingham palace on that day than on the previous 245 days, we need to subtract the number of visitors on the previous day from the number of visitors on the day in question.\nRachel learned that 705 visitors came to the Buckingham palace on the day in question, and 191 visitors came the previous day. Therefore, the difference is 705 - 191 = 514 visitors.\nSo, 514 more visitors visited the Buckingham palace on that day than on the previous 245 days.\nThe answer is 514."
+    },
+    {
+        "question": "At the stop 8 more people got on the train. Initially there were 11 people on the train. How many people are there on the train now?",
+        "answer": "At first, there were 11 people on the train, and 8 more people got on the train.\nSo, there are 11 + 8 = 19 people on the train now.\nTherefore, there are 19 people on the train now.\nThe answer is 19."
+    },
+    {
+        "question": "A book has 3 chapters. The first chapter is 66 pages long the second chapter is 35 pages long and the third chapter is 24 pages long. How many pages does the book have altogether?",
+        "answer": "To find the total number of pages in the book, we need to add the number of pages in each chapter.\nThe first chapter has 66 pages, the second chapter has 35 pages, and the third chapter has 24 pages. Therefore, the total number of pages in the book is 66 + 35 + 24 = 125 pages.\nThe answer is 125."
+    },
+    {
+        "question": "After making some pies, chef had 2 apples left. Initially he had 43 apples How many apples did he use?",
+        "answer": "Chef had 43 apples initially and 2 apples left after making some pies.\nSo, he used 43 - 2 = 41 apples.\nTherefore, Chef used 41 apples.\nThe answer is 41."
+    },
+    {
+        "question": "Nell collects cards. She had 438 baseball cards and 18 Ace cards. She gave some of her cards to Jeff and now has 55 Ace cards and 178 baseball cards left. How many more baseball cards than Ace cards does Nell have?",
+        "answer": "Nell had 18 Ace cards and gave some to Jeff, so she now has 55 Ace cards.\nShe had 178 baseball cards left after giving some to Jeff, so she had 178 - 18 = 160 baseball cards before giving any to Jeff.\nTherefore, Nell has 160 more baseball cards than Ace cards.\nThe answer is 160."
+    },
+    {
+        "question": "5 red peaches and 11 green peaches are in the basket. How many more green peaches than red peaches are in the basket?",
+        "answer": "To find the difference between the number of green peaches and red peaches in the basket, we need to subtract the number of red peaches from the number of green peaches.\nThere are 11 green peaches and 5 red peaches in the basket, so the difference is 11 - 5 = 6.\nTherefore, there are 6 more green peaches than red peaches in the basket.\nThe answer is 6."
+    },
+    {
+        "question": "Every day Ryan spends 6 hours on learning english and 5 hours on learning chinese. If he learns for 2 days How many hours does he spend on learning english in all?",
+        "answer": "Ryan spends 6 hours on learning English every day, so he spends a total of 6 x 2 = 12 hours on learning English in 2 days.\nTherefore, Ryan spends 12 hours on learning English in all.\nThe answer is 12."
+    },
+    {
+        "question": "At the arcade Dave had won 7 tickets. He used some tickets to buy toys. If he still has 2 tickets left How many tickets did Dave use to buy toys?",
+        "answer": "Dave had 7 tickets at the arcade and used some of them to buy toys.\nSo, he has 7 - 2 = 5 tickets left.\nTherefore, Dave used 5 tickets to buy toys.\nThe answer is 5."
+    },
+    {
+        "question": "Ed had 10 more marbles than Doug. Doug lost 11 of his marbles at the playground. If Ed had 45 marbles How many more marbles did Ed have than Doug then?",
+        "answer": "To find out how many more marbles Ed had than Doug, we need to subtract the number of marbles Doug lost from the number of marbles Ed had.\nEd had 45 marbles and Doug lost 11 marbles, so the difference is 45 - 11 = 34.\nTherefore, Ed had 34 more marbles than Doug.\nThe answer is 34."
+    },
+    {
+        "question": "If the cave is 919 feet deep and they need to travel 1307 feet How far is the end of the cave?",
+        "answer": "To find the distance from the end of the cave to the starting point, we need to subtract the distance they need to travel from the depth of the cave.\nThe cave is 919 feet deep, and they need to travel 1307 feet. Therefore, the distance from the end of the cave to the starting point is 919 - 1307 = -408 feet.\nThe answer is -408 feet."
+    },
+    {
+        "question": "Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left. How many more Ace cards than baseball cards does Nell have?",
+        "answer": "To find out how many more Ace cards than baseball cards Nell has, we need to compare the number of Ace cards and baseball cards she has left. Nell has 495 Ace cards and 404 baseball cards left. Therefore, Nell has 495 - 404 = 91 more Ace cards than baseball cards.\nThe answer is 91."
+    },
+    {
+        "question": "Baker made 155 cakes. If his friend bought 140 cakes from him How many cakes would baker still have?",
+        "answer": "Baker made 155 cakes and his friend bought 140 cakes from him.\nSo, Baker would still have 155 - 140 = 15 cakes.\nTherefore, Baker would still have 15 cakes.\nThe answer is 15."
+    },
+    {
+        "question": "Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candy How many pieces of candy does he still have left?",
+        "answer": "Bobby ate 17 pieces of candy initially and then ate 15 more.\nSo, he ate a total of 17 + 15 = 32 pieces of candy.\nTherefore, Bobby has 36 - 32 = 4 pieces of candy left.\nThe answer is 4."
+    },
+    {
+        "question": "Jake has 11 fewer peaches than Steven. If Jake has 17 peaches. How many peaches does Steven have?",
+        "answer": "Jake has 17 peaches and has 11 fewer peaches than Steven, so Steven has 17 - 11 = 6 peaches.\nTherefore, Steven has 6 peaches.\nThe answer is 6."
+    },
+    {
+        "question": "Jesse's rooms are 19 feet long and 18 feet wide. If she has 20 rooms in all How much carpet does she need to cover the floors of all rooms?",
+        "answer": "To find out how much carpet Jesse needs to cover the floors of all her rooms, we need to multiply the length and width of each room.\nThe length of each room is 19 feet and the width is 18 feet, so the area of each room is 19 x 18 = 327 square feet.\nSince Jesse has 20 rooms in all, she needs 327 x 20 = 6,540 square feet of carpet to cover the floors of all her rooms.\nTherefore, Jesse needs 6,540 square feet of carpet to cover the floors of all her rooms.\nThe answer is 6,540."
+    },
+    {
+        "question": "Friends of Katie had 57 games and she had 63 ds games. How many more games does Katie have than her friends?",
+        "answer": "To find out how many more games Katie has than her friends, we need to subtract the number of games her friends have from the number of games Katie has.\nKatie has 63 games and her friends have 57 games, so the difference is 63 - 57 = 6.\nTherefore, Katie has 6 more games than her friends.\nThe answer is 6."
+    },
+    {
+        "question": "Paige was helping her mom plant flowers and together they planted 45 seeds in 9 flowerbeds. If they put same number of seeds in each flower bed How many seeds did they plant in each flowerbed?",
+        "answer": "To find out how many seeds Paige and her mom planted in each flowerbed, we need to divide the total number of seeds by the number of flowerbeds.\nPaige and her mom planted 45 seeds in 9 flowerbeds, so they planted 45 / 9 = 5 seeds in each flowerbed.\nTherefore, Paige and her mom planted 5 seeds in each flowerbed.\nThe answer is 5."
+    },
+    {
+        "question": "After resting they decided to go for a swim. If the depth of the water is 10 times Dean's height and he stands at 9 feet How much deeper is the water than Dean's height?",
+        "answer": "To find out how much deeper the water is than Dean's height, we need to multiply the depth of the water by 10 and then subtract Dean's height.\nThe depth of the water is 10 times Dean's height, which means it is 10 x 9 = 90 feet deep.\nTherefore, the water is 90 - 9 = 81 feet deeper than Dean's height.\nThe answer is 81 feet."
+    },
+    {
+        "question": "Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David. How many more push-ups did Zachary do than John?",
+        "answer": "To find out how many more push-ups Zachary did than John, we need to compare the number of push-ups Zachary did with the number of push-ups John did. Zachary did 15 push-ups, David did 39 more push-ups than Zachary, and John did 9 push-ups less than David. Therefore, John did 39 - 9 = 30 push-ups.\nZachary did 15 push-ups, and John did 30 push-ups, so Zachary did 15 + 30 = 45 more push-ups than John.\nThe answer is 45."
+    },
+    {
+        "question": "4 birds and 6 storks were sitting on the fence. 2 more storks came to join them. How many storks are sitting on the fence?",
+        "answer": "There were 4 birds and 6 storks sitting on the fence initially. Then, 2 more storks came to join them, making the total number of storks 6 + 2 = 8.\nTherefore, 8 storks are sitting on the fence.\nThe answer is 8."
+    },
+    {
+        "question": "Haley grew 13 trees in her backyard. After a typhoon 6 died. How many more trees survived the typhoon than those that died?",
+        "answer": "To find out how many more trees survived the typhoon than those that died, we need to subtract the number of trees that died from the number of trees Haley grew.\nHaley grew 13 trees and 6 died, so the difference is 13 - 6 = 7.\nTherefore, 7 more trees survived the typhoon than those that died.\nThe answer is 7."
+    },
+    {
+        "question": "Paul got a box of 521 crayons and 66 erasers for his birthday. At the end of the school year he only had 154 left while not having lost a single erasers. How many crayons had been lost or given away?",
+        "answer": "To find out how many crayons Paul had lost or given away, we need to subtract the number of crayons he had at the end of the school year from the total number of crayons he got.\nPaul had 154 crayons left at the end of the school year and he got a total of 521 crayons. Therefore, the number of crayons he lost or gave away is 521 - 154 = 367.\nThe answer is 367."
+    },
+    {
+        "question": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 36 of the pickers that they fill 8 drums of grapes per day. How many days will it take to fill 240 drums of grapes?",
+        "answer": "To find out how many days it will take to fill 240 drums of grapes, we need to divide the total number of drums by the number of drums filled per day.\n36 pickers fill 8 drums of grapes per day, so it will take 240 drums / 8 drums = 30 days to fill them all.\nTherefore, it will take 30 days to fill 240 drums of grapes.\nThe answer is 30."
+    },
+    {
+        "question": "Adam could fit 8 action figures and 10 cabinets on each shelf in his room. His room has 4 shelves. How many total items could his shelves hold?",
+        "answer": "Adam's room has 4 shelves, and each shelf can hold 8 action figures and 10 cabinets.\nSo, the total number of items his shelves can hold is 8 x 4 = 32 action figures and 10 x 4 = 40 cabinets.\nTherefore, Adam's shelves can hold a total of 32 + 40 = 72 items.\nThe answer is 72."
+    },
+    {
+        "question": "3 birds and 4 storks were sitting on the fence. 6 more storks came to join them. How many birds and storks are sitting on the fence?",
+        "answer": "At first, 3 birds and 4 storks were sitting on the fence. Then, 6 more storks came to join them, so the total number of storks is now 4 + 6 = 10 storks.\nTherefore, there are 3 birds and 10 storks sitting on the fence.\nThe answer is 3 and 10."
+    },
+    {
+        "question": "Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. If 35 bird families flew away to asia and 62 bird families flew away to africa How many more bird families flew away to africa than those that flew away to asia?",
+        "answer": "To find the difference between the number of bird families that flew away to Africa and the number that flew away to Asia, we need to subtract the number that flew away to Asia from the number that flew away to Africa. \n35 bird families flew away to Asia and 62 bird families flew away to Africa, so the difference is 62 - 35 = 27.\nTherefore, 27 more bird families flew away to Africa than those that flew away to Asia.\nThe answer is 27."
+    },
+    {
+        "question": "Baker sold 44 cakes. If he had made 48 cakes initially How many cakes would baker still have?",
+        "answer": "Baker sold 44 cakes and initially made 48 cakes.\nSo, he would still have 48 - 44 = 4 cakes.\nTherefore, Baker would still have 4 cakes.\nThe answer is 4."
+    },
+    {
+        "question": "Mom buys 51 white t - shirts. If white t - shirts can be purchased in packages of 3 How many packages will she have?",
+        "answer": "Mom buys 51 white t-shirts, and white t-shirts can be purchased in packages of 3.\nTo find out how many packages Mom will have, we need to divide the number of t-shirts she bought by the number of t-shirts in a package.\n51 \u00f7 3 = 17 packages\nTherefore, Mom will have 17 packages of white t-shirts.\nThe answer is 17."
+    },
+    {
+        "question": "Rebecca wants to split a collection of eggs into 3 groups. Rebecca has 4 marbles and 15 eggs. How many eggs will each group have?",
+        "answer": "Rebecca has 4 marbles and 15 eggs.\nTo split the eggs into 3 groups, we need to divide the eggs equally among the groups.\nTherefore, each group will have 15 / 3 = 5 eggs.\nThe answer is 5."
+    },
+    {
+        "question": "Brenda's mother made cookies for 10 guests but 9 guests did not come. If she prepared 18 cookies and each guest had the same number of cookies How many did each of them have?",
+        "answer": "Brenda's mother made 18 cookies for 10 guests, but 9 guests did not come. So, the number of cookies each guest had is 18 / 10 = 1.8 cookies per guest.\nTherefore, each guest had 1.8 cookies.\nThe answer is 1.8."
+    },
+    {
+        "question": "Julia played tag with 15 kids on monday, 18 kids on tuesday and 97 kids on wednesday. How many kids did she play with on monday and tuesday?",
+        "answer": "Julia played tag with 15 kids on Monday and 18 kids on Tuesday.\nSo, she played with 15 + 18 = 33 kids in total on Monday and Tuesday.\nTherefore, Julia played with 97 - 33 = 64 kids on Wednesday.\nThe answer is 64."
+    },
+    {
+        "question": "David did 44 push-ups in gym class today. David did 9 more push-ups than Zachary. How many push-ups did Zachary do?",
+        "answer": "David did 44 push-ups and did 9 more than Zachary, so Zachary did 44 - 9 = 35 push-ups.\nTherefore, Zachary did 35 push-ups.\nThe answer is 35."
+    },
+    {
+        "question": "Kelly has 80 nintendo games. She found 31 more nintendo games. How many does she need to give away so that she will have 6 games left?",
+        "answer": "Kelly has 80 Nintendo games and found 31 more.\nTo find out how many games she needs to give away so that she will have 6 games left, we need to subtract the number of games she found from the total number of games she has.\n80 + 31 = 111 games\nKelly needs to give away 111 - 6 = 105 games.\nTherefore, Kelly needs to give away 105 games.\nThe answer is 105."
+    },
+    {
+        "question": "In a school there are 315 girls and 309 boys. There are also 772 teachers How many people are there in that school?",
+        "answer": "To find the total number of people in the school, we need to add the number of girls, boys, and teachers.\nThe number of girls is 315, the number of boys is 309, and the number of teachers is 772.\nTherefore, the total number of people in the school is 315 + 309 + 772 = 1496.\nThe answer is 1496."
+    },
+    {
+        "question": "At the arcade Dave had won 18 tickets. If he used 5 to buy some toys and 11 more to buy some clothes How many tickets did Dave have left?",
+        "answer": "Dave had 18 tickets at the start and used 5 to buy some toys and 11 more to buy some clothes.\nSo, he had 18 - 5 - 11 = 2 tickets left.\nTherefore, Dave had 2 tickets left.\nThe answer is 2."
+    },
+    {
+        "question": "Dan has $ 4. He had $ 3 left with him after he bought a candy bar. How much did the candy bar cost?",
+        "answer": "Dan had $ 3 left after he bought a candy bar.\nSo, the candy bar cost $ 4 - $ 3 = $ 1.\nTherefore, the candy bar cost $ 1.\nThe answer is $ 1."
+    },
+    {
+        "question": "Winter is almost here and most animals are migrating to warmer countries. There were 89 bird families living near the mountain. If 60 bird families flew away for winter How many more bird families flew away for the winter than those that stayed behind?",
+        "answer": "To find the difference between the number of bird families that flew away for winter and the number that stayed behind, we need to subtract the number that flew away from the number that stayed behind.\n60 bird families flew away, and there were 89 bird families living near the mountain at first. Therefore, the difference is 60 - 89 = -29.\nSo, there are 29 more bird families that stayed behind than flew away for winter.\nThe answer is -29."
+    },
+    {
+        "question": "Baker made 110 cakes. He sold 75 of them. Then he made 76 more cakes. How many cakes would baker still have?",
+        "answer": "Baker made 110 cakes and sold 75 of them, so he has 110 - 75 = 35 cakes left. Then he made 76 more cakes, so he has 35 + 76 = 111 cakes left.\nTherefore, Baker would still have 111 cakes.\nThe answer is 111."
+    },
+    {
+        "question": "Some children were riding on the bus. At the bus stop 2 more children got on the bus. Then there were 41 children altogether on the bus. How many children were riding on the bus before the bus stop?",
+        "answer": "To find out how many children were riding on the bus before the bus stop, we need to subtract the number of children who got on the bus at the bus stop from the total number of children on the bus.\nThere were 41 children on the bus altogether, and 2 children got on the bus at the bus stop. Therefore, the number of children riding on the bus before the bus stop is 41 - 2 = 39.\nThe answer is 39."
+    },
+    {
+        "question": "Debby bought 88 water bottles and 13 soda bottles when they were on sale. If she drank 4 water bottles and 87 soda bottles a day How many days would the water bottles last?",
+        "answer": "To find out how many days the water bottles would last, we need to divide the number of water bottles Debby bought by the number she drank in a day.\nDebby bought 88 water bottles and drank 4 bottles a day, so the number of days the water bottles would last is 88 / 4 = 22 days.\nTherefore, the water bottles would last 22 days.\nThe answer is 22."
+    },
+    {
+        "question": "Frank was reading through his favorite book. The book had 2 chapters each with 405 pages. It took frank 664 days to finish the book. How many chapters did he read per day?",
+        "answer": "To find out how many chapters Frank read per day, we need to divide the total number of chapters by the number of days it took him to finish the book.\nThere are 2 chapters in the book, and Frank finished the book in 664 days. Therefore, he read 2 chapters / 664 days = 0.03 chapters per day.\nThe answer is 0.03."
+    },
+    {
+        "question": "David did 40 more push-ups but 17 less crunches than Zachary in gym class today. If Zachary did 34 push-ups and 62 crunches How many crunches did David do?",
+        "answer": "To find out how many crunches David did, we need to subtract the number of crunches he did from the number Zachary did. Zachary did 62 crunches and David did 40 more push-ups than Zachary, so the difference is 62 - 40 = 22.\nTherefore, David did 22 crunches.\nThe answer is 22."
+    },
+    {
+        "question": "Rebecca wants to split a collection of eggs into groups of 3. Rebecca has 99 bananas 9 eggs and 27 marbles. How many groups will be created?",
+        "answer": "Rebecca wants to split the collection of eggs into groups of 3.\nShe has 99 bananas, 9 eggs, and 27 marbles.\nTo find out how many groups will be created, we need to divide the number of eggs by 3.\n9 eggs / 3 = 3 groups\nTherefore, Rebecca will create 3 groups.\nThe answer is 3."
+    },
+    {
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 25 sacks of unripe oranges and 5 sacks of ripe oranges per day. How many sacks of ripe oranges will they have after 73 days of harvest?",
+        "answer": "To find out how many sacks of ripe oranges they will have after 73 days of harvest, we need to multiply the number of sacks of ripe oranges per day by the number of days they will harvest.\nThey harvest 5 sacks of ripe oranges per day, so they will have 5 x 73 = 365 sacks of ripe oranges after 73 days of harvest.\nTherefore, they will have 365 sacks of ripe oranges after 73 days of harvest.\nThe answer is 365."
+    },
+    {
+        "question": "If they are already at 659 feet and the cave is 762 feet deep How much farther until they reach the end of the cave?",
+        "answer": "To find out how much farther it is until they reach the end of the cave, we need to subtract the distance they have already traveled (659 feet) from the total depth of the cave (762 feet).\nThe distance left to travel = 762 - 659 = 83 feet.\nTherefore, they have 83 feet left to travel until they reach the end of the cave.\nThe answer is 83 feet."
+    },
+    {
+        "question": "Jake has 6 fewer peaches than Steven. Steven has 18 more peaches than Jill. If jill has 5 peaches How many peaches does Jake have?",
+        "answer": "Jake has 6 fewer peaches than Steven, which means Jake has 6 + 18 = 24 peaches.\nTherefore, Jake has 24 peaches.\nThe answer is 24."
+    },
+    {
+        "question": "Baker made some cakes. He sold 145 of them. If he still has 72 cakes left How many cakes did baker make?",
+        "answer": "To find out how many cakes Baker made, we need to subtract the number of cakes he sold from the number of cakes he still has. Baker sold 145 cakes and still has 72 cakes left, so he made 72 - 145 = -73 cakes.\nBaker did not make any cakes.\nThe answer is -73."
+    },
+    {
+        "question": "Adam has 10 apples. Jackie has 2 apples. How many more apples does Adam have than Jackie?",
+        "answer": "To find out how many more apples Adam has than Jackie, we need to subtract the number of apples Jackie has from the number of apples Adam has.\nAdam has 10 apples and Jackie has 2 apples, so the difference is 10 - 2 = 8.\nTherefore, Adam has 8 more apples than Jackie.\nThe answer is 8."
+    },
+    {
+        "question": "Paul had 95 pens and 153 books. After selling some books and pens in a garage sale he had 13 books and 23 pens left. How many books did he sell in the garage sale?",
+        "answer": "To find out how many books Paul sold in the garage sale, we need to subtract the number of books he had left after the sale from the total number of books he had.\nPaul had 153 books and sold some of them in the garage sale, so he had 13 books left after the sale. Therefore, he sold 153 - 13 = 140 books in the garage sale.\nThe answer is 140."
+    },
+    {
+        "question": "An industrial machine can make 3 shirts per minute. It made 6 shirts in all. How many minutes was the machine working?",
+        "answer": "To find out how many minutes the machine worked, we need to divide the number of shirts it made by its production rate.\nThe industrial machine can make 3 shirts per minute, so it worked for 6 / 3 = 2 minutes.\nTherefore, the machine worked for 2 minutes.\nThe answer is 2."
+    },
+    {
+        "question": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 57 g of colors to paint them. He needs 22 g of wax more. If the feathers require a total of 353 g of wax How many grams of wax does he already have?",
+        "answer": "To find out how many grams of wax the person already has, we need to subtract the amount of wax needed to paint the feathers from the total amount of wax required to stick and paint the feathers.\nThe person needs a total of 353 g of wax to stick and paint the feathers, and he needs 22 g of wax more. Therefore, the person already has 353 - 22 = 331 g of wax.\nThe answer is 331 g."
+    },
+    {
+        "question": "Mary is baking a cake. The recipe calls for 11 cups of sugar 6 cups of flour and 9 cups of salt. She already put in 12 cups of flour. How many more cups of sugar than cups of salt does she need to add now?",
+        "answer": "To find out how many more cups of sugar Mary needs to add than cups of salt, we need to subtract the number of cups of salt from the number of cups of sugar required in the recipe.\nThe recipe calls for 11 cups of sugar and 9 cups of salt. Mary has already added 12 cups of flour. So, the difference is 11 - 9 = 2 cups of sugar.\nTherefore, Mary needs to add 2 more cups of sugar than cups of salt.\nThe answer is 2."
+    },
+    {
+        "question": "Mary is baking a cake. The recipe calls for 6 cups of sugar and 9 cups of flour. She already put in 2 cups of flour. How many more cups of flour than cups of sugar does she need to add now?",
+        "answer": "To find out how many more cups of flour Mary needs to add than cups of sugar, we need to subtract the number of cups of flour she already added from the total number of cups of flour needed.\nMary needs 9 cups of flour and already added 2 cups, so she needs 9 - 2 = 7 more cups of flour.\nTherefore, Mary needs 7 more cups of flour than cups of sugar.\nThe answer is 7."
+    },
+    {
+        "question": "Josh had 20 marbles in his collection. He gave 2 marbles to Jack. How many marbles does Josh have now?",
+        "answer": "Josh had 20 marbles in his collection and gave 2 marbles to Jack.\nSo, Josh has 20 - 2 = 18 marbles left.\nTherefore, Josh has 18 marbles in his collection now.\nThe answer is 18."
+    },
+    {
+        "question": "Paco had 9 sweet cookies and 6 salty cookies. He ate 36 sweet cookies and 3 salty cookies. How many salty cookies did Paco have left?",
+        "answer": "Paco had 9 sweet cookies and 6 salty cookies initially.\nHe ate 36 sweet cookies and 3 salty cookies, so he ate 36 + 3 = 40 cookies.\nTherefore, Paco had 9 - 40 = -31 salty cookies left.\nThe answer is -31."
+    },
+    {
+        "question": "Edward had $ 18. He spent $ 16. How much money does Edward have now?",
+        "answer": "Edward had $ 18 and spent $ 16.\nSo, he has $ 18 - $ 16 = $ 2 left.\nTherefore, Edward has $ 2 now.\nThe answer is $ 2."
+    },
+    {
+        "question": "Paco had 40 cookies. He ate 2 of them. Then he bought 37 more cookies How many cookies did Paco have left?",
+        "answer": "Paco had 40 cookies at first, and then he ate 2 of them. So, he had 40 - 2 = 38 cookies left.\nThen, he bought 37 more cookies, so he had 38 + 37 = 75 cookies left.\nTherefore, Paco had 75 cookies left.\nThe answer is 75."
+    },
+    {
+        "question": "Lawrence county has 313473 kids. During summer break 274865 kids stay home and the rest go to camp. How many kids go to the camp during the break?",
+        "answer": "To find out how many kids go to camp during the summer break, we need to subtract the number of kids who stay home from the total number of kids in Lawrence County.\nLawrence County has 313473 kids, and 274865 kids stay home, so the number of kids who go to camp is 313473 - 274865 = 38808.\nTherefore, 38808 kids go to camp during the summer break.\nThe answer is 38808."
+    },
+    {
+        "question": "Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake. How many more packs of cookie did she buy over cake?",
+        "answer": "To find out how many more packs of cookie Lucy bought than cake, we need to compare the number of packs of cookie and cake she bought. Lucy bought 10 packs of cookie and 4 packs of cake. Therefore, she bought 10 - 4 = 6 more packs of cookie than cake.\nThe answer is 6."
+    },
+    {
+        "question": "There are 4502 skittles in Steven's skittles collection. Steven also has 4276 erasers. If the skittles and erasers are organized into 154 groups How big is each group?",
+        "answer": "To find out how big each group is, we need to divide the total number of skittles and erasers by the number of groups.\nThe total number of skittles is 4502 and the total number of erasers is 4276.\nTherefore, each group has 4502 / 154 = 29 skittles and 4276 / 154 = 28 erasers.\nThe answer is 29 skittles and 28 erasers in each group."
+    },
+    {
+        "question": "The ring toss game at the carnival made 325 dollars in the first 154 days and 114 dollars in the remaining 57 days. How much did they make per day in the remaining 57 days at the carnival?",
+        "answer": "To find out how much the ring toss game made per day in the remaining 57 days, we need to divide the total amount made by the number of days left.\nThe game made a total of 325 + 114 = 449 dollars.\nTherefore, it made 449 / 57 = 8 dollars per day in the remaining 57 days.\nThe answer is 8."
+    },
+    {
+        "question": "The Razorback t-shirt shop makes $ 87 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 95 t-shirts. If they sold 47 t-shirts during the Arkansas game How much money did they make from selling the t-shirts?",
+        "answer": "To find out how much money the Razorback t-shirt shop made from selling t-shirts, we need to multiply the number of t-shirts sold by the amount of money made per t-shirt.\nThe shop sold a total of 95 t-shirts during both games, and 47 t-shirts during the Arkansas game. Therefore, the total amount of money made from selling t-shirts is 95 x $87 = $8,325.\nThe answer is $8,325."
+    },
+    {
+        "question": "White t - shirts can be purchased in packages. If mom buys 66 white t - shirts where each package has 3 white t - shirts. How many packages will she have?",
+        "answer": "To find out how many packages Mom will have, we need to divide the total number of white t-shirts by the number of t-shirts in each package.\n66 white t-shirts / 3 t-shirts per package = 22 packages.\nTherefore, Mom will have 22 packages of white t-shirts.\nThe answer is 22."
+    },
+    {
+        "question": "Paige raised 16 goldfish and 71 catfish in the pond but stray cats loved eating them. Now she has 2 left. How many goldfish disappeared?",
+        "answer": "To find out how many goldfish disappeared, we need to subtract the number of goldfish Paige has left from the total number of goldfish she raised.\nPaige has 2 goldfish left and raised 16 goldfish in total. Therefore, 16 - 2 = 14 goldfish disappeared.\nThe answer is 14."
+    },
+    {
+        "question": "Rachel had to complete 5 pages of math homework and 2 pages of reading homework. How many more pages of math homework than reading homework did she have?",
+        "answer": "To find out how many more pages of math homework Rachel had than reading homework, we need to subtract the number of pages of reading homework from the number of pages of math homework.\nRachel had 5 pages of math homework and 2 pages of reading homework, so the difference is 5 - 2 = 3 more pages of math homework than reading homework.\nTherefore, Rachel had 3 more pages of math homework than reading homework.\nThe answer is 3."
+    },
+    {
+        "question": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 14 invitations in it and she bought 6 packs. Then she bought 11 extra invitations. How many friends can she invite?",
+        "answer": "Carol bought 6 packs of invitations, each pack had 14 invitations, so she bought a total of 6 x 14 = 84 invitations.\nThen she bought 11 extra invitations, so the total number of invitations she has is 84 + 11 = 95 invitations.\nTherefore, Carol can invite 95 friends to the birthday party.\nThe answer is 95."
+    },
+    {
+        "question": "6 red peaches, 90 yellow peaches and 16 green peaches are in the basket. How many red and green peaches are in the basket?",
+        "answer": "To find out how many red and green peaches are in the basket, we need to add the number of red and green peaches together.\nThere are 6 red peaches and 16 green peaches in the basket, so the total number of red and green peaches is 6 + 16 = 22.\nTherefore, there are 22 red and green peaches in the basket.\nThe answer is 22."
+    },
+    {
+        "question": "Jack received 3 emails in the morning, 4 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the morning and evening?",
+        "answer": "Jack received 3 emails in the morning and 8 emails in the evening.\nSo, he received a total of 3 + 8 = 11 emails in the morning and evening.\nTherefore, Jack received 3 emails in the morning and 8 emails in the evening.\nThe answer is 3 and 8."
+    },
+    {
+        "question": "Rachel has 3 apple trees. She picked 8 apples from each of her trees. Now the trees have a total 9 apples still on them. How many apples were there on all trees initially?",
+        "answer": "Rachel has 3 apple trees, and she picked 8 apples from each of them. So, she picked a total of 3 x 8 = 24 apples.\nNow, there are 9 apples still on the trees. Therefore, there were 24 - 9 = 15 apples on the trees initially.\nThe answer is 15."
+    },
+    {
+        "question": "Jake has 7 fewer peaches than Steven and 9 more peaches than Jill. Steven has 16 peaches. How many peaches does Jake have?",
+        "answer": "Jake has 7 fewer peaches than Steven, so Jake has 16 - 7 = 9 peaches.\nJake also has 9 more peaches than Jill, so Jake has 9 + 9 = 18 peaches.\nTherefore, Jake has 18 peaches.\nThe answer is 18."
+    },
+    {
+        "question": "Dave had 17 apps on his phone. After adding some he had 18 left. How many apps did he add?",
+        "answer": "Dave had 17 apps on his phone and after adding some, he had 18 left.\nSo, he added 18 - 17 = 1 app.\nTherefore, Dave added 1 app.\nThe answer is 1."
+    },
+    {
+        "question": "Jack received 4 emails in the morning and some more in the afternoon. If he received a total of 5 emails in the day How many emails did Jack receive in the afternoon?",
+        "answer": "Jack received a total of 5 emails in the day.\nSo, he received 5 - 4 = 1 more email in the afternoon than in the morning.\nTherefore, Jack received 1 email in the afternoon.\nThe answer is 1."
+    },
+    {
+        "question": "Faye was placing her pencils into 14 rows with 11 pencils in each row. How many pencils does she have?",
+        "answer": "Faye was placing her pencils into 14 rows with 11 pencils in each row. Therefore, she has 14 x 11 = 154 pencils.\nThe answer is 154."
+    },
+    {
+        "question": "Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?",
+        "answer": "Paco gave 14 cookies to his friend and ate 10 cookies, so he had 36 - 14 - 10 = 12 cookies left.\nTherefore, Paco had 12 cookies left.\nThe answer is 12."
+    },
+    {
+        "question": "Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 5 marbles and 12 eggs. How many more eggs does Rebecca have than marbles?",
+        "answer": "Rebecca has 5 marbles and 12 eggs.\nTo find out how many more eggs Rebecca has than marbles, we need to subtract the number of marbles from the number of eggs.\n5 - 5 = 0\nRebecca has an equal number of marbles and eggs.\nTherefore, Rebecca has 0 more eggs than marbles.\nThe answer is 0."
+    },
+    {
+        "question": "Nell collects baseball cards. She had 566 cards while Jeff had 234 cards. She gave some of her cards to Jeff and now has 535 cards left. How many cards does Jeff have now?",
+        "answer": "Nell had 566 baseball cards and gave some of them to Jeff, who now has 234 cards.\nSo, Jeff has 234 + 566 = 796 cards now.\nTherefore, Jeff has 796 cards now.\nThe answer is 796."
+    },
+    {
+        "question": "Brenda's mother made 14 cookies for 2 guests. If each of them had the same number of cookies How many did each of them have?",
+        "answer": "Brenda's mother made 14 cookies for 2 guests. If each of them had the same number of cookies, then each guest had 14 / 2 = 7 cookies.\nTherefore, each guest had 7 cookies.\nThe answer is 7."
+    },
+    {
+        "question": "Debby drinks 6 bottles a day. If she bought a total of 12 water bottles How many days would they last her?",
+        "answer": "Debby drinks 6 bottles a day, and she bought a total of 12 water bottles.\nTo find out how many days the water bottles would last her, we need to divide the number of bottles she bought by the number of bottles she drinks per day.\n12 bottles / 6 bottles per day = 2 days\nTherefore, the water bottles would last Debby for 2 days.\nThe answer is 2."
+    },
+    {
+        "question": "The Ferris wheel in paradise park has 4 seats. If 20 people can ride the wheel at the same time How many people can each seat hold?",
+        "answer": "To find out how many people each seat can hold, we need to divide the number of people who can ride the wheel at the same time by the number of seats.\n20 people can ride the wheel at the same time, and there are 4 seats in the Ferris wheel. Therefore, each seat can hold 20 / 4 = 5 people.\nThe answer is 5."
+    },
+    {
+        "question": "Emily is making bead necklaces for her friends. Each necklace takes 8 beads and she has 16 beads. How many necklaces can Emily make?",
+        "answer": "To find out how many necklaces Emily can make, we need to divide the number of beads she has by the number of beads needed for each necklace.\nEmily has 16 beads and each necklace takes 8 beads, so she can make 16 / 8 = 2 necklaces.\nTherefore, Emily can make 2 necklaces.\nThe answer is 2."
+    },
+    {
+        "question": "Winter is almost here and most animals are migrating to warmer countries. There are 18 bird families living near the mountain. If 38 bird families flew away to africa and 80 bird families flew away to asia How many bird families flew away for the winter?",
+        "answer": "To find out how many bird families flew away for the winter, we need to subtract the number of bird families that stayed near the mountain from the total number of bird families that flew away.\n38 bird families flew away to Africa and 80 bird families flew away to Asia, so the total number of bird families that flew away is 38 + 80 = 118.\nThe number of bird families that stayed near the mountain is 18.\nTherefore, 118 - 18 = 100 bird families flew away for the winter.\nThe answer is 100."
+    },
+    {
+        "question": "Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?",
+        "answer": "Jack received 5 emails in the afternoon and 8 emails in the evening.\nTherefore, Jack received a total of 5 + 8 = 13 emails in the afternoon and evening.\nThe answer is 13."
+    },
+    {
+        "question": "Because of the decision Sofia asked 310 students to suggest specific types of food. 185 students suggested adding mashed potatoes while others suggested adding bacon to the menu. How many students suggested bacon?",
+        "answer": "To find out how many students suggested bacon, we need to subtract the number of students who suggested mashed potatoes from the total number of students who suggested specific types of food.\nSofia asked 310 students to suggest specific types of food, and 185 students suggested mashed potatoes. Therefore, the number of students who suggested bacon is 310 - 185 = 125.\nThe answer is 125."
+    },
+    {
+        "question": "Lawrence county has 898051 kids. During summer break 629424 kids go to camp and the rest stay home. How many kids stay home?",
+        "answer": "Lawrence county has 898051 kids in total.\nDuring summer break, 629424 kids go to camp, so the number of kids who stay home is 898051 - 629424 = 268627 kids.\nTherefore, 268627 kids stay home.\nThe answer is 268627."
+    },
+    {
+        "question": "Jake has 8 fewer peaches and 10 more apples than Steven. Steven has 11 apples and 18 peaches. How many more peaches than apples does Steven have?",
+        "answer": "To find out how many more peaches than apples Steven has, we need to subtract the number of apples from the number of peaches he has. Steven has 18 peaches and 11 apples, so the difference is 18 - 11 = 7.\nTherefore, Steven has 7 more peaches than apples.\nThe answer is 7."
+    },
+    {
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 16 sacks per day and that each sack containes 57 oranges. How many days will it take to harvest 80 sacks of oranges?",
+        "answer": "To find out how many days it will take to harvest 80 sacks of oranges, we need to divide the number of sacks by the number of sacks per day.\n80 / 16 = 5 days\nTherefore, it will take 5 days to harvest 80 sacks of oranges.\nThe answer is 5."
+    },
+    {
+        "question": "Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday. How many more kids did she play with on monday than on tuesday?",
+        "answer": "Julia played with 9 kids on Monday, 7 kids on Tuesday, and 96 kids on Wednesday.\nTo find the difference between the number of kids she played with on Monday and Tuesday, we need to subtract the number of kids she played with on Tuesday from the number she played with on Monday.\n9 - 7 = 2\nTherefore, Julia played with 2 more kids on Monday than on Tuesday.\nThe answer is 2."
+    },
+    {
+        "question": "Allan brought 3 balloons and 20 balls while Jake brought 5 balloons and 59 balls to the park. How many balloons did Allan and Jake have in the park?",
+        "answer": "Allan brought 3 balloons and Jake brought 5 balloons to the park.\nSo, Allan had 3 + 5 = 8 balloons in the park.\nJake brought 59 balls to the park, so Jake had 59 - 5 = 54 balls in the park.\nTherefore, Allan had 8 balloons and Jake had 54 balls in the park.\nThe answer is 8 and 54."
+    },
+    {
+        "question": "An industrial machine can make 6 shirts a minute. It worked for 12 minutes yesterday and for 14 shirts today. How many shirts did machine make altogether?",
+        "answer": "To find out how many shirts the machine made altogether, we need to multiply the number of minutes it worked by the number of shirts it can make per minute.\nThe machine worked for 12 minutes yesterday and 14 shirts today, so it made 12 x 6 = 72 shirts altogether.\nTherefore, the machine made 72 shirts altogether.\nThe answer is 72."
+    },
+    {
+        "question": "Jake has 13 fewer peaches and 3 more apples than Steven. Steven has 9 peaches and 8 apples. How many apples does Jake have?",
+        "answer": "Jake has 3 more apples than Steven, so Jake has 8 + 3 = 11 apples.\nJake has 13 fewer peaches than Steven, so Jake has 9 - 13 = 4 peaches.\nTherefore, Jake has 11 apples and 4 peaches.\nThe answer is 11."
+    },
+    {
+        "question": "The cave is 1218 feet deep and they are already at 849 feet. If they are travelling at speed of 17 How much farther until they reach the end of the cave?",
+        "answer": "To find out how much farther it is until they reach the end of the cave, we need to subtract the distance they have already traveled from the total depth of the cave.\nThe cave is 1218 feet deep, and they are already at 849 feet, so the distance left to travel is:\n1218 - 849 = 369 feet.\nTherefore, they have 369 feet left to travel until they reach the end of the cave.\nThe answer is 369."
+    },
+    {
+        "question": "Allan brought 5 balloons and Jake brought 6 balloons to the park. Jake then bought 3 more balloons at the park. How many balloons did Jake bring to the park?",
+        "answer": "Jake brought 6 balloons to the park and then bought 3 more balloons, so he brought a total of 6 + 3 = 9 balloons to the park.\nTherefore, Jake brought 9 balloons to the park.\nThe answer is 9."
+    },
+    {
+        "question": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 49 g of colors to paint them. If the feathers require 288 g of wax and right now he just needs 260 g How many grams of wax does he already have?",
+        "answer": "To find out how many grams of wax the person already has, we need to subtract the amount of wax needed from the total amount of wax required.\nThe person needs 49 g of colors to paint the feathers, and the feathers require 288 g of wax. Therefore, the person already has 288 - 49 = 239 grams of wax.\nThe answer is 239."
+    },
+    {
+        "question": "You had 14 bags with equal number of cookies. If you had 28 cookies and 86 candies in total How many bags of cookies do you have?",
+        "answer": "You had 14 bags with an equal number of cookies.\nYou had 28 cookies in total and 86 candies in total.\nSo, you have 28 / 14 = 2 bags of cookies.\nTherefore, you have 2 bags of cookies.\nThe answer is 2."
+    },
+    {
+        "question": "36 children were riding on the bus. At the bus stop 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus. How many more children got off the bus than those that got on?",
+        "answer": "To find out how many more children got off the bus than those that got on, we need to subtract the number of children who got on the bus from the number of children who got off the bus.\n68 - 12 = 56\nTherefore, 56 more children got off the bus than those that got on.\nThe answer is 56."
+    },
+    {
+        "question": "Melissa scored a total of 21 points playing some games. Is she scored 7 points in each game. How many games did she play?",
+        "answer": "Melissa scored a total of 21 points playing games, and she scored 7 points in each game.\nSo, she played 21 / 7 = 3 games.\nTherefore, Melissa played 3 games.\nThe answer is 3."
+    },
+    {
+        "question": "A farmer had 171 tomatoes in his garden. If he picked 134 of them yesterday and 30 today. How many will he have left after today?",
+        "answer": "The farmer had 171 tomatoes in his garden and picked 134 yesterday, leaving him with 171 - 134 = 37 tomatoes.\nThen, he picked 30 tomatoes today, leaving him with 37 - 30 = 7 tomatoes.\nTherefore, the farmer will have 7 tomatoes left after today.\nThe answer is 7."
+    },
+    {
+        "question": "Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles. How many bags of cans did she have altogether?",
+        "answer": "Tiffany had 3 bags of cans on Monday and found 7 more bags of cans and 44 bags of bottles on the next day.\nSo, she had 3 + 7 = 10 bags of cans altogether.\nTherefore, Tiffany had 10 bags of cans altogether.\nThe answer is 10."
+    },
+    {
+        "question": "Ed had 2 more marbles than Doug. Doug lost some of his marbles at the playground. Now Ed has 19 more marbles than doug. How many marbles did Doug lose?",
+        "answer": "Ed had 2 more marbles than Doug, so Ed had 2 + 19 = 21 more marbles than Doug.\nDoug lost some of his marbles at the playground, so he had fewer marbles than Ed.\nThe answer is 21."
+    },
+    {
+        "question": "Ryan learns english and chinese for 7 days. Every day he spends 4 hours on learning english and 5 hours on learning chinese. How many hours does he spend on learning english and chinese in all?",
+        "answer": "Ryan learns English and Chinese for 7 days, and he spends 4 hours on learning English and 5 hours on learning Chinese every day.\nTo find out how many hours he spends on learning English and Chinese in all, we need to multiply the number of days he learns by the number of hours he spends on learning each subject.\nRyan learns English for 7 x 4 = 28 hours and learns Chinese for 7 x 5 = 35 hours.\nTherefore, Ryan spends 28 hours on learning English and 35 hours on learning Chinese in all.\nThe answer is 63 hours."
+    },
+    {
+        "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 9 inches. The mouse jumped 3 inches lesser than the frog who jumped 33 inches farther than the grasshopper. How far did the mouse jump?",
+        "answer": "To find out how far the mouse jumped, we need to use the information given in the problem.\nThe frog jumped 33 inches farther than the grasshopper, who jumped 9 inches. So, the frog jumped 33 - 9 = 24 inches.\nThe mouse jumped 3 inches less than the frog, so the mouse jumped 24 - 3 = 21 inches.\nTherefore, the mouse jumped 21 inches.\nThe answer is 21."
+    },
+    {
+        "question": "He then went to see the oranges being harvested. He found out that they harvest 5 sacks of ripe oranges and 74 sacks of unripe oranges per day. How many more sacks of unripe oranges than ripe oranges are harvested per day?",
+        "answer": "To find out how many more sacks of unripe oranges are harvested per day than ripe oranges, we need to subtract the number of sacks of ripe oranges from the number of sacks of unripe oranges.\n5 sacks of ripe oranges / 74 sacks of unripe oranges = 0.07\nTherefore, 74 - 5 = 69 more sacks of unripe oranges are harvested per day than ripe oranges.\nThe answer is 69."
+    },
+    {
+        "question": "Jerry had 8 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed 5 old ones. How many action figures were on his shelf in all?",
+        "answer": "Jerry had 8 action figures on the shelf at first and then added 4 more, so he had 8 + 4 = 12 action figures on the shelf later.\nLater, he removed 5 old action figures, so he had 12 - 5 = 7 action figures on the shelf in all.\nTherefore, Jerry had 7 action figures on his shelf in all.\nThe answer is 7."
+    },
+    {
+        "question": "26 children were riding on the bus. At the bus stop 38 more children got on the bus. How many children are on the bus now?",
+        "answer": "To find out how many children are on the bus now, we need to add the number of children who were already on the bus to the number of children who got on the bus at the bus stop.\n26 children were already on the bus, and 38 more children got on the bus at the bus stop, so the total number of children on the bus now is 26 + 38 = 64 children.\nTherefore, 64 children are on the bus now.\nThe answer is 64."
+    },
+    {
+        "question": "They decided to hold the party in their backyard. They have 14 chairs for each set of table. If they have 9 sets of tables How many more chairs than tables do they have?",
+        "answer": "To find out how many more chairs than tables they have, we need to subtract the number of tables from the number of chairs.\nThey have 14 chairs for each set of tables and 9 sets of tables, so the difference is 14 x 9 = 126 chairs.\nTherefore, they have 126 more chairs than tables.\nThe answer is 126."
+    },
+    {
+        "question": "The bananas in Philip's collection are organized into 196 groups. If there are a total of 392 bananas in Philip's banana collection How big is each group?",
+        "answer": "To find out how big each group of bananas is, we need to divide the total number of bananas by the number of groups.\nThere are 392 bananas in Philip's banana collection and 196 groups. Therefore, each group contains 392 / 196 = 2 bananas.\nThe answer is 2."
+    },
+    {
+        "question": "Because of the decision Sofia asked the students to suggest specific types of food. If 228 students suggested adding mashed potatoes 337 suggested adding bacon to the menu and 23 suggested adding tomatoes How many more students suggested bacon than those that suggested tomatoes?",
+        "answer": "To find the difference between the number of students who suggested bacon and the number who suggested tomatoes, we need to subtract the number of students who suggested tomatoes from the number who suggested bacon.\n23 students suggested adding tomatoes, and 337 students suggested adding bacon. Therefore, the difference is 337 - 23 = 314.\nTherefore, 314 more students suggested bacon than those who suggested tomatoes.\nThe answer is 314."
+    },
+    {
+        "question": "There are 20 different books in the ' crazy silly school ' series. If you are yet to read 5 of the books How many books have you already read?",
+        "answer": "If you have read 5 of the books in the 'Crazy Silly School' series, then you have not read 20 - 5 = 15 books in the series.\nTherefore, you have read 15 books in the series.\nThe answer is 15."
+    },
+    {
+        "question": "Debby bought 200 water bottles and 256 soda bottles when they were on sale. If she drank 312 water bottles and 4 soda bottles a day How many days would the soda bottles last?",
+        "answer": "To find out how many days the soda bottles would last, we need to divide the number of soda bottles Debby had by the number of days she drank them. Debby had 256 soda bottles and drank 4 bottles a day. Therefore, the soda bottles would last 256 / 4 = 64 days.\nThe answer is 64 days."
+    },
+    {
+        "question": "Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days. How many more kids did she play with on monday than on tuesday?",
+        "answer": "Julia played tag with 19 kids on Monday and 18 kids on Tuesday.\nTo find out how many more kids she played with on Monday than on Tuesday, we need to subtract the number of kids she played with on Tuesday from the number of kids she played with on Monday.\n19 - 18 = 1.\nTherefore, Julia played with 1 more kid on Monday than on Tuesday.\nThe answer is 1."
+    },
+    {
+        "question": "After resting they decided to go for a swim. The depth of the water is 9 times Dean's height. If Ron is 15 feet tall and Dean is 6 feet shorter than Ron How deep was the water?",
+        "answer": "To find the depth of the water, we need to multiply the height of Ron by 9.\nRon is 15 feet tall, so the depth of the water is 15 x 9 = 135 feet.\nTherefore, the water was 135 feet deep.\nThe answer is 135."
+    },
+    {
+        "question": "There are 8 different movies and 21 different books in the ' crazy silly school ' series. If you read 7 of the books and watched 4 of the movies How many more movies do you still have to watch?",
+        "answer": "To find out how many more movies you have to watch, we need to subtract the number of movies you have already watched from the total number of movies in the series.\nThere are 21 movies in the series, and you have already watched 4 of them. Therefore, you have 21 - 4 = 17 more movies to watch.\nThe answer is 17."
+    },
+    {
+        "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 24 inches. The frog jumped 33 inches farther than the grasshopper and the mouse jumped 5 inches lesser than the frog. How much farther did the mouse jump than the grasshopper?",
+        "answer": "To find out how much farther the mouse jumped than the grasshopper, we need to subtract the distance the mouse jumped from the distance the grasshopper jumped.\nThe grasshopper jumped 24 inches and the mouse jumped 5 inches less than the frog, who jumped 33 inches farther than the grasshopper. Therefore, the mouse jumped 33 - 5 = 28 inches farther than the grasshopper.\nThe answer is 28."
+    },
+    {
+        "question": "Mary is baking a cake. The recipe calls for 12 cups of flour 5 cups of sugar and 49 cups of salt. She already put in 11 cups of flour. How many more cups of flour does she need to add?",
+        "answer": "To find out how many more cups of flour Mary needs to add, we need to subtract the number of cups of flour she already added from the total amount of flour needed.\nThe recipe calls for 12 cups of flour, and Mary already added 11 cups. Therefore, Mary needs to add 12 - 11 = 1 more cup of flour.\nThe answer is 1."
+    },
+    {
+        "question": "The school is planning a field trip. The school has 87 classrooms. There are 58 students in the school with each classroom having the same number of students. If there are 2 seats on each school bus. How many buses are needed to take the trip?",
+        "answer": "To find out how many buses are needed to take the field trip, we need to divide the total number of students by the number of students that can fit on each bus.\nThere are 58 students in the school, and there are 2 seats on each bus, so we can divide 58 by 2 to get the number of buses needed:\n58 \u00f7 2 = 29\nTherefore, 29 buses are needed to take the field trip.\nThe answer is 29."
+    },
+    {
+        "question": "There are 2 baskets of peaches. Each basket has 4 red peaches and some more green peaches. If there are a total of 12 peaches in all baskets How many green peaches are in each basket?",
+        "answer": "There are 2 baskets of peaches, and each basket has 4 red peaches and some more green peaches.\nSo, the total number of peaches in both baskets is 2 x 4 = 8 red peaches and some more green peaches.\nSince there are a total of 12 peaches in all baskets, the number of green peaches in each basket is 12 / 2 = 6.\nTherefore, each basket has 6 green peaches.\nThe answer is 6."
+    },
+    {
+        "question": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 22 pounds. On the way back Marco ' dad found 30 more pounds of strawberries. Marco's strawberries now weighed 36 pounds. How much did his dad's strawberries weigh now?",
+        "answer": "Marco and his dad collected strawberries that weighed 22 pounds together. Then, on the way back, they found 30 more pounds of strawberries. So, the total weight of strawberries they collected is 22 + 30 = 52 pounds.\nTherefore, Marco's strawberries now weigh 36 pounds, and his dad's strawberries weigh 52 - 36 = 16 pounds.\nThe answer is 16."
+    },
+    {
+        "question": "In Haley's class some boys love to play marbles. If Haley has 10 marbles and she gave 5 marbles to each boy How many boys did she give the marbles to?",
+        "answer": "Haley gave 5 marbles to each of the boys, so she gave a total of 5 x 3 = 15 marbles to the boys.\nTherefore, Haley gave marbles to 3 boys.\nThe answer is 3."
+    },
+    {
+        "question": "Because of the decision Sofia asked the students to suggest specific types of food. 182 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 166 more students suggested adding bacon than those that suggested mashed potatoes How many students suggested bacon?",
+        "answer": "To find out how many students suggested bacon, we need to subtract the number of students who suggested mashed potatoes from the total number of students who suggested food.\n182 students suggested mashed potatoes, and 166 more students suggested bacon than those who suggested mashed potatoes. Therefore, the number of students who suggested bacon is 166 - 182 = -16.\nTherefore, no students suggested bacon.\nThe answer is 0."
+    },
+    {
+        "question": "Steven has 14 peaches. Jake has 6 fewer peaches than Steven and 3 more peaches than Jill. How many peaches does Jill have?",
+        "answer": "Jake has 6 fewer peaches than Steven, so Jake has 14 - 6 = 8 peaches.\nJill has 3 more peaches than Jake, so Jill has 8 + 3 = 11 peaches.\nTherefore, Jill has 11 peaches.\nThe answer is 11."
+    },
+    {
+        "question": "There are 4 different books and 17 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 7 of the movies How many more movies do you still have to watch?",
+        "answer": "To find out how many more movies you have to watch, we need to subtract the number of movies you watched from the total number of movies in the series.\nThere are 17 movies in the series, and you watched 7 of them, so you have 17 - 7 = 10 more movies to watch.\nThe answer is 10."
+    },
+    {
+        "question": "There are 384 oranges and 192 bananas in Philip's collection. If the bananas are organized into 345 groups and oranges are organized into 16 groups How big is each group of oranges?",
+        "answer": "To find out how big each group of oranges is, we need to divide the number of oranges in each group by the total number of oranges.\nPhilip has 16 groups of oranges, and each group has 16 / 16 = 1 orange.\nTherefore, each group of oranges has 1 orange.\nThe answer is 1."
+    },
+    {
+        "question": "Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now How many action figures did he have initially on the shelf?",
+        "answer": "Jerry had a total of 10 action figures on his shelf now.\nSo, he had 10 - 7 = 3 action figures on his shelf initially.\nTherefore, Jerry had 3 action figures on his shelf initially.\nThe answer is 3."
+    },
+    {
+        "question": "A farmer had 177 tomatoes and 12 potatoes in his garden. If he picked 53 tomatoes How many tomatoes and potatoes does he have left?",
+        "answer": "The farmer picked 53 tomatoes, so he has 177 - 53 = 124 tomatoes left.\nHe also has 12 potatoes left.\nTherefore, the farmer has 124 tomatoes and 12 potatoes left.\nThe answer is 124 and 12."
+    },
+    {
+        "question": "For the walls of the house he would use 11 nails in all to secure large planks of wood. If each plank needs 3 pieces of nails to be secured and an additional 8 nails were used. How many planks does John need for the house wall?",
+        "answer": "To find out how many planks John needs for the house wall, we need to divide the total number of nails used by the number of nails needed for each plank.\nThe total number of nails used is 11, and each plank needs 3 nails. Therefore, we can divide 11 by 3 to find out how many planks John needs:\n11 \u00f7 3 = 3\nSo, John needs 3 planks for the house wall.\nThe answer is 3."
+    },
+    {
+        "question": "Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?",
+        "answer": "Josh had 22 marbles in his collection to start with. Then, he found 13 more marbles, so he has 22 + 13 = 35 marbles now.\nHowever, he lost 5 marbles, so he has 35 - 5 = 30 marbles now.\nTherefore, Josh has 30 marbles in his collection now.\nThe answer is 30."
+    },
+    {
+        "question": "Bobby had 22 pieces of candy. He ate some pieces of candy. Then he ate 5 more. If he still has 8 pieces of candy left How many pieces of candy had he eaten at the start?",
+        "answer": "To find out how many pieces of candy Bobby had eaten at the start, we need to subtract the number of pieces of candy he still has from the total number of pieces of candy he had.\nBobby had 22 pieces of candy and still has 8 pieces, so he had eaten 22 - 8 = 14 pieces of candy at the start.\nThe answer is 14."
+    },
+    {
+        "question": "Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies How many more cookies did he buy than those he ate?",
+        "answer": "To find the difference between the number of cookies Paco bought and the number he ate, we need to subtract the number he ate from the number he bought.\nPaco ate 2 cookies and bought 36 more cookies, so the difference is 36 - 2 = 34.\nTherefore, Paco bought 34 more cookies than he ate.\nThe answer is 34."
+    },
+    {
+        "question": "41 children were riding on the bus. At the bus stop some children got off the bus. Then there were 18 children left on the bus. How many more children were on the bus before the bus stop than there are now?",
+        "answer": "To find out how many more children were on the bus before the bus stop than there are now, we need to subtract the number of children who got off the bus from the number of children who were on the bus before the bus stop.\n41 children were riding on the bus before the bus stop, and 18 children got off the bus, so the difference is 41 - 18 = 23.\nTherefore, there were 23 more children on the bus before the bus stop than there are now.\nThe answer is 23."
+    },
+    {
+        "question": "Paco had 22 sweet cookies and 75 salty cookies. He ate 15 sweet cookies and 54 salty cookies. How many sweet cookies did Paco have left?",
+        "answer": "Paco had 22 sweet cookies and 75 salty cookies. He ate 15 sweet cookies and 54 salty cookies.\nTo find out how many sweet cookies Paco had left, we need to subtract the number of sweet cookies he ate from the total number of sweet cookies he had.\n22 - 15 = 7 sweet cookies.\nTherefore, Paco had 7 sweet cookies left.\nThe answer is 7."
+    },
+    {
+        "question": "Adam has 3 more apples than jackie. Adam has 9 apples. How many apples does Jackie have?",
+        "answer": "To find out how many apples Jackie has, we need to subtract the number of apples Adam has from 3.\nAdam has 9 apples, and 3 more apples than Jackie, so Jackie has 9 - 3 = 6 apples.\nTherefore, Jackie has 6 apples.\nThe answer is 6."
+    },
+    {
+        "question": "White t - shirts can be purchased in packages. If mom buys 28 packages which contain 56 white t - shirts in total How many white t - shirts does each package have?",
+        "answer": "To find out how many white t-shirts each package has, we need to divide the total number of white t-shirts by the number of packages.\nThere are 56 white t-shirts in total, and Mom bought 28 packages. Therefore, each package has 56 / 28 = 2 white t-shirts.\nThe answer is 2."
+    },
+    {
+        "question": "Dan has $ 4. He bought a candy bar for $ 7 and a chocolate for $ 6. How much money did he spend buying the candy bar and chocolate?",
+        "answer": "To find out how much money Dan spent buying the candy bar and chocolate, we need to add the cost of each item.\nDan spent $ 7 on the candy bar and $ 6 on the chocolate, so he spent a total of $ 7 + $ 6 = $ 13.\nTherefore, Dan spent $ 13 buying the candy bar and chocolate.\nThe answer is $ 13."
+    },
+    {
+        "question": "After finding some bottle caps at the park danny has 32 bottle caps in his collection. If he had 25 bottle caps in his collection earlier How many bottle caps did he find at the park?",
+        "answer": "Danny had 25 bottle caps in his collection earlier and found 32 more bottle caps at the park.\nSo, the number of bottle caps Danny found at the park is 32 - 25 = 7.\nTherefore, Danny found 7 bottle caps at the park.\nThe answer is 7."
+    },
+    {
+        "question": "Winter is almost here and most animals are migrating to warmer countries. 86 bird families flew away for the winter from near a mountain. If there were 45 bird families living near the mountain initially How many more bird families flew away for the winter than those that stayed behind?",
+        "answer": "To find the difference between the number of bird families that flew away for the winter and the number that stayed behind, we need to subtract the number that stayed behind from the number that flew away. \n86 bird families flew away for the winter and 45 bird families lived near the mountain initially, so the difference is 86 - 45 = 41.\nTherefore, 41 more bird families flew away for the winter than stayed behind.\nThe answer is 41."
+    },
+    {
+        "question": "Faye was placing her pencils and crayons into 30 rows with 71 crayons and 24 pencils in each row. How many pencils does she have?",
+        "answer": "Faye has 24 pencils in each row, and she has 30 rows. Therefore, she has 24 x 30 = 720 pencils in total.\nThe answer is 720."
+    },
+    {
+        "question": "Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initially How many crackers and cakes did each person eat?",
+        "answer": "Matthew gave equal numbers of crackers and cakes to his 28 friends.\nSo, if he had 13 crackers initially, each person ate 13 / 28 = 0.467 crackers.\nSimilarly, if he had 15 cakes initially, each person ate 15 / 28 = 0.571 cakes.\nTherefore, each person ate 0.467 crackers and 0.571 cakes.\nThe answer is 0.467 crackers and 0.571 cakes."
+    },
+    {
+        "question": "Matthew gave 6 crackers to each his friends. If he had 36 crackers How many friends did he give crackers to?",
+        "answer": "Matthew gave 6 crackers to each of his friends, so he gave a total of 6 x 3 = 18 crackers to his friends.\nTherefore, Matthew gave crackers to 36 / 18 = 2 friends.\nThe answer is 2."
+    },
+    {
+        "question": "Jessie weighed 114 kilograms. After she started to go jogging everyday she lost 50 kilograms in the first week and 60 kilograms in the second week. How much does she weigh now?",
+        "answer": "Jessie weighed 114 kilograms at the start.\nAfter the first week, she lost 50 kilograms, so she weighed 114 - 50 = 64 kilograms.\nAfter the second week, she lost 60 kilograms, so she weighed 64 - 60 = 4 kilograms.\nTherefore, Jessie weighs 4 kilograms now.\nThe answer is 4."
+    },
+    {
+        "question": "An industrial machine made 9 shirts yesterday and 44 shirts today. It can make 3 shirts a minute. How many minutes did the machine work yesterday?",
+        "answer": "To find out how many minutes the machine worked yesterday, we need to divide the number of shirts it made yesterday by its production rate.\nThe machine made 9 shirts yesterday, and it can make 3 shirts a minute. Therefore, the machine worked for 9 / 3 = 3 minutes yesterday.\nThe answer is 3 minutes."
+    },
+    {
+        "question": "We ordered some pizzas. Each pizza has 2 slices. If there were a total of 28 slices How many pizzas did we order?",
+        "answer": "To find out how many pizzas we ordered, we need to divide the total number of slices by the number of slices on each pizza.\nThere are 28 slices in total, and each pizza has 2 slices, so we can divide 28 by 2 to find out how many pizzas we ordered: 28 \u00f7 2 = 14.\nTherefore, we ordered 14 pizzas.\nThe answer is 14."
+    },
+    {
+        "question": "Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3. How much money did he spend to buy chocolate than he did to buy candy bar?",
+        "answer": "To find out how much money Dan spent to buy chocolate than he did to buy a candy bar, we need to subtract the cost of the candy bar from the total amount of money Dan spent.\nDan spent $ 2 on a candy bar and $ 3 on a chocolate, so the difference is $ 3 - $ 2 = $ 1.\nTherefore, Dan spent $ 1 more to buy chocolate than he did to buy a candy bar.\nThe answer is $ 1."
+    },
+    {
+        "question": "Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans. How many more bags did she find on the next day than she had on monday?",
+        "answer": "To find out how many more bags of cans Tiffany found on the next day than she had on Monday, we need to subtract the number of bags she had on Monday from the number of bags she found on the next day.\nTiffany had 7 bags of cans on Monday and found 12 more bags worth of cans on the next day, so the difference is 12 - 7 = 5 more bags.\nTherefore, Tiffany found 5 more bags of cans on the next day than she had on Monday.\nThe answer is 5."
+    },
+    {
+        "question": "There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets How many baskets of peaches are there?",
+        "answer": "To find out how many baskets of peaches there are, we need to know the total number of peaches in all the baskets. There are 4 red peaches and 3 green peaches in each basket, so the total number of peaches in all the baskets is 4 x 5 = 20 red peaches and 3 x 5 = 15 green peaches. Therefore, there are 20 + 15 = 35 baskets of peaches.\nThe answer is 35."
+    },
+    {
+        "question": "There are 8 different books and 10 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 61 of the movies How many more movies than books are there in the ' crazy silly school ' series?",
+        "answer": "To find the difference between the number of movies and the number of books in the ' crazy silly school ' series, we need to subtract the number of books from the number of movies.\nYou read 19 books and watched 61 movies, so the difference is 61 - 19 = 42.\nTherefore, there are 42 more movies than books in the ' crazy silly school ' series.\nThe answer is 42."
+    },
+    {
+        "question": "If each pack costs 81 dollars How much will it cost to buy 33 packs of dvds?",
+        "answer": "To find out how much it will cost to buy 33 packs of DVDs, we need to multiply the cost of each pack by the number of packs we want to buy.\nThe cost of each pack is 81 dollars, so the total cost of 33 packs will be 33 x 81 = 2631 dollars.\nTherefore, it will cost 2631 dollars to buy 33 packs of DVDs.\nThe answer is 2631."
+    },
+    {
+        "question": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. If there were 295 visitors the previous day How many more visitors visited the Buckingham palace on that day than on the previous day?",
+        "answer": "To find the difference between the number of visitors on the current day and the previous day, we need to subtract the number of visitors on the previous day from the number of visitors on the current day.\nRachel learned that 317 visitors came to the Buckingham palace on the current day, and there were 295 visitors the previous day. Therefore, the difference is 317 - 295 = 22 more visitors visited the Buckingham palace on the current day than on the previous day.\nThe answer is 22."
+    },
+    {
+        "question": "During summer break 819058 kids from Lawrence county go to camp and the other 668278 kids stay home. How many more kids spent their summer break at the camp compared to those who stayed home?",
+        "answer": "To find the difference between the number of kids who went to camp and the number who stayed home, we need to subtract the number of kids who stayed home from the number who went to camp.\n819058 kids went to camp and 668278 kids stayed home, so the difference is 819058 - 668278 = 150780.\nTherefore, 150780 more kids spent their summer break at the camp compared to those who stayed home.\nThe answer is 150780."
+    },
+    {
+        "question": "David did 51 push-ups in gym class today. David did 49 more push-ups than Zachary. How many push-ups did Zachary and David do altogether?",
+        "answer": "David did 51 push-ups and Zachary did 49 push-ups, so together they did 51 + 49 = 100 push-ups.\nThe answer is 100."
+    },
+    {
+        "question": "Allan brought 5 balloons. If Allan and Jake brought total of 6 balloons to the park How many balloons did Jake bring to the park?",
+        "answer": "Allan brought 5 balloons and a total of 6 balloons were brought to the park by Allan and Jake.\nSo, Jake brought 6 - 5 = 1 balloon to the park.\nThe answer is 1."
+    },
+    {
+        "question": "Danny collects bottle caps and wrappers. He found 66 wrappers and 39 bottle caps at the park. Now he has 16 bottle caps and 68 wrappers in his collection. How many wrappers did danny have at first?",
+        "answer": "Danny had 68 wrappers at the park and now he has 68 - 16 = 52 wrappers in his collection.\nTherefore, Danny had 52 wrappers at first.\nThe answer is 52."
+    },
+    {
+        "question": "A grocery store had 22 bottles of regular soda and 61 bottles of diet soda. How many more bottles of diet soda than regular soda did they have?",
+        "answer": "To find the difference between the number of bottles of diet soda and the number of bottles of regular soda, we need to subtract the number of bottles of regular soda from the number of bottles of diet soda.\nThe grocery store had 61 bottles of diet soda and 22 bottles of regular soda, so the difference is 61 - 22 = 39.\nTherefore, the grocery store had 39 more bottles of diet soda than regular soda.\nThe answer is 39."
+    },
+    {
+        "question": "Paul got a box of some crayons for his birthday. By the end of the school year he had either lost or given away 551 of them and only had 177 left. How many crayons did he get for his birthday?",
+        "answer": "To find out how many crayons Paul got for his birthday, we need to subtract the number of crayons he lost or gave away from the number he had left.\nPaul had 177 crayons left by the end of the school year and lost or gave away 551 crayons. So, the number of crayons he got for his birthday is 177 - 551 = -374.\nTherefore, Paul did not get any crayons for his birthday.\nThe answer is -374."
+    },
+    {
+        "question": "7 red peaches, 15 yellow peaches and 8 green peaches are in the basket. How many peaches are in the basket?",
+        "answer": "To find the total number of peaches in the basket, we need to add the number of red, yellow, and green peaches.\n7 red peaches + 15 yellow peaches + 8 green peaches = 30 peaches.\nTherefore, there are 30 peaches in the basket.\nThe answer is 30."
+    },
+    {
+        "question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 31 cookies yesterday 270 cookies this morning and 419 cookies the day before yesterday. How many cookies did Helen bake till last night?",
+        "answer": "To find out how many cookies Helen baked till last night, we need to add the number of cookies she baked yesterday, this morning, and the day before yesterday.\nHelen baked 31 cookies yesterday, 270 cookies this morning, and 419 cookies the day before yesterday. Therefore, the total number of cookies Helen baked is 31 + 270 + 419 = 720 cookies.\nSo, Helen baked 720 cookies till last night.\nThe answer is 720."
+    },
+    {
+        "question": "Winter is almost here and most animals are migrating to warmer countries. There are 3 bird families living near the mountain. 26 new bird families came to live near the mountain from the arctic while 2 bird families flew away further south for winter. How many bird families were left near the mountain?",
+        "answer": "To find out how many bird families were left near the mountain, we need to subtract the number of bird families that flew away from the number of bird families that came to live near the mountain.\n2 bird families flew away, so the number of bird families left near the mountain is 26 - 2 = 24.\nTherefore, 24 bird families were left near the mountain.\nThe answer is 24."
+    },
+    {
+        "question": "The school is planning a field trip. The school has 72 classrooms. There are 3 seats on each school bus. If there are a total of 111 students in the school How many buses are needed to take the trip?",
+        "answer": "To find out how many buses are needed to take the field trip, we need to divide the total number of students by the number of seats on each bus.\nThere are 111 students in the school and 3 seats on each bus, so we can divide 111 by 3 to find out how many buses are needed:\n111 \u00f7 3 = 37\nTherefore, 37 buses are needed to take the field trip.\nThe answer is 37."
+    },
+    {
+        "question": "The ring toss game at the carnival made 144 dollars per day. They were at the carnival for 22 days. How much money did they make?",
+        "answer": "To find out how much money the ring toss game made, we need to multiply the number of days they were at the carnival by the amount of money they made per day.\nThe game made $144 per day, and they were at the carnival for 22 days, so they made $144 x 22 = $3,112.\nTherefore, they made $3,112.\nThe answer is $3,112."
+    },
+    {
+        "question": "Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection. How many more wrappers than bottle caps did danny find at the park?",
+        "answer": "To find the difference between the number of wrappers Danny found at the park and the number of bottle caps he found, we need to subtract the number of bottle caps from the number of wrappers.\nDanny found 65 wrappers and 5 bottle caps at the park, and now he has 31 bottle caps and 9 wrappers in his collection. Therefore, the difference is 65 - 31 = 34.\nSo, Danny found 34 more wrappers than bottle caps at the park.\nThe answer is 34."
+    },
+    {
+        "question": "Faye was placing her pencils into rows with 22 pencils in each row. She had 6 packs of pencils each one having 14 pencils. How many pencils does she have?",
+        "answer": "Faye had 6 packs of pencils, and each pack had 14 pencils. Therefore, Faye had 6 x 14 = 84 pencils in total.\nThe answer is 84."
+    },
+    {
+        "question": "Danny collects bottle caps. He lost 66 bottle caps at the park. Now he has 25 bottle caps in his collection. How many bottle caps did danny have at first?",
+        "answer": "Danny lost 66 bottle caps at the park, so he had 25 - 66 = -41 bottle caps in his collection at first.\nTherefore, Danny had -41 bottle caps at first.\nThe answer is -41."
+    }
+]

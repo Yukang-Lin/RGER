@@ -1,0 +1,1018 @@
+[
+    {
+        "question": "A car is being driven, in a straight line and at a uniform speed, towards the base of a vertical tower. The top of the tower is observed from the car and, in the process, it takes 10 minutes for the angle of elevation to change from 45\u00b0 to 60\u00b0. After how much more time will this car reach the base of the tower?",
+        "answer": "The angle of elevation is 45\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of elevation is 60\u00b0. The angle of"
+    },
+    {
+        "question": "The original price of an item is discounted 22%. A customer buys the item at this discounted price using a $20-off coupon. There is no tax on the item, and this was the only item the customer bought. If the customer paid $1.90 more than half the original price of the item, what was the original price of the item?",
+        "answer": "The original price of the item is $100. The discount is 22%. So the discounted price is $100*(100/102)=$98.04. The customer buys the item at this discounted price using a $20-off coupon. So the customer pays $98.04-$20=$78.04. The customer paid $1.90 more than half the original price of the item. So the original price of the item is $78.04/2=$39.02. The answer is (A)."
+    },
+    {
+        "question": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12?",
+        "answer": "The only number that is divisible by 9 and 12 is 15. The answer is (c)."
+    },
+    {
+        "question": "If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur?",
+        "answer": "The probability that neither of these two events will occur is 1-0.56-0.74=0.10. The answer is (e)."
+    },
+    {
+        "question": "A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article?",
+        "answer": "The cost price of the article is 360*120/100=270. The answer is (a)."
+    },
+    {
+        "question": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold?",
+        "answer": "The first time, 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, then the percentage of black marbles in the bag is 5%. So, the total number of marbles in the bag is 40. The answer is (a)."
+    },
+    {
+        "question": "Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct?",
+        "answer": "The total no. of distinct bike no.'s that can be formed using 2 letters followed by 2 no.'s is 74453. The answer is (a)."
+    },
+    {
+        "question": "A train running at a speed of 100 miles/hour, takes 10 hours to reach its destination. After covering quarter of the distance, it starts raining and the train has to be slowed to speed of 75 miles/hour. What is the total journey duration?",
+        "answer": "The train covers 1/4 of the distance in 10 hours. So it takes 40 hours to cover the whole distance. The train slows down to 75 miles/hour after covering 1/4 of the distance. So it takes 10 hours to cover the remaining distance. So the total journey duration is 50 hours. The answer is (A)."
+    },
+    {
+        "question": "Of the 200 students in a school, at least 45% attended the prom night and at least 35% took part in the debating session. What is the maximum number of students who could have neither attended the prom night nor the debating session?",
+        "answer": "The maximum number of students who could have neither attended the prom night nor the debating session is 90. The answer is (C)."
+    },
+    {
+        "question": "A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000?",
+        "answer": "The sales person gets a 10% commission on each sale he makes. So, he gets $25 for each sale. So, he needs to make 100 sales to reach a salary of at least $1000. The answer is (a)."
+    },
+    {
+        "question": "A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ?",
+        "answer": "The company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. The minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 is 240. The answer is (C)."
+    },
+    {
+        "question": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?",
+        "answer": "The number of staplers produced that day is 4,000. The answer is (a)."
+    },
+    {
+        "question": "Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos?",
+        "answer": "Machine A puts out a yo-yo every 6 minutes. So after 6 minutes,it will have produced 1 yo-yo. After 12 minutes,it will have produced 2 yo-yos. After 18 minutes,it will have produced 3 yo-yos. After 24 minutes,it will have produced 4 yo-yos. After 30 minutes,it will have produced 5 yo-yos. After 36 minutes,it will have produced 6 yo-yos. After 42 minutes,it will have produced 7 yo-yos. After 48 minutes,it will have produced 8 yo-yos. After 54 minutes,it will have produced 9 yo-yos. After 60 minutes,it will have produced 10 yo-yos. So after 60 minutes,they will have produced 10 yo-yos. The answer is (A)."
+    },
+    {
+        "question": "Add: +45 and -30",
+        "answer": "Adding 45 and -30,we get 45-(-30)=75. The answer is (a)."
+    },
+    {
+        "question": "In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat?",
+        "answer": "The word \"PROBLEC\" has 7 letters. So there are 7! ways to arrange the letters. The answer is (E)."
+    },
+    {
+        "question": "Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)?",
+        "answer": "P(A/B)=P(A)*P(B/A)=0.2*0.8=0.16. The answer is (a)."
+    },
+    {
+        "question": "Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator?",
+        "answer": "If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. So the speed of the elevator is 20/10=2 steps/minute. The answer is (C)."
+    },
+    {
+        "question": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ?",
+        "answer": "The average number of microwave ovens sold per month during the entire 22 months period is 30. The answer is (c)."
+    },
+    {
+        "question": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers?",
+        "answer": "The average of the highest score and the lowest score is equal to x. The average score for the entire class is equal to y. There are z students in the class. So the average score for the class excluding the highest and lowest scorers is equal to (zy \u2013 x)/(z \u2013 2). The answer is (d)."
+    },
+    {
+        "question": "[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6",
+        "answer": "The answer is (a)."
+    },
+    {
+        "question": "A grocer makes a 25% profit on the selling price for each bag of flour it sells. If he sells each bag for $100 and makes $3,000 in profit, how many bags did he sell?",
+        "answer": "The profit is 25% of the selling price. So the profit is $25. The selling price is $100. So the profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit is $25. The profit"
+    },
+    {
+        "question": "Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob?",
+        "answer": "Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours, then Jacob must have made 16 toys. The answer is (a)."
+    },
+    {
+        "question": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks?",
+        "answer": "The concentration of tea is 50% in the original solution. 15% of the original solution is replaced with milk. Then, 10% of the resultant solution is replaced with more milk. So, the concentration of tea in the final solution is 50%*(15/100)+(10/100)=39.86%. The answer is (C)."
+    },
+    {
+        "question": "In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students.",
+        "answer": "The total number of students is a 4 digit number. So the maximum number of students is 9999. The minimum number of students is 0001. The difference between the maximum number of students and the minimum number of students is 9998. The answer is (A)."
+    },
+    {
+        "question": "On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth.",
+        "answer": "Bill's average speed is 15 mph. On a windy day, his speed is reduced by 4 mph. So his average speed on a windy day is 11 mph. 11 mph*21 minutes=2.25 miles. The answer is (b)."
+    },
+    {
+        "question": "A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance?",
+        "answer": "The retailer sold the appliance for 40 percent above cost, which represented a gross profit of $20.00. So the cost of the appliance was $20.00/1.4=14.29. So the retailer sold the appliance for $14.29*1.4=20.00. The answer is (a)."
+    },
+    {
+        "question": "At 6% per annum simple interest, Rahul borrowed Rs. 500. What amount will he pay to clear the debt after 4 years",
+        "answer": "The amount borrowed is 500. The interest is 6% per annum. So the amount to be paid after 4 years is 500*6*4/100=700. The answer is (b)."
+    },
+    {
+        "question": "A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except",
+        "answer": "The square root of 99 is 9.9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
+    },
+    {
+        "question": "A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep?",
+        "answer": "The jeep travels 6 hours in the forward journey. So it travels 6/12 of the distance. The jeep travels 6/12 of the distance in 6 hours. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So it travels 6/12 of the distance in 1 hour. So"
+    },
+    {
+        "question": "When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother?",
+        "answer": "When I was 2 years old, my brother was half my age. So my brother was 1 year old. Now I am 60 years old, so my brother is 30 years old. The answer is (C)."
+    },
+    {
+        "question": "The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost?",
+        "answer": "The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost?"
+    },
+    {
+        "question": "On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road?",
+        "answer": "The actual distance from Town F to Town G is 10 miles. The actual distance from Town F to Town G is 10 miles. The answer is (a)."
+    },
+    {
+        "question": "When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet.",
+        "answer": "The area of the sheet is 1/2*1584=792. The answer is (c)."
+    },
+    {
+        "question": "Suppose you can travel from a place M to a place N by 3 buses, from place N to place O by 4 buses, from place O to place P by 1 buses and from place P to place Q by 3 buses. In how many ways can you travel from M to Q ?",
+        "answer": "The total number of ways to travel from M to Q is 3*4*1*3=36. The answer is (b)."
+    },
+    {
+        "question": "A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere?",
+        "answer": "The volume of the rectangular solid is 15*15*3=495. The volume of the sphere is 4/3*pi*r^3=4/3*pi*15^3=15*15*15*pi. So the diameter of the sphere is 15.8113. The answer is (c)."
+    },
+    {
+        "question": "A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home?",
+        "answer": "The total distance traveled is 3+5+3+2=13km. The answer is (e)."
+    },
+    {
+        "question": "While selling a watch, a shopkeeper gives a discount of 5%. If he gives a discount of 7%, he earns Rs. 15 less as profit. The marked price of the watch is:",
+        "answer": "The marked price of the watch is 100*(100-5)/100=105. The shopkeeper gives a discount of 7% on the marked price. So the selling price is 105*(100-7)/100=105*(93)/100=98.75. The answer is (c)."
+    },
+    {
+        "question": "A student instead of finding the value of 7/8 of a number, found the value of 7/18 of the number. If his answer differed from the actual one by 770, find the that number.",
+        "answer": "The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number. So the number would be 18/7. The student found the value of 7/18 of the number"
+    },
+    {
+        "question": "The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500?",
+        "answer": "The monthly salary of the shop assistant is $500+5% of all monthly sales. So the monthly salary is $500+5% of $50000. This simplifies to $500+250=750. The answer is (a)."
+    },
+    {
+        "question": "An aeroplane flies along the four sides of a square at the speeds of 200, 400, 600 and 800km/hr. Find the average speed of the plane around the field?",
+        "answer": "The average speed of the plane around the field is 384km/hr. The answer is (a)."
+    },
+    {
+        "question": "Jack buys 18 sharpeners (white and brown) for rs. 100. If he pays 1 rupee more for each white than brown sharpeners. How many of white and how many brown sharpeners did he buy?",
+        "answer": "The total cost of 18 sharpeners is 18*100=1800. If he pays 1 rupee more for each white than brown sharpeners, then the cost of 1 white sharpeners is 1800+1=1801. The cost of 1 brown sharpeners is 1800-1=1799. So the cost of 1 white sharpeners is 1801 and the cost of 1 brown sharpeners is 1799. So the cost of 1 white sharpeners is 1801-1799=2. So the cost of 1 white sharpeners is 2 rupees. So the cost of 18 white sharpeners is 18*2=36. So the cost of 18 brown sharpeners is 18*1=18. So the cost of 18 white sharpeners is 36 and the cost of 18 brown sharpeners is 18. So the cost of 18 white sharpeners is 36-18=18 and the cost of 18 brown sharpeners is 18. So the cost of 18 white sharpeners i"
+    },
+    {
+        "question": "Hoses A and B spout water at different constant rates, and hose A can fill a certain pool in 8 hours. Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. How many hours would it have taken hose B, working alone, to fill the entire pool?",
+        "answer": "Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. So the total time taken by both the hoses to fill the pool is 5 hours. So the time taken by hose B alone to fill the pool is 3 hours. The answer is (e)."
+    },
+    {
+        "question": "If 120 is reduced to 96, what is the reduction percent?",
+        "answer": "120-96=24. 24/120=1/5. 1/5*100=20%. The answer is (b)."
+    },
+    {
+        "question": "I know a 5 digit number having a property that with a 1 after it, it is three times as large as it would be with a 1 before it.\nWhat is that number?",
+        "answer": "The number is 43566. The answer is (e)."
+    },
+    {
+        "question": "At Daifu university, 24% of all students are members of both a chess club and a swim team. If 20% of members of the swim team are not members of the chess club, what percentage of all Daifu students are members of the swim team?",
+        "answer": "24% of all students are members of both a chess club and a swim team. 20% of members of the swim team are not members of the chess club. So 80% of members of the swim team are members of the chess club. 80% of all students are members of the swim team. The answer is (A)."
+    },
+    {
+        "question": "If the population of a city increases by 5 % annually, what will be the population of the city in 2 years time if its current population is 78000?",
+        "answer": "The population of the city in 2 years time would be 78000*1.05^2=85800. The answer is (c)."
+    },
+    {
+        "question": "Two cars start at the same time from opposite ends of a highway that is 50 miles long. One car is riding at 12 mph and the second car is riding at 13 mph. How long after they begin will they meet?",
+        "answer": "The cars will meet after 1.5 hours. The answer is (C)."
+    },
+    {
+        "question": "A shopkeeper employed a servant at a monthly salary of 1500. In addition to it, he agreed to pay him a commission of 15% on the monthly sale. How much sale in Rupees should the servant do if he wants his monthly income as 6000?",
+        "answer": "The monthly income of the servant is 6000. So the monthly sale should be 6000*1500/15=30000. The answer is (a)."
+    },
+    {
+        "question": "A man borrows Rs.360 If he pays it back in 12 monthly installments of Rs.31.50, what is his interest rate?",
+        "answer": "The interest rate is 10% because the interest rate is the amount of money that is paid for borrowing money. The answer is (D)."
+    },
+    {
+        "question": "The price of a product is reduced by 30% . By what percentage should it be increased to make it 100%",
+        "answer": "The price of the product is reduced by 30%. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70% of the original price. So the new price is 70"
+    },
+    {
+        "question": "I have a money pouch containing Rs. 700. There are equal number of 25 paise coins, 50 paise coins and one rupee coins.\nHow many of each are there?",
+        "answer": "There are 453 25 paise coins, 651 50 paise coins, and 400 one rupee coins. The answer is (A)."
+    },
+    {
+        "question": "A man spends Rs. 3500 per month and saves 12 1/2% of his income. His monthly income is ?",
+        "answer": "The man's monthly income is 3500*12.5%=4400. The answer is (a)."
+    },
+    {
+        "question": "Five dozen toys are packed in a box and 98 boxes are kept in a tempo. How many tempos can lift 29400 toys in one round ?",
+        "answer": "5 dozen toys = 5*12 = 60 toys. 98 boxes = 98*12 = 1176 toys. 29400 toys = 29400/1176 = 25 toys. 25 toys = 25/5 = 5 toys. 5 toys = 5*12 = 60 toys. 60 toys = 60/5 = 12 toys. 12 toys = 12*12 = 144 toys. 144 toys = 144/98 = 1.46 toys. 1.46 toys = 1.46/5 = 0.29 toys. 0.29 toys = 0.29*12 = 3.52 toys. 3.52 toys = 3.52/5 = 0.704 toys. 0.704 toys = 0.704*12 = 8.45 toys. 8.45 toys = 8.45/5 = 1.69 toys. 1.69 toys = 1.69*12"
+    },
+    {
+        "question": "There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket?",
+        "answer": "There are 10 oranges in the basket. So there are 10C2=10*9/2=45 ways in which 2 oranges are chosen from the basket. The answer is (a)."
+    },
+    {
+        "question": "A company contracts to paint 3 houses. Mr.Brown can paint a house in 6 days while Mr.Black would take 8 days and Mr.Blue 12 days. After 8 days Mr.Brown goes on vacation and Mr. Black begins to work for a period of 6 days. How many days will it take Mr.Blue to complete the contract?",
+        "answer": "Mr.Brown can paint a house in 6 days while Mr.Black would take 8 days and Mr.Blue 12 days. After 8 days Mr.Brown goes on vacation and Mr. Black begins to work for a period of 6 days. So Mr.Black will take 8 days to complete the contract. Mr.Blue will take 12 days to complete the contract. The answer is (D)."
+    },
+    {
+        "question": "Train A leaves a station every 16 minutes and Train B leaves every 17 minutes. If both trains just left the station simultaneously, how long until they do so again?",
+        "answer": "The trains will meet again in 16 minutes. The answer is (a)."
+    },
+    {
+        "question": "A hollow cube of size 5cm is taken, with the thickness of 1cm. It is made of smaller cubes of size 1cm .If the outer surface of the cube is painted how many faces of the smaller cubes remain unpainted?",
+        "answer": "The outer surface of the cube is painted. So the inner surface of the cube is not painted. The inner surface of the cube is made of smaller cubes. So the number of smaller cubes that are not painted is equal to the number of smaller cubes that are painted. The number of smaller cubes that are painted is equal to the number of smaller cubes that are not painted. So the number of smaller cubes that are not painted is equal to the number of smaller cubes that are painted. The number of smaller cubes that are painted is equal to the number of smaller cubes that are not painted. So the number of smaller cubes that are not painted is equal to the number of smaller cubes that are painted. The number of smaller cubes that are painted is equal to the number of smaller cubes that are not painted. So the number of smaller cubes that are not painted is equal to the number of smaller cubes that are painted. The number of smaller cubes that are painted is equal to the number of smaller cubes that are not painted. So the number of smaller cubes that are not painted is equal to the number of smaller cubes that are painted. The number of smaller cubes that are painted is equal to the number of smaller cubes that are not painted. So the number of smaller cubes that are not painted is equal to the number of smaller cubes that are painted. The number of smaller cubes that are"
+    },
+    {
+        "question": "In a chocolate store, all chocolates are either vanilla or cocoa flavored only. 10% of the chocolates are cocoa flavored, 90% of the rest are squashed. What percentage of the chocolates are both vanilla flavored and not squashed?",
+        "answer": "10% of the chocolates are cocoa flavored, 90% of the rest are squashed. So 10% of the chocolates are cocoa flavored and not squashed. 10% of the chocolates are cocoa flavored and not squashed. So 10% of the chocolates are both vanilla flavored and not squashed. The answer is (a)."
+    },
+    {
+        "question": "There is well of depth 30m and frog is at bottom of the well. He jumps 3m up one day and falls back 2m down the same day. How many days will it take for the frog to come out of the well?",
+        "answer": "The frog will come out of the well in 28 days. The answer is (D)."
+    },
+    {
+        "question": "The sum of the 5 consecutive two digit odd numbers when divided by 10 becomes a perfect square, which of the following can be one of these 5 numbers?",
+        "answer": "The sum of the 5 consecutive two digit odd numbers when divided by 10 becomes a perfect square, which of the following can be one of these 5 numbers?\nAnswer Choices: A)47 B)91 C)41 D)67 E)44\nA:The sum of the 5 consecutive two digit odd numbers when divided by 10 becomes a perfect square, which of the following can be one of these 5 numbers?\nAnswer Choices: A)47 B)91 C)41 D)67 E)44\nA:The sum of the 5 consecutive two digit odd numbers when divided by 10 becomes a perfect square, which of the following can be one of these 5 numbers?\nAnswer Choices: A)47 B)91 C)41 D)67 E)44\nA:The sum of the 5 consecutive two digit odd numbers when divided by 10 becomes a perfect square, which of the following can be one of these 5 numbers?\nAnswer Choices: A)47 B)91 C)41 D)67 E)44\nA:The sum of the 5 consecutive two digit odd numbers when divided by 10 becomes a perfect square, which of the following can be one of these 5 numbers?\nAnswer Choices: A)47 B)91"
+    },
+    {
+        "question": "In a class, 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. How many students are there in the class?",
+        "answer": "8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. 8% of total students are interested in Football. 4"
+    },
+    {
+        "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?",
+        "answer": "R is 50 years older than T. Q is as much younger than R as he is older than T. So Q is 25 years younger than T. The difference between R and Q's age is 25. The answer is (a)."
+    },
+    {
+        "question": "Calculate the maximum distance you can travel with $8.50 on a cab which charges $3.50 for the first quarter-mile and 10 cents for each additional quarter mile.",
+        "answer": "The maximum distance you can travel with $8.50 on a cab which charges $3.50 for the first quarter-mile and 10 cents for each additional quarter mile is 12.75 miles. The answer is (B)."
+    },
+    {
+        "question": "In IPL season, Sachin current batting average is 51. In the finals, he scores 78 runs, then is batting average will be 54. Find out the total number of matches played by Sachin in this season.",
+        "answer": "Sachin's batting average is 51. So, in the finals, he scores 78 runs, then his batting average will be 54. So, the total number of matches played by Sachin in this season is 10. The answer is (E)."
+    },
+    {
+        "question": "Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.)",
+        "answer": "The smallest number of letters Amy will need to create the codes for all 10 types of books is 3. The answer is (a)."
+    },
+    {
+        "question": "A rectangular piece of 150 sq m has a length which is 1m more than the 4 times the breadth. What is the perimeter of the piece?",
+        "answer": "The perimeter of the piece is 2(length+breadth). So 2(150+4*b)=60. So b=15. The answer is (a)."
+    },
+    {
+        "question": "One gram of a certain health food contains 9 percent of the minimum daily requirement of vitamin E and 8 percent of the minimum daily requirement of vitamin A. If vitamins E and A are to be obtained from no other source, how many grams of the health food must be eaten daily to provide at least the minimum daily requirement of both vitamins?",
+        "answer": "The minimum daily requirement of vitamin E is 10% of the minimum daily requirement of vitamin A. So 10% of 10% of 1000 is 100. So 100 grams of the health food must be eaten daily to provide at least the minimum daily requirement of both vitamins. The answer is (a)."
+    },
+    {
+        "question": "Assistants are needed to prepare for preparation. Each helper can make either 2 large cakes or 35 small cakes/hr. The kitchen is available for 3 hours and 20 large cakes & 700 small cakes are needed. How many helpers are required?",
+        "answer": "The number of large cakes that can be made in 3 hours is 2*3=6. The number of small cakes that can be made in 3 hours is 35*3=105. So the number of large cakes that can be made in 3 hours is 6. The number of small cakes that can be made in 3 hours is 105. So the number of large cakes that can be made in 3 hours is 6. The number of small cakes that can be made in 3 hours is 105. So the number of large cakes that can be made in 3 hours is 6. The number of small cakes that can be made in 3 hours is 105. So the number of large cakes that can be made in 3 hours is 6. The number of small cakes that can be made in 3 hours is 105. So the number of large cakes that can be made in 3 hours is 6. The number of small cakes that can be made in 3 hours is 105. So the number of large cakes that can be made in 3 hours is 6. The number of small cakes that can be made in 3 hours is 105. So the number of large cakes that can be made in 3 hours is 6."
+    },
+    {
+        "question": "R, S, T, and U are points on a line, and U is the midpoint of line segment ST. If the lengths of line segments RS, RT, and ST are 5, 17, and 22, respectively. What is the length of line segment RU?",
+        "answer": "The midpoint of line segment ST is U. The length of line segment RU is 1/2(5+17+22)=10. The answer is (e)."
+    },
+    {
+        "question": "Six pita breads contain the same amount of falafel as do two rolls. Three rolls contain the same amount of falafel as five baguettes do. Two baguettes contain the same amount of falafel as how many pita breads?",
+        "answer": "The answer is (a)."
+    },
+    {
+        "question": "A shopkeeper in order to promote his new shop put a discount of 20% on all the items for one day. Now he must sell the items at original price the other day. By what percentage must he increase the price to original?",
+        "answer": "The discount is 20% of the original price. So the original price is 120% of the discount. So the original price is 120% of 20% of the original price. 120% of 20% of the original price is 144%. So the original price is 144% of the original price. The answer is (A)."
+    },
+    {
+        "question": "The bus fare for two persons for travelling between Agra and Aligarh id four-thirds the train fare between the same places for one person. The total fare paid by 6 persons travelling by bus and 8 persons travelling by train between the two places is Rs.1512. Find the train fare between the two places for one person?",
+        "answer": "The train fare for one person is 4/3 of the bus fare for two persons. So the train fare for one person is 4/3*4/3=1/9 of the bus fare for two persons. So the train fare for one person is 1/9*4/3*4/3=1/27 of the bus fare for two persons. So the train fare for one person is 1/27*4/3*4/3=1/108 of the bus fare for two persons. So the train fare for one person is 1/108*4/3*4/3=1/144 of the bus fare for two persons. So the train fare for one person is 1/144*4/3*4/3=1/512 of the bus fare for two persons. So the train fare for one person is 1/512*4/3*4/3=1/1512 of the bus fare for two persons. The answer is (E)."
+    },
+    {
+        "question": "A rectangle has a length of 8 centimeters and a width of 3 centimeters. Find the perimeter.",
+        "answer": "The perimeter of a rectangle is 2(length+width). So the perimeter is 2(8+3)=20cm. The answer is (C)."
+    },
+    {
+        "question": "Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it ?",
+        "answer": "The number of ways to arrange 6 books on a shelf is 6! = 6*5*4*3*2*1 = 720. The answer is (D)."
+    },
+    {
+        "question": "A straight picket fence is composed of x pickets each of which is 1/2 inch wide. If there are 6 inches of space between each pair of pickets, which of the following represents the length of fence in feet?",
+        "answer": "The length of the fence is 13x/2. The answer is (a)."
+    },
+    {
+        "question": "A ship went on a voyage. After it had traveled 180 miles a plane started with 10 times the speed of the ship. Find the distance when they meet from starting point.",
+        "answer": "The ship traveled 180 miles,so the plane traveled 1800 miles. The answer is (D)."
+    },
+    {
+        "question": "In a large forest, 300 deer were caught, tagged, and returned during 2001. During 2002, 500 deer were caught at random, of which only 20 had tags from the previous year. If the percent of deer in the forest that had tags during the second year and were caught in the 500 deer sample is representative of the percent of the total deer population in the forest with tags, what is the total deer population in the forest (assuming no change in population between 2001 and 2002)?",
+        "answer": "The total deer population in the forest is 5000. The answer is (d)."
+    },
+    {
+        "question": "In a railway station, there are two trains going. One in the harbor line and one in the main line, each having a frequency of 10 minutes. The main line service starts at 5 o'clock and the harbor line starts at 5.02 A.M. A man goes to the station every day to catch the first train that comes. What is the probability of the man catching the first train?",
+        "answer": "The probability of the man catching the first train is 0.9. The answer is (a)."
+    },
+    {
+        "question": "The average (arithmetic mean) of the weight of 10 vehicles is 12.2 tons. The average weight of the group of vehicles increased by 2.6 tons after a new heavy duty truck was added to the group? What is the weight in tons of the heavy duty truck?",
+        "answer": "The average weight of the group of vehicles increased by 2.6 tons after a new heavy duty truck was added to the group. So the new average weight of the group of vehicles would be 12.2+2.6=14.8 tons. The answer is (a)."
+    },
+    {
+        "question": "Boomtown urban planners expect the city\u2019s population to increase by 10% per year over the next two years. If that projection were to come true, the population two years from now would be exactly double the population of one year ago. Which of the following is closest to the percent population increase in Boomtown over the last year?",
+        "answer": "The population of Boomtown is 100,000. The population of Boomtown one year ago is 100,000/2=50,000. The population of Boomtown two years from now is 50,000*2=100,000. The percent increase is 100,000/50,000=200%. The answer is (a)."
+    },
+    {
+        "question": "Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?",
+        "answer": "Arjun has $62 and Sajal has $35. If Arjun gives $30 to Sajal, then Sajal will have $62-30=32. If Sajal gives $10 to Arjun, then Arjun will have $62-10=52. So Arjun has $52 and Sajal has $34. The answer is (C)."
+    },
+    {
+        "question": "Julie\u2019s yard is rectangular. One side of the yard is 100 feet wide. The total area of the yard is 3,000 square feet. What is the length of the other side of the yard?",
+        "answer": "The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side of the yard is 100 feet. The area of the yard is 3,000 square feet. The length of the other side"
+    },
+    {
+        "question": "The greatest common factor of two positive integers is 11. The least common multiple of these two integers is 7700. If one of the integers is 350, what is the other?",
+        "answer": "The greatest common factor of two positive integers is 11. The least common multiple of these two integers is 7700. If one of the integers is 350, what is the other?"
+    },
+    {
+        "question": "A square piece of cloth is trimmed by 4 feet on one edge to form a rectangular piece, which is then cut diagonally in half to create two triangles. If the area of each of triangle is 70 square feet, what was the perimeter (in feet) of the original piece of square cloth?",
+        "answer": "The area of the square is 70 square feet. The area of the rectangle is 70 square feet. The area of the two triangles is 70 square feet. The perimeter of the square is 4 feet. The perimeter of the rectangle is 4 feet. The perimeter of the two triangles is 4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 70 square feet=4 feet. 7"
+    },
+    {
+        "question": "The length of the ribbon was originally 30 cm. It was reduced in the ratio 5 : 3. What is its length now?",
+        "answer": "The length of the ribbon was originally 30 cm. It was reduced in the ratio 5 : 3. So the length of the ribbon is 30/5=6cm. The answer is (A)."
+    },
+    {
+        "question": "M = abc is a three digit number and N = cba, if M > N and M - N + 396c = 990. Then how many values of M are more than 300.",
+        "answer": "M = abc and N = cba. So M - N + 396c = 990. This simplifies to 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b + 396c = 990. This means that 396a + 396b"
+    },
+    {
+        "question": "there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school?",
+        "answer": "The total number of students in the school is 501. 20% of them took physics and 28% of them took math. So 20% of 501=100. 28% of 501=144. So 100+144=244. So the least possible number of students in the school is 244. The answer is (a)."
+    },
+    {
+        "question": "If Raj was one-third as old as Rahim 5 years back and Raj is 17 years old now, How old is Rahim now?",
+        "answer": "Raj was one-third as old as Rahim 5 years back. So, Raj was 17-1/3 years old 5 years back. Now, Raj is 17 years old. So, Rahim is 17+1/3=17+5/3=17+17/3=17+17/3=41 years old. The answer is (C)."
+    },
+    {
+        "question": "A cow is tethered in the middle of a field with a 14 feet long rope. If the cow grazes 10 sq.ft. per day, then approximately what time will be taken by the cow to graze the whole field?",
+        "answer": "The cow grazes 10 sq.ft. per day. So the cow grazes 10 sq.ft. per day*14 feet long rope=140 sq.ft. per day. So the cow grazes 140 sq.ft. per day*14 feet long rope=1960 sq.ft. per day. So the cow grazes 1960 sq.ft. per day*10 sq.ft. per day=19600 sq.ft. per day. So the cow grazes 19600 sq.ft. per day*14 feet long rope=284800 sq.ft. per day. So the cow grazes 284800 sq.ft. per day*10 sq.ft. per day=2848000 sq.ft. per day. So the cow grazes 2848000 sq.ft. per day*14 feet long rope=3965600 sq.ft. per day. So the cow grazes 3965600 sq.ft. per day*10 sq.ft. per day=39656000 sq.ft. per day. So the cow grazes 39656000 sq.ft"
+    },
+    {
+        "question": "A book was sold for Rs 27.50 with a profit of 10%. If it were sold for Rs. 25.75, then would have been percentage of profit and loss ?",
+        "answer": "If the book was sold for Rs. 25.75, then the profit would have been 10% of 25.75, which is 2.575. So the profit would have been 2.575-2.70=0.125. So the percentage of profit would be 0.125/27.5=4.2%. The answer is (A)."
+    },
+    {
+        "question": "In how many ways can a teacher in a kindergarten school arrange a group of 3 children (Susan, Tim and Zen) on 3 identical chairs in a straight line so that Susan is on the left of Tim?",
+        "answer": "There are 3 children, so there are 3! ways to arrange them. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the children on the chairs. There are 3! ways to arrange the"
+    },
+    {
+        "question": "The telephone bill of a certain establishment is party fixed and partly varies as the number of calls consumed. When in a certain month 540 calls made the bill is Rs.1800. In another month 620 calls are consumed then the bill becomes Rs.2040. In another month 500 units are consumed due to more\nholidays. The bill for that month would be :",
+        "answer": "The bill for the month when 540 calls are consumed is Rs.1800. The bill for the month when 620 calls are consumed is Rs.2040. The bill for the month when 500 units are consumed is Rs.1560. So the bill for the month when 540+620+500=1680 calls are consumed is Rs.1680. The answer is (a)."
+    },
+    {
+        "question": "Two balls A and B rotate along a circular track. Ball A makes 2 full rotations in 26 minutes. Ball B makes 5 full rotation in 35 minutes. If they start rotating now from the same point, when will they be at the same starting point again?",
+        "answer": "Ball A makes 2 full rotations in 26 minutes. So it takes 26/2=13 minutes for it to make one full rotation. Ball B makes 5 full rotations in 35 minutes. So it takes 35/5=7 minutes for it to make one full rotation. So the time taken for ball A to make one full rotation is 13 minutes. The time taken for ball B to make one full rotation is 7 minutes. So the time taken for ball A to make one full rotation is 13 minutes. The time taken for ball B to make one full rotation is 7 minutes. So the time taken for ball A to make one full rotation is 13 minutes. The time taken for ball B to make one full rotation is 7 minutes. So the time taken for ball A to make one full rotation is 13 minutes. The time taken for ball B to make one full rotation is 7 minutes. So the time taken for ball A to make one full rotation is 13 minutes. The time taken for ball B to make one full rotation is 7 minutes. So the time taken for ball A to make one full rotation is 13 minutes. The time taken for ball B to make one full rotation is 7 minutes. So the time taken for ball A to make one full rotation is 13 minutes. The time taken for ball B to make one full"
+    },
+    {
+        "question": "A bookshelf contains 45 books, 30 of which are hardcover and 20 of which are fiction. What is the maximum number of books that are both hardcover and fiction?",
+        "answer": "The maximum number of books that are both hardcover and fiction is 10. The answer is (a)."
+    },
+    {
+        "question": "A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?",
+        "answer": "The hotel buys 2x as many papers on Sunday as it does the rest of the days of the week. So it buys 2x as many papers on Monday as it does on Sunday. So it buys 2x2=4 papers on Monday. The answer is (a)."
+    },
+    {
+        "question": "A number of friends decided to go on a picnic and planned to spend Rs. 96 on eatables. Four of them, however, did not turn up. As a consequence, the remaining ones had to contribute Rs. 4 extra, each. The number of those who attended the picnic was",
+        "answer": "The number of those who attended the picnic was 12. The answer is (B)."
+    },
+    {
+        "question": "A wire in the shape of rectangle of length 27 cm and breadth 17 cm is rebent to form a square. What will be the measure of each side?",
+        "answer": "The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm. The length of the wire is 27cm and the breadth is 17cm."
+    },
+    {
+        "question": "A man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews. If each daughter receives four times as much as each nephew, and each son receives five as much as each nephew. How much does each daughter receive ?",
+        "answer": "The man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews. If each daughter receives four times as much as each nephew, and each son receives five as much as each nephew. So each daughter receives Rs 400. The answer is (a)."
+    },
+    {
+        "question": "Silu and Meenu were walking on the road.\nSilu said, \"I weigh 51 Kgs. How much do you weigh?\"\nMeenu replied that she wouldn't reveal her weight directly as she is overweight.\nBut she said, \"I weigh 29 Kgs plus half of my weight. \"How much does Meenu weigh?",
+        "answer": "Silu's weight is 51 Kgs. Meenu's weight is 29 Kgs plus half of her weight. So Meenu's weight is 29 Kgs plus half of 29 Kgs. So Meenu's weight is 29 Kgs plus 14.5 Kgs. So Meenu's weight is 43.5 Kgs. The answer is (D)."
+    },
+    {
+        "question": "Roy was suffering from severe headaches. He went to see his doctor and the doctor gave him 5 tablets asking him to take one tablet every 15 minutes.\nHow much time will it take Roy to consume all the 5 tablets?",
+        "answer": "Roy will take 15 minutes to consume 1 tablet. So he will take 5 tablets in 5*15=75 minutes. The answer is (b)."
+    },
+    {
+        "question": "In a bag of red and green sweets, the ratio of red sweets to green sweets is 3:4. If the bag contains 120 green sweets, how many red sweets are there?",
+        "answer": "The ratio of red sweets to green sweets is 3:4. So there are 3 red sweets for every 4 green sweets. So there are 3*4=12 red sweets for every 120 green sweets. So there are 120*12=1440 red sweets. The answer is (D)."
+    },
+    {
+        "question": "A club consists of members whose ages are in A.P. The common difference being 3 months. If the youngest member of the club is just 7 years old and the sum of the ages of all the members is 250, then number of members in the club are :",
+        "answer": "The sum of the ages of all the members is 250. So the youngest member is 7 years old. The sum of the ages of all the members is 250-7=243. The sum of the ages of all the members is 243/2=121.5. The sum of the ages of all the members is 121.5/2=60.75. The sum of the ages of all the members is 60.75/2=30.375. The sum of the ages of all the members is 30.375/2=15.1875. The sum of the ages of all the members is 15.1875/2=7.59375. The sum of the ages of all the members is 7.59375/2=3.796875. The sum of the ages of all the members is 3.796875/2=1.8984375. The sum of the ages of all the members is 1.8984375/2=0.94921875. The sum of the ages of all the members is 0.94921875/2=0."
+    },
+    {
+        "question": "M men agree to purchase a gift for Rs. D. If 3 men drop out how much more will each have to contribute towards the purchase of the gift?",
+        "answer": "If 3 men drop out,then the amount that each man has to contribute towards the purchase of the gift would increase by 3D/(M-3). The answer is (A)."
+    },
+    {
+        "question": "At what price should the Karan mark a sewing machine that costs him Rs. 1200/- so that even after offering a 20% discount, he makes 20% profit?",
+        "answer": "The cost of the sewing machine is Rs. 1200. The profit is 20%. So the selling price should be 1200*(120/100)=1440. The answer is (a)."
+    },
+    {
+        "question": "Train \u2018A\u2019 leaves Mumbai Central for Lucknow at 11 am, running at the speed of 40 kmph. Train \u2018B\u2019 leaves Mumbai Central for Lucknow by the same route at 2 pm on the same day, running at the speed of 72 kmph. At what time will the two trains meet each other?",
+        "answer": "The trains will meet each other at 5 am on the next day. The answer is (C)."
+    },
+    {
+        "question": "Mark told John \"If you give me half your money I will have Rs.75. John said, \"if you give me one third of your money, I will have Rs.75/-. How much money did John have ?",
+        "answer": "John had Rs.75/-. So he had Rs.100/-. Mark gave him half of his money. So Mark gave him Rs.50/-. Mark had Rs.100/-. So he had Rs.50/-. Mark gave him one third of his money. So Mark gave him Rs.33.33/-. Mark had Rs.50/-. So he had Rs.16.67/-. So John had Rs.100/-. The answer is (a)."
+    },
+    {
+        "question": "The number of water lilies on a certain lake doubles every two days. If there is exactly one water lily on the lake, it takes 60 days for the lake to be fully covered with water lilies. In how many days will the lake be fully covered with lilies, if initially there were 64 water lilies on it?",
+        "answer": "The number of water lilies on a certain lake doubles every two days. If there is exactly one water lily on the lake, it takes 60 days for the lake to be fully covered with water lilies. In how many days will the lake be fully covered with lilies, if initially there were 64 water lilies on it?"
+    },
+    {
+        "question": "x men working x hours per day can do x units of a work in x days. How much work can be completed by y men working y hours per day in y days?",
+        "answer": "x men working x hours per day can do x units of a work in x days. So,y men working y hours per day in y days can do y units of a work in y days. So,y3/x2 units of work can be completed by y men working y hours per day in y days. The answer is (D)."
+    },
+    {
+        "question": "ABCDE is a regular pentagon with F at its center. How many different quadrilaterals can be formed by joining 4 of the points A,B,C,D,E and F?",
+        "answer": "There are 5 points, so there are 5!/2!=10 ways to choose 4 of them. The answer is (a)."
+    },
+    {
+        "question": "Points A, B, C, D lie in this order on the circumference of a circle. Minor arc AC is 160\u00b0, and minor arc BD is 150\u00b0. If B bisects minor arc AC, then what is the measure of minor arc AD?",
+        "answer": "If B bisects minor arc AC, then the measure of minor arc AD would be 140\u00b0. The answer is (C)."
+    },
+    {
+        "question": "If 75 percent of the employees of a certain company take a winter vacation, 40 percent take a winter and a summer vacation, and 20 percent take neither a winter nor a summer vacation, what Q percent of the employees take a summer vacation but not a winter vacation?",
+        "answer": "If 75% of the employees take a winter vacation, then 25% of the employees do not take a winter vacation. If 40% of the employees take a winter and a summer vacation, then 60% of the employees do not take a winter and a summer vacation. If 20% of the employees take neither a winter nor a summer vacation, then 80% of the employees take a winter or a summer vacation. So 80% of the employees take a winter or a summer vacation. 80% of the employees take a winter or a summer vacation. 20% of the employees take neither a winter nor a summer vacation. 60% of the employees do not take a winter and a summer vacation. 25% of the employees do not take a winter vacation. 40% of the employees take a winter and a summer vacation. 100% of the employees take a winter or a summer vacation. 100% of the employees take a winter or a summer vacation. 20% of the employees take neither a winter nor a summer vacation. 80% of the employees take a winter or a summer vacation. 20% of the employees take neither a winter nor a summer vacation. 60% of the employees do not take a winter and a summer vac"
+    },
+    {
+        "question": "The cross-section of a canal is shaped like a trapezium. If the canal is 10 m wide at the top and 6 m wide at the bottom and the area of cross-section is 640 square meters, the depth of cannel is?",
+        "answer": "The area of cross-section is 640 square meters. The width of the canal is 10 m at the top and 6 m at the bottom. The height of the canal is 10 m. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meters. The area of the cross-section is 640 square meter"
+    },
+    {
+        "question": "During one season, a tennis team won 20 matches and lost 30% of their matches. What was the number of matches that the team lost?",
+        "answer": "The team won 20 matches and lost 30% of their matches. So 20+30%=50. So the team lost 50 matches. The answer is (E)."
+    },
+    {
+        "question": "A point on the edge of a fan blade that is rotating in a plane 10 centimeters from the center of the fan. What is the distance traveled, in centimeters, by this point after 30 seconds when the fan runs at the rate of 300 revolutions per minutes?",
+        "answer": "The distance traveled by the point is 10cm*300rpm=3000cm. The answer is (e)."
+    },
+    {
+        "question": "If n is such that 36 \u2264 n \u2264 72, then x = (n2 + 2\u221an(n + 4) + 16) / (n+ 4\u221an+ 4) satisfies",
+        "answer": "If n is such that 36 \u2264 n \u2264 72, then x = (n2 + 2\u221an(n + 4) + 16) / (n+ 4\u221an+ 4) satisfies\nAnswer Choices: A)20 < x < 54 B)23 < x < 58 C)25 < x < 64 D)28 < x < 60 E)None of these\nA:If n is such that 36 \u2264 n \u2264 72, then x = (n2 + 2\u221an(n + 4) + 16) / (n+ 4\u221an+ 4) satisfies\nAnswer Choices: A)20 < x < 54 B)23 < x < 58 C)25 < x < 64 D)28 < x < 60 E)None of these\nA:If n is such that 36 \u2264 n \u2264 72, then x = (n2 + 2\u221an(n + 4) + 16) / (n+ 4\u221an+ 4) satisfies\nAnswer Choices: A)20 < x < 54 B)23 < x < 58 C)25 < x < 64 D)2"
+    },
+    {
+        "question": "At its maximum speed, a space shuttle can travel 700m high in 40 seconds. It will also take 5 seconds to pass a point. What then is the length of the space shuttle?",
+        "answer": "The space shuttle travels 700m in 40 seconds. This means that it travels 700m/40s=17.5m/s. It takes 5 seconds to pass a point. This means that it travels 17.5m/s*5s=87.5m. The answer is (D)."
+    },
+    {
+        "question": "A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join?",
+        "answer": "C joined the business after 2 months. So B joined the business after 4 months. The answer is (a)."
+    },
+    {
+        "question": "A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper?",
+        "answer": "The area of the remaining paper is 8.75. The answer is (a)."
+    },
+    {
+        "question": "An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined?",
+        "answer": "The athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. So the total time taken is 4+4=8 hours. So the average speed is M+N/8. The answer is (A)."
+    },
+    {
+        "question": "8 man work for 6 days to complete a work. How many men are required to complete same work in 1/2 day.",
+        "answer": "8 men work for 6 days to complete a work. So 8*6=48 man-days. 48/6=8 man-days. 8 man-days/1=8 man-days. 8 man-days*1/2=4 man-days. 4 man-days*1/2=2 man-days. 2 man-days*1/2=1 man-day. 1 man-day*1/2=1/2 man-day. 1/2 man-day*1/2=1/4 man-day. 1/4 man-day*1/2=1/8 man-day. 1/8 man-day*1/2=1/16 man-day. 1/16 man-day*1/2=1/32 man-day. 1/32 man-day*1/2=1/64 man-day. 1/64 man-day*1/2=1/128 man-day. 1/128 man-day*1/2=1/256 man-day. 1/256 man-day*1/2=1/512 man-day. 1/512 man-day*1/2=1/1024 man-"
+    },
+    {
+        "question": "64 boys and 40 girls form a group for social work. During their membership drive, the same number of boys and girls joined the group. How many members does the group have now, if the ratio of boys to girls is 4:3?",
+        "answer": "The ratio of boys to girls is 4:3. So the number of boys is 4x. The number of girls is 3x. So the total number of members is 4x+3x=7x. The answer is (a)."
+    },
+    {
+        "question": "A cyclist travels at 12 miles per hour. How many minutes will it take to travel 48 miles?",
+        "answer": "The answer is (a)."
+    },
+    {
+        "question": "Kevin drove from A to B at a constant speed of 70 mph. Once he reached B, he turned right around with pause, and returned to A at a constant speed of 90 mph. Exactly 3 hours before the end of his trip, he was still approaching B, only 70 miles away from it. What is the distance between A and B?",
+        "answer": "The distance between A and B is 180 miles. The answer is (a)."
+    },
+    {
+        "question": "30 is subtracted from a number, it is reduced to its one third. What is the value of 50% of that number?",
+        "answer": "The number is reduced to its one third. So the number is 30/3=10. 50% of 10 is 5. The answer is (e)."
+    },
+    {
+        "question": "If a man rows at the rate of 4 kmph in still water and his rate against the current is 2 kmph, then the man's rate along the current is:",
+        "answer": "The man's rate against the current is 2 kmph. So the man's rate along the current is 2+4=6 kmph. The answer is (c)."
+    },
+    {
+        "question": "The sum of the digits of a three digit number is 17, and the sum of the squares of its digits is 109. If we subtract 495 from the number, we shall get a number consisting of the same digits written in the reverse order. Find the number.",
+        "answer": "The number is 368. The sum of the digits is 17, and the sum of the squares of its digits is 109. If we subtract 495 from the number, we shall get a number consisting of the same digits written in the reverse order. The number is 368. The answer is (a)."
+    },
+    {
+        "question": "X and Y are two alloys which were made by mixing zinc and copper in the ratio 6:9 and 7:11, respectively. If 40 grams of alloy X and 60 grams of alloy Y are melted and mixed to form alloy Z, what is the ratio of zinc and copper in the alloy Z ?",
+        "answer": "Let the ratio of zinc and copper in alloy X be x:y and in alloy Y be x':y'. Then, 6x:9y=69:91 and 7x':11y'=59:91. So, 6x+7x'=69 and 9y+11y'=91. Solving for x and x', we get x=6 and x'=5. So, the ratio of zinc and copper in alloy Z is 6:9. The answer is (a)."
+    },
+    {
+        "question": "The nefarious bandit Hoopsmot decides to go in with his criminal partner Smolapon to purchase a number of senators. Hoopsmot contributes $16,000 to their bribery pool, and Smolapon contributes just $4,000. Their total allows them to influence 30 senators. How many senators of these can be considered Hoopsmot's?",
+        "answer": "Hoopsmot's contribution is 16,000/30=533.33. Smolapon's contribution is 4,000/30=133.33. So Hoopsmot's contribution is 533.33-133.33=400. The answer is (A)."
+    },
+    {
+        "question": "The difference between the squares of two numbers is 256000 and the sum of the numbers is 1000. The numbers are",
+        "answer": "The difference between the squares of two numbers is 256000 and the sum of the numbers is 1000. The numbers are 600 and 400. The answer is (a)."
+    },
+    {
+        "question": "An astronaut weighing 211 pounds on Earth would weigh 182 pounds on Venus. The weight of the astronaut on Venus would be approximately what percent of the astronaut\u2019s weight on Earth?",
+        "answer": "The weight of the astronaut on Venus would be 182/211*100=86%. The answer is (d)."
+    },
+    {
+        "question": "A man walks at 5 kmph for 6 hrs and at 4 kmph for 12 hrs. His average speed is",
+        "answer": "The man walks at 5 kmph for 6 hrs and at 4 kmph for 12 hrs. So the total time taken is 18 hrs. The man walks for 18 hrs at 4 kmph. So the total distance covered is 72 km. The man walks for 6 hrs at 5 kmph. So the total distance covered is 30 km. So the total distance covered is 102 km. The man walks for 18 hrs at 4 kmph. So the total distance covered is 72 km. So the total distance covered is 102 km. The man walks for 6 hrs at 5 kmph. So the total distance covered is 30 km. So the total distance covered is 102 km. The man walks for 18 hrs at 4 kmph. So the total distance covered is 72 km. So the total distance covered is 102 km. The man walks for 6 hrs at 5 kmph. So the total distance covered is 30 km. So the total distance covered is 102 km. The man walks for 18 hrs at 4 kmph. So the total distance covered is 72 km. So the total distance covered is 102 km. The man wal"
+    },
+    {
+        "question": "[(272 - 32) (124 + 176)] / (17 x 15 - 15) = ?",
+        "answer": "The answer is (E)."
+    },
+    {
+        "question": "Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family?",
+        "answer": "The median income is $3000. So the income of the family is $9000-$3000=$6000. So the income of each member is $6000/6=$1000. So there are 6 members in the family. The answer is (E)."
+    },
+    {
+        "question": "The bus fare of one adult is Rs. 140 from Ranchi to Patna and bus fare of a child is half the fare of one adult between the same places. What is the total bus fare of 4 adults and 3 children between same places?",
+        "answer": "The total bus fare of 4 adults and 3 children between same places is Rs. 670. The answer is (C)."
+    },
+    {
+        "question": "An organization decided to raise Rs. 6 lakh by collecting equal contribution from each of its employees. If each of them had contributed Rs. 60 extra, the contribution would have been Rs. 6.24 lakh. How many employees are there in that organization?",
+        "answer": "The total contribution of the employees is Rs. 6 lakh. If each of them had contributed Rs. 60 extra, the contribution would have been Rs. 6.24 lakh. So the total contribution of the employees is Rs. 6.24 lakh. The total number of employees is 6.24 lakh/6 lakh=105. The answer is (D)."
+    },
+    {
+        "question": "If there are 5,000 voters out of which 20% are not eligible to vote and there are two candidates contesting. The winning candidate won by 15% of the votes. What is the total number of votes he got ?",
+        "answer": "The winning candidate won by 15% of the votes. So the total number of votes he got would be 15% of 5000. 15% of 5000=750. So the winning candidate got 750 votes. The answer is (a)."
+    },
+    {
+        "question": "For bringing each copper coin from the bottom of a river, a coin-diver gets 20 cents, and for each brass coin she gets 25 cents. If after one dive, she got $3.40. What is the minimum number of copper coins that she brought?",
+        "answer": "The minimum number of copper coins that she brought is 4. The answer is (a)."
+    },
+    {
+        "question": "Ram and Krishna start from A and B, respectively, at the same time and travel towards each other at constant speeds of 20m/s and 40m/s, respectively, along the same route. Ram meets Krishna at point C on the road after 10 seconds. Find the total distance between A to B.",
+        "answer": "Ram and Krishna travel at 20m/s and 40m/s respectively. So the distance between them is 20m/s-40m/s=(-20m/s). So the distance between them is 20m/s*10s=200m. So the distance between A and B is 200m+200m=400m. The answer is (a)."
+    },
+    {
+        "question": "Car \u2018X\u2019 covers a distance of 320 kms in 8 hours and car \u2018Y\u2019 covers a distance of 415 kms in 5 hrs. What is the difference in the speed of the two cars?",
+        "answer": "Car \u2018X\u2019 covers a distance of 320 kms in 8 hours. So the speed of car \u2018X\u2019 is 320/8=40kms/hr. Car \u2018Y\u2019 covers a distance of 415 kms in 5 hrs. So the speed of car \u2018Y\u2019 is 415/5=83kms/hr. The difference in the speed of the two cars is 83-40=43kms/hr. The answer is (C)."
+    },
+    {
+        "question": "Winson runs from his home to his school at an average speed of 10 miles/hr, and then walks home along the same route at an average speed of 5 miles/hr. If the whole journey took one hour, how many miles is his home from his school?",
+        "answer": "The total distance is 10 miles + 5 miles = 15 miles. The answer is (a)."
+    },
+    {
+        "question": "A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day?",
+        "answer": "The store sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, then the store had to begin the day with 80 yellow golf balls. The answer is (a)."
+    },
+    {
+        "question": "A flagstaff 17.5 metre high casts a shadow of length 40.25 metre. The height of building, which casts a shadow of length 28.75 metre under similar conditions will be :",
+        "answer": "The height of the building is 12.5 metre. The answer is (a)."
+    },
+    {
+        "question": "Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other?",
+        "answer": "The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travels at 52 mph. So the first car travels at 55 mph and the second car travel"
+    },
+    {
+        "question": "The events A and B are independent. The probability that event A occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. What is the probability that event B occurs?",
+        "answer": "The probability that event A occurs is 0.6. The probability that at least one of the events A or B occurs is 0.96. So the probability that event B occurs is 0.96-0.6=0.36. The answer is (e)."
+    },
+    {
+        "question": "The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is?",
+        "answer": "The volume of a cube is V=s^3, where s is the side length. The volume of a sphere is V=4/3\u03c0r^3, where r is the radius. The radius of the sphere is r=s/2. So the volume of the sphere is V=4/3\u03c0(s/2)^3. The volume of the cube is V=s^3. So the ratio of the volumes of the cube to that of the sphere is 4/3\u03c0(s/2)^3/s^3=2/\u03c0. The answer is (A)."
+    },
+    {
+        "question": "My wall contains 8 red colour ties, 13 violet colour ties,10 blue colour ties, 5 pink colour ties, 4 green colour ties. If electricity is gone and I want at least two ties of same colour then how many ties I should take out from my rack?",
+        "answer": "The total number of ties is 8+13+10+5+4=38. So the minimum number of ties that I should take out is 38-2=36. The answer is (D)."
+    },
+    {
+        "question": "Find 25/12*5",
+        "answer": "25/12*5=25/12*5/12=25*5/12=25*5/12*12=25*5/12*12*12=25*5/12*12*12*12=25*5/12*12*12*12*12=25*5/12*12*12*12*12*12=25*5/12*12*12*12*12*12*12=25*5/12*12*12*12*12*12*12*12=25*5/12*12*12*12*12*12*12*12*12=25*5/12*12*12*12*12*12*12*12*12*12=25*5/12*12*12*12*12*12*12*12*12*12*12=25*5/12*12*12*12*12*12*12*12"
+    },
+    {
+        "question": "The value of log2 4 is:",
+        "answer": "log2 4=log2 2^2=log2 2^2^2=log2 2^4=2. The answer is (a)."
+    },
+    {
+        "question": "Calculate the percentage gain of a merchant who purchased 90 kg of oranges for Rs. 450 and sold the whole lot at the rate of Rs. 7.50 per kg.",
+        "answer": "The merchant sold the whole lot at the rate of Rs. 7.50 per kg. So the profit would be 7.50-450=375. The profit is 375/90=4.1666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666"
+    },
+    {
+        "question": "A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?",
+        "answer": "The train M leaves City A at 5am and reaches City B at 9am. So the train M travels for 4hrs. The train N leaves City B at 7am and reaches City A at 1030am. So the train N travels for 5hrs. The train M and the train N cross each other at 1pm. The answer is (D)."
+    },
+    {
+        "question": "Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile?",
+        "answer": "Janice bikes at 10 miles per hour, while Jennie bikes at 20. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jennie bikes 20 miles in 1 hour. So, Janice bikes 10 miles in 1 hour, while Jenn"
+    },
+    {
+        "question": "In an exam, a candidate secured 504 marks of the maximum mark of M. If the maximum mark M is converted into 800 marks, he would have secured 420 marks. What is the value of M?",
+        "answer": "The maximum mark is 800. So the value of M is 800/504=1.6. The answer is (a)."
+    },
+    {
+        "question": "If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending?",
+        "answer": "If 10 bottles of soda are needed for 8 people, then 10/8=1.25. So 12/8=1.5. So 1.5 bottles of soda are needed for 12 people. The answer is (d)."
+    },
+    {
+        "question": "Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts.",
+        "answer": "The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that is 6 inches tall. The shorter ant casts a shadow that is 4 inches tall. The taller ant casts a shadow that i"
+    },
+    {
+        "question": "The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:",
+        "answer": "The semi-perimeter of the room is 2*5=10m. The height of the room is 2.5m. The area of the room is 10*2.5=25m^2. The area of the doors and windows is 15m^2. The area of the paper is 260m^2. The area of the paper is 260/25=10.4m^2. The area of the paper is 10.4m^2/50=0.208m^2. The area of the paper is 0.208m^2/2=0.104m^2. The area of the paper is 0.104m^2/2=0.052m^2. The area of the paper is 0.052m^2/2=0.026m^2. The area of the paper is 0.026m^2/2=0.013m^2. The area of the paper is 0.013m^2/2=0.0065m^2. The area of the paper is 0.0065m^2/2=0.00325m^2. The area of the paper i"
+    },
+    {
+        "question": "The sum of k consecutive integers is 51. If the least integer is -50, then k =",
+        "answer": "The sum of k consecutive integers is 51. If the least integer is -50, then k = 102. The answer is (e)."
+    },
+    {
+        "question": "In a survey of students, each student selected from a list of 10 songs the 2 songs that the student liked best. If each song was selected 5 times, how many students were surveyed?",
+        "answer": "If each student selected 2 songs, then each student selected 10 songs. If each song was selected 5 times, then each student selected 50 songs. 10*50=500. 500/2=250. The answer is (e)."
+    },
+    {
+        "question": "If one of the roots of the quadratic equation x^2 + mx + 22 = 0 is 1.5, then what is the value of m?",
+        "answer": "The quadratic equation x^2 + mx + 22 = 0 has two roots. One of the roots is 1.5. So the other root is 1.5-1.5=0. The other root is 0. The value of m is 22. The answer is (D)."
+    },
+    {
+        "question": "At an election meeting 10 speakers are to address the meeting. The only protocol to be observed is that whenever they speak the pm should speak before the mp and the mp should speak before the mla. In how many ways can the meeting be held?",
+        "answer": "The number of ways in which the meeting can be held is 10!/3. The answer is (a)."
+    },
+    {
+        "question": "Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?",
+        "answer": "The new selling price of each article would be $10. The answer is (c)."
+    },
+    {
+        "question": "In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?",
+        "answer": "The number of children in the row is 26. The answer is (C)."
+    },
+    {
+        "question": "10kg of a mixture contains 30% sand and 70% clay. In order to make the mixture contain equal quantities of clay and sand how much of the mixture is to be removed and replaced with pure sand?",
+        "answer": "The mixture contains 30% sand and 70% clay. So the mixture contains 30/100*10kg=3kg of sand and 70/100*10kg=7kg of clay. So the mixture contains 10kg of sand and 10kg of clay. So the mixture contains 10kg of sand and 10kg of clay. So the answer is (a)."
+    },
+    {
+        "question": "A man spends 70% of his income. If his income increases by 20%, then what will be his new expenditure?",
+        "answer": "If his income increases by 20%, then his expenditure will increase by 20% of 70% of his income. 20% of 70% of his income is 14%. So his new expenditure will be 140% of his income. 140% of his income is 1.4 times his income. So his new expenditure will be 1.4 times his income. The answer is (a)."
+    },
+    {
+        "question": "What is the greatest number of identical bouquets that can be made out of 28 white and 98 red tulips if no flowers are to be left out? (Two bouquets are identical whenever the number of red tulips in the two bouquets is equal and the number of white tulips in the two bouquets is equal.)",
+        "answer": "The number of bouquets that can be made out of 28 white and 98 red tulips is 28C2+98C2=28*27+98*97=1488. The answer is (D)."
+    },
+    {
+        "question": "Sharon works for 5 hours to earn enough tips to buy an ice cream cake, while Karen works for 4. After how many hours will they be able to buy the cake together?",
+        "answer": "Sharon works for 5 hours to earn enough tips to buy an ice cream cake, while Karen works for 4. After how many hours will they be able to buy the cake together?"
+    },
+    {
+        "question": "If x<0, y>0, and |x^3| > |y^2|, which of the following must be true?",
+        "answer": "If x<0, y>0, and |x^3| > |y^2|, then x^3 > y^2. So x^3 > y^2 > x^2. So x > y. The answer is (a)."
+    },
+    {
+        "question": "Printer A and Printer B can each print 1\u20442 page per second. How long will it take both printers working together to print 100 pages?",
+        "answer": "Printer A can print 1\u20442 page per second. So it will take 100 pages to print 100 pages. So it will take 100 seconds. The answer is (A)."
+    },
+    {
+        "question": "Two ants are moving from their farms towards each other. Ant A is moving at a speed of 9 cm per hour and ant B is moving at a speed of 6 cm per hour. If the farms are 75 cm away from each other, what will be the distance (in cm) that ant A travels until meeting ant B?",
+        "answer": "The distance that ant A travels is 9*1=9cm. The distance that ant B travels is 6*1=6cm. The distance that ant A travels is 9-6=3cm. The answer is (a)."
+    },
+    {
+        "question": "Roberts has a property worth of $1023.65. But in a record his property worth is written as greatest positive even integer less than or equal to his property worth and it is divisible by 100. Find the difference between actual property and recorded property worth?",
+        "answer": "The property worth is $1023.65. So the recorded property worth would be the greatest positive even integer less than or equal to $1023.65. The greatest positive even integer less than or equal to $1023.65 is $1000. So the difference between actual property and recorded property worth is $23.65. The answer is (a)."
+    },
+    {
+        "question": "A man spend 810 in buying trouser at Rs 70 each and shirt at 30 each. What will be the ratio of trouser and shirt when the maximum number of trouser is purchased?",
+        "answer": "The man spent 810 in buying 8 trouser and 10 shirt. So the ratio of trouser and shirt is 8:10. The answer is (A)."
+    },
+    {
+        "question": "If a subscription for 15 issues of a magazine costs $42.00 and represents a saving of 25 percent of the cover prices, what is the cover price per issue?",
+        "answer": "The cover price per issue is $7.73. The answer is (a)."
+    },
+    {
+        "question": "Christopher and Jonathan were having bets. They decide that a coin will be flipped twenty times and each time it turns heads, Christopher will give $2 to Jonathan and each time it turns out to be Tails, Jonathan will give 3$ to Christopher. After flipping for twenty times none of the both won or lost any amount.\nHow many times did the coin landed on Heads ?",
+        "answer": "The coin landed on heads 10 times. The answer is (a)."
+    },
+    {
+        "question": "Allen starts from X, goes to Y. At the same time Bob starts from Y and goes towards X. Once Allen reaches Y he changes his direction and returns to X. Once Bob reaches X, he changes his direction and returns to Y. Throughout Allen travels at 54 kmph and Bob travels at 78kmph. By the time they meet for the second time, Bob covers 48 km more than Allen. Find the distance between X and Y.",
+        "answer": "Let the distance between X and Y be x. Then, Allen travels 54km in 1hr. So, he travels 54/54kmph=1km in 1hr. Bob travels 78km in 1hr. So, he travels 78/78kmph=1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels 1km in 1hr and Bob travels 1km in 1hr. So, Allen travels"
+    },
+    {
+        "question": "Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires?",
+        "answer": "The average cost per year of the new tires is $180/4=45. The cost of repairing the current tires is $40/1=40. The average cost per year of the new tires is 45/40=1.125. The answer is (a)."
+    },
+    {
+        "question": "A rope 20 meters long is cut into two pieces. If the length of one piece of rope is 3 meters shorter than the length of the other, what is the length, in meters, of the longer piece of rope?",
+        "answer": "The length of the longer piece of rope is 20-3=17 meters. The answer is (a)."
+    },
+    {
+        "question": "Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity?",
+        "answer": "The bond was purchased for $5,000. The interest rate was 12% compounded every six months. So the interest rate was 6% compounded every 6 months. So the interest rate was 6/2=3%. So the interest that was accrued was $5,000*3%=$150. The answer is (a)."
+    },
+    {
+        "question": "Decipher the following multiplication table:\nM A D\nB E\n-------------\nM A D\nR A E\n-------------\nA M I D",
+        "answer": "The first row is 9*2=18. The second row is 9*2=18. The third row is 9*2=18. The fourth row is 9*2=18. The fifth row is 9*2=18. The sixth row is 9*2=18. The seventh row is 9*2=18. The eighth row is 9*2=18. The ninth row is 9*2=18. The tenth row is 9*2=18. The eleventh row is 9*2=18. The twelfth row is 9*2=18. The thirteenth row is 9*2=18. The fourteenth row is 9*2=18. The fifteenth row is 9*2=18. The sixteenth row is 9*2=18. The seventeenth row is 9*2=18. The eighteenth row is 9*2=18. The nineteenth row is 9*2=18. The twentieth row is 9*2=18. The twenty-first row is 9*2=18. The twenty-second row is 9*2=18. The twenty-third row is 9*2=1"
+    },
+    {
+        "question": "Sachin was twice as old as Ajay 10 years back. How old is Ajay today if Sachin will be 40 years old in 10 years",
+        "answer": "Sachin was twice as old as Ajay 10 years back. So Sachin was 20 years old 10 years back. So Ajay was 10 years old 10 years back. So Ajay is 20 years old today. The answer is (A)."
+    },
+    {
+        "question": "What will be the cost of gardening 1-metre \u2013 broad boundary around a rectangular plot having perimeter of 340 metres at the rate of 10 per square metre?",
+        "answer": "The perimeter of the plot is 340m. The width of the plot is 1m. The area of the plot is 1m*340m=340m^2. The cost of gardening the plot is 10*340m^2=3400m^2. The answer is (a)."
+    },
+    {
+        "question": "Last year, 34 percent of Ace Book Company's sales revenue came from the sale of novels. Of the remaining revenue, 1/3 was from the sale of biographies. The company's revenue from the sale of novels was approximately, how many times its revenue from the sale of biographies?",
+        "answer": "The company's revenue from the sale of novels was approximately, how many times its revenue from the sale of biographies?"
+    },
+    {
+        "question": "A bee bypasses 0.05% of flowers it flies by because it can sense they don't have any nectar in them. How many flowers will the bee fly by to bypass 8 flowers?",
+        "answer": "The bee will bypass 8 flowers. So it will fly by 8/0.05=160 flowers. The answer is (e)."
+    },
+    {
+        "question": "Fernando purchased a university meal plan that allows him to have a total of 3 lunches and 3 dinners per week. If the cafeteria is closed on weekends and Fernando always goes home for a dinner on Friday nights, how many options does he have to allocate his meals?",
+        "answer": "The options are 5C3*4C3,5C4*4C2,5C2*4C4,5C6*4C5,4C3*4C3. The answer is (a)."
+    },
+    {
+        "question": "What should come in place of the question mark(?) in each of the following questions ?\na2 - b2/(a + b)2 (?)=(a - b)2",
+        "answer": "The question mark is the square root of the expression. So the answer is (a)."
+    },
+    {
+        "question": "A number is as much greater than 36 as is less than 86. Find the Number.",
+        "answer": "The number is 86. The answer is (a)."
+    },
+    {
+        "question": "A certain phone manufacturer ships its products in crates. A crate consists of p pallets, and each pallet holds 1250 phones. If the manufacturer ships 4 crates, how many phones are shipped?",
+        "answer": "The manufacturer ships 4 crates, so 4*1250=5000. The answer is (a)."
+    },
+    {
+        "question": "A can construct a wall in 40 min and B can construct the wall in 45 min. How many hours is needed to contruct a wall if both the person working together.",
+        "answer": "If A can construct a wall in 40 min and B can construct the wall in 45 min,then A can construct the wall in 40/2=20 min and B can construct the wall in 45/2=22.5 min. So the total time needed to construct the wall is 20+22.5=42.5 min. The answer is (e)."
+    },
+    {
+        "question": "An express electric train takes exact three seconds to enter tunnel which is 1 mile long.\nIf train is traveling at 120 mile an hour, how long will it take to pass completely through the tunnel ?",
+        "answer": "The train takes 3 seconds to enter the tunnel. So it takes 3 seconds to travel 1 mile. So the train takes 3 seconds to travel 1 mile/120 miles/hr=1/120 miles. So the train takes 1/120 miles/3 seconds=1/40 seconds to travel 1 mile. So the train takes 1/40 seconds*1 mile=1/40 miles to travel 1 mile. So the train takes 1/40 miles/120 miles/hr=1/4000 seconds to travel 1 mile. So the train takes 1/4000 seconds*1 mile=1/4000 miles to travel 1 mile. So the train takes 1/4000 miles/3 seconds=1/1333 seconds to travel 1 mile. So the train takes 1/1333 seconds*1 mile=1/1333 miles to travel 1 mile. So the train takes 1/1333 miles/120 miles/hr=1/1333 seconds to travel 1 mile. So the train takes 1/1333 seconds*1 mile=1/1333 miles to travel 1 mile. So the train takes 1/1333 miles/120 miles/hr"
+    },
+    {
+        "question": "A merchant receives an invoice for a motor boat for $20 000 with terms 4/30, n/100. What is the highest simple interest rate at which he can afford to borrow money in order to take advantage of the discount?",
+        "answer": "The merchant can afford to borrow money at a rate of 237.67%. The answer is (b)."
+    },
+    {
+        "question": "There are ten lime soda bottles on a table in a restaurant. They are to be served among two different groups of customers consisting of 5 members each. How many ways are there to create these 2 groups?",
+        "answer": "There are 10 bottles and 2 groups. So the number of ways to create these 2 groups is 10C2=10*9/2=45. The answer is (A)."
+    },
+    {
+        "question": "A special cereal mixture contains rice, wheat and corn in the ratio of 2:3:5. If a bag of the mixture contains 3 pounds of rice, how much corn does it contain?",
+        "answer": "The ratio of rice, wheat and corn is 2:3:5. So the ratio of rice and corn is 2:5. So 3/5 of the bag is rice and 2/5 of the bag is corn. So the bag contains 3 pounds of rice and 2 pounds of corn. The answer is (A)."
+    },
+    {
+        "question": "You can purchase one soda and two energy bars for 150 cents, or two sodas and three energy bars for 300\ncents. If the costs of the items do not change, compute the cost in cents of six sodas and seven bars.",
+        "answer": "The cost of one soda is 150 cents. The cost of one energy bar is 100 cents. The cost of two sodas and three energy bars is 300 cents. So the cost of six sodas and seven bars is 150*6+100*7=1500+700=2200 cents. The answer is (a)."
+    },
+    {
+        "question": "A pen company produces very fine quality of writing pens. Company knows that on average 10% of the produced pens are always defective so are rejected before packing. Company promises to deliver 7200 pens to its wholesaler at Rs. 10 each. It estimates the overall profit on all the manufactured pens to be 25%. What is the manufactured cost of each pen?",
+        "answer": "The manufactured cost of each pen is 7200*10*25%=Rs. 1800. The answer is (a)."
+    },
+    {
+        "question": "A two digit number exceeds the sum of the digits of that number by 18. If the digit at the unit's place is double the digit in the ten's place, what is the number?",
+        "answer": "The number is 42. The answer is (c)."
+    },
+    {
+        "question": "Suppose for any real number x, [x] denotes the greatest integer less than or equal to x. Let L(x,y) = [x] + [y] + [x + y] and R(x,y) = [2x] + [2y]. Then it is impossible to find any two positive real numbers x and y for which",
+        "answer": "L(x,y) = [x] + [y] + [x + y] = [x] + [y] + [2x + 2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2x] + [2y] = [x] + [y] + [2"
+    },
+    {
+        "question": "Three bells ring at intervals of 36 seconds, 40 seconds and 48 seconds, respectively. They start ringing together at a particular time. When they will ring together again?",
+        "answer": "The bells ring at 36,40,48 seconds. So the time between the first two rings is 36-40=4 seconds. The time between the second and third rings is 40-48=8 seconds. The time between the third and first rings is 48-36=12 seconds. So the time between the first and third rings is 4+8+12=24 seconds. So the time between the first and third rings is 24 seconds. The answer is (a)."
+    },
+    {
+        "question": "An electric pole, 14 metres high, casts a shadow of 10 metres. Find the height of a tree that casts a shadow of 15 metres under similar conditions.",
+        "answer": "The height of the tree is 21 metres. The answer is (a)."
+    },
+    {
+        "question": "At my favorite fruit stand, an orange costs 18 dollars, a pineapple costs 27 dollars, and a grape costs 15 dollars. Using the same logic, can you tell how much a mango costs?",
+        "answer": "The cost of a mango is 15 dollars. The answer is (c)."
+    },
+    {
+        "question": "In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?",
+        "answer": "The area of the triangle is equal to 1/2(base*height). So the area of the triangle is equal to 1/2(ab\u2212ay). The answer is (b)."
+    },
+    {
+        "question": "A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?",
+        "answer": "The car finishes the journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, then the speed of the car would be 60/20=3 km/hr. The answer is (e)."
+    },
+    {
+        "question": "Three friends Alan, Roger and Peter attempt to answer a question on an exam. Alan randomly guesses the answer, giving him a 1/5 probability of guessing correctly. Roger cheats by looking at the paper of the student in front of him, giving him a 2/3 probability of answering correctly. And Peter dutifully performs the calculations, then marks the answer, giving him a 5/6 probability of a correct answer. What is the probability that the question is answered correctly, but not via cheating?",
+        "answer": "The probability that the question is answered correctly, but not via cheating is 1-1/18=17/18. The answer is (A)."
+    },
+    {
+        "question": "The difference between simple interest and C.I. at the same rate for Rs.5000 for 2 years in Rs.72. The rate of interest is?",
+        "answer": "The difference between simple interest and C.I. at the same rate for Rs.5000 for 2 years in Rs.72. The rate of interest is 10%. The answer is (a)."
+    },
+    {
+        "question": "All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm?",
+        "answer": "The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. So the number of files that are infected by a worm is 2.5 times the number of files that are infected by both a virus and a worm. So the number of files that are infected by a worm is 2.5 times the number of files that are infected by both a virus and a worm. So the number of files that are infected by a worm is 2.5 times the number of files that are infected by both a virus and a worm. So the number of files that are infected by a worm is 2.5 times the number of files that are infected by both a virus and a worm. So the number of files that are infected by a worm is 2.5 times the number of files that are infected by both a virus and a worm. So the number of files that are infected by a worm is 2.5 times the number of files that are infected by both a virus and a worm. So the number of files that are infected by a worm is 2.5 times the number of files that are infected by both a virus and a worm. So the number of files that are infected by a w"
+    },
+    {
+        "question": "A father wants to divide Rs. 5100 between his two sons, Mohan and Sohan who are 23 and 24 at present. He divides the amount in such a way that if their shares are invested at compound interest at 4% p.a. they will receive equal amount on attaining the age of 26 years. Find Mohan's share.",
+        "answer": "Mohan's share is 2400. The answer is (a)."
+    },
+    {
+        "question": "What is 60% of 30% of 1400 grams?",
+        "answer": "60% of 30% of 1400 grams is 60% of 30% of 1400 grams. 60% of 30% of 1400 grams is 60% of 30% of 1400 grams. 60% of 30% of 1400 grams is 60% of 30% of 1400 grams. 60% of 30% of 1400 grams is 60% of 30% of 1400 grams. 60% of 30% of 1400 grams is 60% of 30% of 1400 grams. 60% of 30% of 1400 grams is 60% of 30% of 1400 grams. 60% of 30% of 1400 grams is 60% of 30% of 1400 grams. 60% of 30% of 1400 grams is 60% of 30% of 1400 grams. 60% of 30% of 14"
+    },
+    {
+        "question": "A certain liquid passes through a drain at a rate of w/25 gallons every x seconds. At that rate, how many minutes will it take y gallons to pass through the drain?",
+        "answer": "The rate at which the liquid passes through the drain is w/25 gallons every x seconds. So the rate at which the liquid passes through the drain is w/25 gallons every x seconds. The answer is (A)."
+    },
+    {
+        "question": "A coin made of alloy of aluminum and silver measures 2 x 15 mm (it is 2 mm thick and its diameter is 15 mm). If the weight of the coin is 30 grams and the volume of aluminum in the alloy equals that of silver, what will be the weight of a coin measuring 1 x 30 mm made of pure aluminum if silver is twice as heavy as aluminum?",
+        "answer": "The volume of aluminum in the alloy equals that of silver. So the volume of silver is 2/3 of the volume of aluminum. The volume of aluminum is 1/2 of the volume of the coin. So the volume of silver is 2/3 of 1/2 of the volume of the coin. The volume of silver is 1/6 of the volume of the coin. The volume of silver is 1/6 of 1/2 of the volume of the coin. The volume of silver is 1/12 of the volume of the coin. The volume of silver is 1/12 of 1/2 of the volume of the coin. The volume of silver is 1/24 of the volume of the coin. The volume of silver is 1/24 of 1/2 of the volume of the coin. The volume of silver is 1/48 of the volume of the coin. The volume of silver is 1/48 of 1/2 of the volume of the coin. The volume of silver is 1/96 of the volume of the coin. The volume of silver is 1/96 of 1/2 of the volume of the coin. The volume of silver is 1/192 of the volume of the coin. The volume of silver is 1/192 of 1/2"
+    },
+    {
+        "question": "If 10 is subtracted from 2/3 of a number the result is equal to sum of 40 and 1/3 of the number. Find the number",
+        "answer": "The number is 100. The answer is (a)."
+    },
+    {
+        "question": "What is the largest integral value of 'k' for which the quadratic equation x2 - 5x + k = 0 will have two real and distinct roots?",
+        "answer": "The quadratic equation x2 - 5x + k = 0 will have two real and distinct roots if k = 0. The answer is (A)."
+    },
+    {
+        "question": "900 + 5 \u00d7 12 = ?",
+        "answer": "900+5(12)=900+60=960. The answer is (e)."
+    },
+    {
+        "question": "Shweta rides at the rate of 10 km per hour but stops for 10 minutes to take rest at the end of every 15 km. How many hours will she take to cover 100 km",
+        "answer": "Shweta rides at the rate of 10 km per hour but stops for 10 minutes to take rest at the end of every 15 km. So, she rides for 100 km in 10 hours. The answer is (a)."
+    },
+    {
+        "question": "Mr.Sam takes 17 hours to go by train to a certain city and return by car. He loses 4 hours if he goes both ways by train. How long would he have taken if he had traveled by car in both ways?",
+        "answer": "Mr.Sam takes 17 hours to go by train to a certain city and return by car. He loses 4 hours if he goes both ways by train. So he takes 17-4=13 hours to go by train to a certain city and return by car. He takes 13-4=9 hours to go by car to a certain city and return by car. So he takes 9+9=18 hours to go by car to a certain city and return by car. The answer is (C)."
+    },
+    {
+        "question": "Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day?",
+        "answer": "The dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. So, the dog ate 1/3 of the food in the bowl at 8:00 am, 1/3 of the food in the bowl at 9:00 am, 1/3 of the food in the bowl at 10:00 am, and so on. At noon, the dog had eaten 1/3 of the food in the bowl at 8:00 am, 1/3 of the food in the bowl at 9:00 am, 1/3 of the food in the bowl at 10:00 am, and so on. So, the dog had eaten 1/3 of the food in the bowl at 8:00 am, 1/3 of the food in the bowl at 9:00 am, 1/3 of the food in the bowl at 10:00 am, and so on. So, the dog had eaten 1/3 of the food in the bowl at 8:00 am, 1/3 of the food in the bowl at 9:00 am, 1/3 of the food in the bowl at 10:"
+    },
+    {
+        "question": "John conducted a survey about car color. 60% of the people who took the survey were women. Of the men who were surveyed, 75% preferred red cars over green cars. If 10 men liked green cars more than red, how many people took the survey?",
+        "answer": "60% of the people who took the survey were women. Of the men who were surveyed, 75% preferred red cars over green cars. If 10 men liked green cars more than red, how many people took the survey?"
+    },
+    {
+        "question": "How many ways A boy can reach the top of stairs which contain 10 steps, when he can take either one or two steps every time?",
+        "answer": "There are 10 ways to reach the top of the stairs. The answer is (a)."
+    },
+    {
+        "question": "IF one gallon of soft drink is made of 40% orange juice and 60% water, how many additional gallons of orange juice must be mixed in order to make the orange juice 60% of the soft drink?",
+        "answer": "The soft drink is made of 40% orange juice and 60% water. So 40% of the soft drink is orange juice. So 60% of the soft drink is water. So the soft drink is 100% of the orange juice and water. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the orange juice. So the soft drink is 100% of the"
+    },
+    {
+        "question": "What is the units digit of 9^3-7?",
+        "answer": "9^3-7=9^3-9*7=9^3-63=9^3-60-3=9^3-57=9^3-54-3=9^3-51-3=9^3-48-3=9^3-45-3=9^3-42-3=9^3-41-3=9^3-40-3=9^3-39-3=9^3-38-3=9^3-37-3=9^3-36-3=9^3-35-3=9^3-34-3=9^3-33-3=9^3-32-3=9^3-31-3=9^3-30-3=9^3-29-3=9^3-28-3=9^3-27-3=9^3-26-3=9^3-25-3=9^3-24-3=9^3-23-3=9^3-22-3=9^3-21-3=9^3-20-3=9^3-19-3=9^3-18-3=9^"
+    },
+    {
+        "question": "5 horses are in a race. Mr.Jain selects two of horses at random and bets on them. The probability that he selected the winning horse is",
+        "answer": "The probability of selecting the winning horse is 1/5. The answer is (a)."
+    },
+    {
+        "question": "On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is:",
+        "answer": "The remainder is 2272 mod 875=2272 mod 100=22. The sum of the digits of N is 2+2+7+2=11. The answer is (a)."
+    },
+    {
+        "question": "On a test the passing students had an average of 83, while the failing students had an average\nof 55. If the overall class average was 76, what percent of the class passed?",
+        "answer": "The overall class average was 76. The passing students had an average of 83. The failing students had an average of 55. So the difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the two averages is 28. The difference between the"
+    },
+    {
+        "question": "The average wages of a worker during a fortnight comprising of 15 consecutive working days was $90 per day. During the first 7 days, his average wage was $87 per day and the average wage during the last 7 days was $92 per day. What was his wage on the 8th day?",
+        "answer": "The average wage of the worker during the first 7 days was $87*7=609$. The average wage of the worker during the last 7 days was $92*7=644$. The average wage of the worker during the fortnight was $609+644=1253. The average wage of the worker on the 8th day was $1253/15=83. The answer is (a)."
+    },
+    {
+        "question": "Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new numbers are in the ratio 12:23. The smaller number is?",
+        "answer": "The smaller number is 21. The answer is (a)."
+    },
+    {
+        "question": "If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained. If Rahul is 2 yrs younger to Denis whose age is 5 yrs, then what is Ajay's present age?",
+        "answer": "Let the present age of Ajay be x. Then, 6yrs-x=18. So, x=18-6yrs. Now, Rahul's age is 18-6yrs-2yrs=14yrs. So, Ajay's present age is 40. The answer is (a)."
+    },
+    {
+        "question": "Anna has 4 books. If she decide to arrange the 4 books in every possible combination and moved just one book every minute, how long would it taken by her ?",
+        "answer": "The number of possible combinations is 4!/(4-1)! = 4!/3! = 4*3*2 = 24. So it would take 24 minutes. The answer is (D)."
+    },
+    {
+        "question": "The manufacturer of tyres is offering a 20% discount on the price of its tubeless tyres. Some retailers are offering additional discounts. If a retailer offers an additional 20% discount, then what is the total discount available at that retailer?",
+        "answer": "The manufacturer is offering a 20% discount on the price of its tubeless tyres. So the price of the tubeless tyres is 80% of the original price. If a retailer offers an additional 20% discount, then the price of the tubeless tyres is 60% of the original price. So the total discount available at that retailer is 60%-20%=40%. The answer is (D)."
+    },
+    {
+        "question": "A rectangular parking space is marked out by painting three of its sides. If the length of the unpainted side is 9 feet, and the sum of the lengths of the painted sides is 37 feet, then what is the area of the parking space in square feet?",
+        "answer": "The area of the parking space is 37/2=18.5 square feet. The answer is (a)."
+    },
+    {
+        "question": "Peter wants to find 10 additional people to form a scavenger hunt team with him. If he has 10 friends who would like to participate, how many choices does he have for forming his team?",
+        "answer": "Peter has 10 friends who would like to participate. So he has 10 choices for forming his team. The answer is (a)."
+    },
+    {
+        "question": "The average weight of 10 oarsmen in a boat is increased by 1.8 kg when one of the crew, who weighs 53 kg is replaced by a new man. Find the weight of the new man.",
+        "answer": "The average weight of 10 oarsmen in a boat is increased by 1.8 kg when one of the crew, who weighs 53 kg is replaced by a new man. Find the weight of the new man."
+    },
+    {
+        "question": "A box contains a certain number of balls, marked successively from 1 to n. If there are 45 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected, then what is the value of n?",
+        "answer": "There are 45 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected. This means that the ball with number 3 marked on it is not selected in 45 of the 46 possible ways. This means that the ball with number 3 marked on it is selected in 1 of the 46 possible ways. This means that there are 45 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected. This means that the ball with number 3 marked on it is selected in 1 of the 45 possible ways. This means that there are 46 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected. This means that the ball with number 3 marked on it is selected in 1 of the 46 possible ways. This means that there are 46 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected. This means that the ball with number 3 marked on it is selected in 1 of the 46 possible ways. This means that there are 46 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected. This means that the ball with"
+    },
+    {
+        "question": "If Q, a positive integer, has 5 factors, which of the following must be true about Q?\nI. Q is the square of a prime number.\nII. Q is the fourth power of a prime number.\nIII. Q is the product of two prime numbers.",
+        "answer": "Q is the product of two prime numbers. So Q is the product of two prime numbers. The answer is (D)."
+    },
+    {
+        "question": "If 6x - y = 24 and y = 3x, what is the value of x?",
+        "answer": "6x - y = 24 and y = 3x. So 6x - 3x = 24. This simplifies to 3x = 24. So x is equal to 8. The answer is (a)."
+    },
+    {
+        "question": "You can rent DVDs at a local video store for $4.00 per movie without a membership. However, if you purchase a membership for $7.00 per month, you can rent DVDs for $2.00 each. What is the minimum amount of DVDs you would have to rent to make it worth it to purchase the membership?",
+        "answer": "The minimum amount of DVDs you would have to rent to make it worth it to purchase the membership is 2. The answer is (b)."
+    },
+    {
+        "question": "A bag of cat food weighs 7 pounds and 4 ounces. How much does the bag weigh in ounces?",
+        "answer": "The cat food weighs 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 ounces. 7 pounds and 4 ounces is equal to 7 pounds and 4 oun"
+    },
+    {
+        "question": "By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?",
+        "answer": "Jack can clean a yacht in 12 hours. So, he can clean 12/3 of the yacht in 12 hours. Jill can clean 12/3 of the yacht in 50 hours. So, Jill can clean the remaining work in 50/5=10 hours. The answer is (D)."
+    },
+    {
+        "question": "Professors borrowed Rs. 5000 from the university at simple interest. After 3 years, the university got Rs. 300 on interest. What was the rate of interest per annum?",
+        "answer": "The rate of interest per annum is 8%. The answer is (b)."
+    },
+    {
+        "question": "In a sale, a discount of 20% was available on all the articles. If Vinit purchased an article for Rs.4578 in the sale. What was the actual selling price of the article?",
+        "answer": "The actual selling price of the article would be 4578*120/100=5040. The answer is (c)."
+    },
+    {
+        "question": "If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?",
+        "answer": "If 27 bottles of soda cost A cents, then 27 bottles of soda cost 2700/A cents. So 2700/A cents=AB. So AB=2700/A cents. The answer is (C)."
+    },
+    {
+        "question": "A bag contains 11 candy bars: three cost 50 cents each, four cost $1 each and four cost $2\neach. How many ways can 3 candy bars be selected from the 11 candy bars so that the total cost is more than $4?",
+        "answer": "The total cost of 3 candy bars is 50+1+1=52. The total cost of 4 candy bars is 50+1+1+1=53. The total cost of 4 candy bars is 50+1+1+2=54. So the total cost of 3 candy bars is more than $4 if and only if the total cost is 52 or more. So the answer is (a)."
+    },
+    {
+        "question": "At a conference, one team is made up of 4 men and 4 women. Four presenters are chosen to present the team's findings in front of the entire conference. How many different groups of presenters can be chosen from the team if a team cannot be composed of men only or women only? (Two groups of presenters are considered different if at least one presenter is different.)",
+        "answer": "There are 4 men and 4 women. So there are 8 people in total. There are 8!/2!=40 ways to choose 4 people from 8. So there are 40 ways to choose 4 men and 4 women. The answer is (A)."
+    },
+    {
+        "question": "Exactly 2/5th of the children in a certain class are girls. If there are 100 boys in the class, how many girls are in the class?",
+        "answer": "2/5th of the children in a certain class are girls. So 2/5th of 100 is 20. So there are 20 girls in the class. The answer is (a)."
+    },
+    {
+        "question": "Two numbers are said to be relatively prime if they share no common positive factors other than 1. Set S contains the set of integers from 1 to 1,000, inclusive. What is the probability that a number chosen from S is relatively prime to 1,000?",
+        "answer": "The probability that a number chosen from S is relatively prime to 1,000 is 2/7. The answer is (e)."
+    },
+    {
+        "question": "At the of his one-year investment, Charles received $54,080, including interest and principal from a certain investment. If the investment paid an annual interest of 8 percent compounded semi-annually, which of the following is the amount of money that Charles originally invested?",
+        "answer": "The amount of money that Charles originally invested is $54,080-54,000=80. The answer is (E)."
+    },
+    {
+        "question": "Joe's age, Joe's sister's age and Joe\u2019s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father. Find the age of Joe's father?",
+        "answer": "Joe's age, Joe's sister's age and Joe\u2019s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father."
+    },
+    {
+        "question": "If one third of 3/4 of a number is 21. Then, find the number?",
+        "answer": "3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So 3/4 of 3/4 of a number is 21. So"
+    },
+    {
+        "question": "If m > 0, y > 0, and x is m percent of 4y, then, in terms of y, m is what percentage of x?",
+        "answer": "If m > 0, y > 0, and x is m percent of 4y, then, in terms of y, m is what percentage of x?"
+    },
+    {
+        "question": "A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner.",
+        "answer": "The man can eat 6 different types of fruit for breakfast and 8 different types of vegetables for dinner. There are 6! ways to choose the fruit and 8! ways to choose the vegetables. So the answer is (A)."
+    },
+    {
+        "question": "There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?",
+        "answer": "The probability of exactly 4 of the 5 voters voting in the last election is 4/5*90%=45%. The answer is (D)."
+    },
+    {
+        "question": "Alice wants to put up fencing around three sides of her rectangular yard and leave one side of 10 meters unfenced. If the yard has an area of 240 square meters, how many meters of fencing does she need?",
+        "answer": "The area of the yard is 240 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing is 240 square meters. The area of the yard without fencing is 10 square meters. The area of the yard with fencing"
+    },
+    {
+        "question": "John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made?",
+        "answer": "The first letter and the third letter must be different from each other and are both consonant. So there are 20 consonants to choose from. The middle letter must be a vowel. So there are 5 vowels to choose from. So there are 20*5=100 ways to choose the first letter and the third letter. There are 100*100=10,000 ways to choose the middle letter. So there are 10,000*100=1,000,000 ways to choose the first letter, the third letter, and the middle letter. So there are 1,000,000 codes. The answer is (E)."
+    },
+    {
+        "question": "What is the sum of three consecutive integers whose product can be expressed as 727+728+729.",
+        "answer": "The sum of three consecutive integers is 30. The product of the three integers is 727+728+729. So the sum of the three integers is 30. The answer is (a)."
+    },
+    {
+        "question": "The capacity of a tank of dimensions (8 m \u00d7 6 m \u00d7 2.5 m) is",
+        "answer": "The volume of the tank is 8m*6m*2.5m=120m3. The answer is (a)."
+    },
+    {
+        "question": "The population of a city is 5265526. If there are 4169516 adults in the city, how many children are there in the city?",
+        "answer": "The population of the city is 5265526. There are 4169516 adults in the city. So the number of children in the city is 1095961. The answer is (a)."
+    },
+    {
+        "question": "It takes a worker 9 minutes to drive from home to work at an average rate of 20 kilometers per hour. How many minutes will it take the worker to cycle from home to work along the same route at an average rate of 6 kilometers per hour?",
+        "answer": "The worker will take 9 minutes to drive from home to work at an average rate of 20 kilometers per hour. The worker will take 9 minutes to cycle from home to work at an average rate of 6 kilometers per hour. The worker will take 9 minutes to cycle from home to work at an average rate of 6 kilometers per hour. The answer is (a)."
+    },
+    {
+        "question": "Two friends are eating a jar full of candies. Had P eaten alone, it would have taken him 10 minutes to finish the candies in the jar. Had Q eaten alone, it would have taken her 5 minutes to finish half the jar. Since both of them are eating simultaneously, how many minutes would it take them to empty the jar?",
+        "answer": "P can eat 10 candies in 10 minutes. Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat 10 candies in 10 minutes and Q can eat 5 candies in 5 minutes. So P can eat"
+    },
+    {
+        "question": "A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make?",
+        "answer": "The profit is 20% of the price. So the profit is 20% of 1.25, which is 0.25. So the profit is 25 cents. The answer is (a)."
+    }
+]

@@ -1,0 +1,1 @@
+{"directed": true, "multigraph": false, "graph": {}, "nodes": [{"value": "4", "op": ["GCD"], "id": 1}, {"value": "8", "op": [], "id": 2}, {"value": "12", "op": [], "id": 3}, {"value": "48", "op": [], "id": 4}], "links": [{"source": 2, "target": 1}, {"source": 3, "target": 1}, {"source": 4, "target": 1}]}
