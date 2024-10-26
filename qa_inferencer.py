@@ -167,6 +167,8 @@ class Inferencer:
                 question=backup[i]['Body'] + ' ' + backup[i]['Question']
             elif self.cfg.task_name == 'gsm8k' or self.cfg.task_name == 'folio':
                 question=backup[i]['question']
+            elif self.cfg.task_name == 'prontoqa':
+                question=backup[i]['Question']
             else:
                 raise NotImplementedError
 

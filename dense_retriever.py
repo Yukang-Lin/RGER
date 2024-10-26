@@ -213,14 +213,14 @@ class DenseRetriever:
                     # for match graph index and candidate index
                     nx_candidates.append(nx_candidate)
                     counter+=1
-            if self.cfg.task_name=='folio':
-                G=graph_from_networkx(nx_candidates)
-                kernel=ShortestPath(normalize=True,with_labels=False)
+            if self.cfg.task_name=='folio' or self.cfg.task_name=='prontoqa':
+                # G=graph_from_networkx(nx_candidates)
+                # kernel=ShortestPath(normalize=True,with_labels=False)
                 
                 # kernel = RandomWalk(normalize=True)
                 # G = graph_from_networkx(nx_candidates)
-                # G = graph_from_networkx(nx_candidates,node_labels_tag='label')
-                # kernel = WeisfeilerLehman(n_iter=self.cfg.n_iter,normalize=True,base_graph_kernel=VertexHistogram)
+                G = graph_from_networkx(nx_candidates,node_labels_tag='label')
+                kernel = WeisfeilerLehman(n_iter=self.cfg.n_iter,normalize=True,base_graph_kernel=VertexHistogram)
             else:
                 G=graph_from_networkx(nx_candidates,node_labels_tag='label')
                 kernel = WeisfeilerLehman(n_iter=self.cfg.n_iter,normalize=True,base_graph_kernel=VertexHistogram)
@@ -314,7 +314,7 @@ def nx_graph_dict(pth, task_name, model_name):
         connected=num==1
         return G,var,connected
     
-    if task_name=='folio':
+    if task_name=='folio' or task_name=='prontoqa':
         build_nx_graph=partial(build_logic_graph)
     else:
         build_nx_graph=partial(build_math_graph)
